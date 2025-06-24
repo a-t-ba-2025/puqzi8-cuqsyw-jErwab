@@ -1,0 +1,3752 @@
+[
+  {
+    "text": "Darlehensvertrag",
+    "bbox": [
+      765,
+      802,
+      1762,
+      915
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zwischen",
+    "bbox": [
+      1789,
+      802,
+      2324,
+      892
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Unternehmen",
+    "bbox": [
+      2365,
+      799,
+      3154,
+      892
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Zwischen",
+    "bbox": [
+      757,
+      1034,
+      1081,
+      1093
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      1105,
+      1033,
+      1218,
+      1093
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Stey,",
+    "bbox": [
+      1233,
+      1035,
+      1392,
+      1106
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "mit",
+    "bbox": [
+      1418,
+      1035,
+      1525,
+      1093
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Sitz",
+    "bbox": [
+      1543,
+      1033,
+      1669,
+      1094
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      1688,
+      1035,
+      1741,
+      1093
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Krystyna-Jockel-Straße",
+    "bbox": [
+      1768,
+      1033,
+      2547,
+      1107
+    ],
+    "confidence": 86.0
+  },
+  {
+    "text": "27,",
+    "bbox": [
+      2566,
+      1034,
+      2668,
+      1101
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "24152",
+    "bbox": [
+      2691,
+      1035,
+      2901,
+      1095
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Erfurt,",
+    "bbox": [
+      2924,
+      1033,
+      3130,
+      1101
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Polen,",
+    "bbox": [
+      3154,
+      1032,
+      3363,
+      1102
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "vertreten",
+    "bbox": [
+      3383,
+      1037,
+      3689,
+      1092
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "durch",
+    "bbox": [
+      3712,
+      1029,
+      3907,
+      1092
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Samir",
+    "bbox": [
+      3927,
+      1029,
+      4129,
+      1092
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Käster,",
+    "bbox": [
+      4148,
+      1030,
+      4374,
+      1100
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Im",
+    "bbox": [
+      760,
+      1147,
+      842,
+      1206
+    ],
+    "confidence": 66.0
+  },
+  {
+    "text": "Folgenden",
+    "bbox": [
+      865,
+      1149,
+      1219,
+      1220
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "„Darlehensgeber“",
+    "bbox": [
+      1242,
+      1148,
+      1857,
+      1221
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "genannt,",
+    "bbox": [
+      1879,
+      1152,
+      2174,
+      1221
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      762,
+      1262,
+      888,
+      1322
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      911,
+      1263,
+      1021,
+      1321
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Weller,",
+    "bbox": [
+      1036,
+      1261,
+      1271,
+      1330
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "ansässig",
+    "bbox": [
+      1294,
+      1262,
+      1593,
+      1336
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      1612,
+      1263,
+      1668,
+      1321
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Plathplatz",
+    "bbox": [
+      1692,
+      1260,
+      2031,
+      1333
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "83,",
+    "bbox": [
+      2050,
+      1263,
+      2152,
+      1329
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "28444",
+    "bbox": [
+      2172,
+      1261,
+      2386,
+      1319
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Ilmenau,",
+    "bbox": [
+      2406,
+      1261,
+      2704,
+      1327
+    ],
+    "confidence": 34.0
+  },
+  {
+    "text": "vertreten",
+    "bbox": [
+      2724,
+      1264,
+      3033,
+      1319
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "durch",
+    "bbox": [
+      3054,
+      1259,
+      3248,
+      1319
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Imre",
+    "bbox": [
+      3272,
+      1259,
+      3424,
+      1319
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Knappe,",
+    "bbox": [
+      3447,
+      1259,
+      3721,
+      1331
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "im",
+    "bbox": [
+      3742,
+      1256,
+      3824,
+      1318
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Folgenden",
+    "bbox": [
+      3849,
+      1258,
+      4201,
+      1329
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "„Darlehensnehmer“",
+    "bbox": [
+      763,
+      1376,
+      1450,
+      1443
+    ],
+    "confidence": 47.0
+  },
+  {
+    "text": "genannt,",
+    "bbox": [
+      1472,
+      1381,
+      1771,
+      1447
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wird",
+    "bbox": [
+      1790,
+      1375,
+      1933,
+      1436
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "folgender",
+    "bbox": [
+      1953,
+      1375,
+      2280,
+      1449
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Vertrag",
+    "bbox": [
+      2295,
+      1375,
+      2542,
+      1449
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "geschlossen:",
+    "bbox": [
+      2556,
+      1372,
+      3005,
+      1449
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "81",
+    "bbox": [
+      761,
+      1558,
+      837,
+      1617
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Darlohenssumme",
+    "bbox": [
+      862,
+      1556,
+      1527,
+      1619
+    ],
+    "confidence": 28.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1546,
+      1555,
+      1688,
+      1617
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Zweckbindung",
+    "bbox": [
+      1707,
+      1555,
+      2264,
+      1628
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Der",
+    "bbox": [
+      763,
+      1671,
+      882,
+      1729
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensgeber",
+    "bbox": [
+      904,
+      1671,
+      1448,
+      1744
+    ],
+    "confidence": 42.0
+  },
+  {
+    "text": "gewährt",
+    "bbox": [
+      1463,
+      1670,
+      1738,
+      1745
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "dem",
+    "bbox": [
+      1757,
+      1672,
+      1907,
+      1731
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensnehmer",
+    "bbox": [
+      1930,
+      1669,
+      2549,
+      1731
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "ein",
+    "bbox": [
+      2567,
+      1667,
+      2668,
+      1728
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "zweckgebundenes",
+    "bbox": [
+      2688,
+      1667,
+      3321,
+      1741
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Darlehen",
+    "bbox": [
+      3344,
+      1666,
+      3654,
+      1725
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      3675,
+      1665,
+      3732,
+      1726
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Höhe",
+    "bbox": [
+      3756,
+      1666,
+      3937,
+      1726
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "von",
+    "bbox": [
+      3957,
+      1678,
+      4077,
+      1725
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "231.11",
+    "bbox": [
+      4097,
+      1666,
+      4318,
+      1725
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "€",
+    "bbox": [
+      758,
+      1788,
+      803,
+      1845
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Euro.",
+    "bbox": [
+      821,
+      1785,
+      991,
+      1844
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Der",
+    "bbox": [
+      1016,
+      1785,
+      1136,
+      1844
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Betrag",
+    "bbox": [
+      1156,
+      1786,
+      1374,
+      1858
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "ist",
+    "bbox": [
+      1393,
+      1785,
+      1474,
+      1845
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "bestimmt",
+    "bbox": [
+      1493,
+      1783,
+      1821,
+      1845
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zur",
+    "bbox": [
+      1840,
+      1798,
+      1945,
+      1844
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Finanzierung",
+    "bbox": [
+      1962,
+      1784,
+      2401,
+      1857
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      2420,
+      1785,
+      2541,
+      1843
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Projekts",
+    "bbox": [
+      2561,
+      1781,
+      2836,
+      1854
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Fischereischein,",
+    "bbox": [
+      2859,
+      1780,
+      3415,
+      1850
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "insbesondere",
+    "bbox": [
+      3439,
+      1778,
+      3902,
+      1839
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zur",
+    "bbox": [
+      3921,
+      1792,
+      4028,
+      1837
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Anschaffung",
+    "bbox": [
+      758,
+      1899,
+      1328,
+      1972
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "von",
+    "bbox": [
+      1226,
+      1889,
+      1328,
+      1979
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Betriebsmitteln",
+    "bbox": [
+      1353,
+      1899,
+      1876,
+      1960
+    ],
+    "confidence": 86.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1899,
+      1899,
+      2025,
+      1959
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "technischer",
+    "bbox": [
+      2044,
+      1898,
+      2456,
+      1959
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Infrastruktur.",
+    "bbox": [
+      2475,
+      1897,
+      2910,
+      1959
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Eine",
+    "bbox": [
+      2935,
+      1898,
+      3079,
+      1956
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "anderweitige",
+    "bbox": [
+      3099,
+      1894,
+      3539,
+      1968
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Verwendung",
+    "bbox": [
+      3558,
+      1893,
+      3989,
+      1968
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      4005,
+      1893,
+      4126,
+      1953
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Betrags",
+    "bbox": [
+      764,
+      2012,
+      1015,
+      2085
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "ist",
+    "bbox": [
+      1035,
+      2013,
+      1117,
+      2071
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "nur",
+    "bbox": [
+      1136,
+      2024,
+      1248,
+      2070
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "nach",
+    "bbox": [
+      1268,
+      2012,
+      1433,
+      2072
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "vorheriger",
+    "bbox": [
+      1450,
+      2011,
+      1801,
+      2086
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "schriftlicher",
+    "bbox": [
+      1816,
+      2011,
+      2232,
+      2071
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Zustimmung",
+    "bbox": [
+      2247,
+      2010,
+      2679,
+      2083
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      2694,
+      2011,
+      2815,
+      2069
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensgebers",
+    "bbox": [
+      2838,
+      2008,
+      3418,
+      2080
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "zulässig.",
+    "bbox": [
+      3438,
+      2007,
+      3733,
+      2080
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "52",
+    "bbox": [
+      759,
+      2194,
+      844,
+      2252
+    ],
+    "confidence": 87.0
+  },
+  {
+    "text": "Auszahlung",
+    "bbox": [
+      857,
+      2191,
+      1299,
+      2263
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Die",
+    "bbox": [
+      763,
+      2306,
+      872,
+      2365
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Auszahlung",
+    "bbox": [
+      890,
+      2304,
+      1291,
+      2377
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      1308,
+      2305,
+      1421,
+      2365
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Darlehenssumme",
+    "bbox": [
+      1441,
+      2305,
+      2049,
+      2365
+    ],
+    "confidence": 87.0
+  },
+  {
+    "text": "erfolgt",
+    "bbox": [
+      2069,
+      2304,
+      2288,
+      2377
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      2310,
+      2305,
+      2366,
+      2363
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "einer",
+    "bbox": [
+      2390,
+      2304,
+      2560,
+      2364
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Summe",
+    "bbox": [
+      2576,
+      2303,
+      2843,
+      2362
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "auf",
+    "bbox": [
+      2863,
+      2301,
+      2972,
+      2361
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "folgendes",
+    "bbox": [
+      2987,
+      2300,
+      3322,
+      2375
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Konto",
+    "bbox": [
+      3345,
+      2299,
+      3540,
+      2360
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      3562,
+      2299,
+      3683,
+      2359
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Darlehensnehmers:",
+    "bbox": [
+      766,
+      2420,
+      1439,
+      2481
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "IBAN:",
+    "bbox": [
+      764,
+      2535,
+      949,
+      2594
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "DE66050304957984911043",
+    "bbox": [
+      973,
+      2534,
+      1921,
+      2595
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "BIC:",
+    "bbox": [
+      763,
+      2649,
+      900,
+      2709
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "QBEADELLHQ9",
+    "bbox": [
+      923,
+      2647,
+      1455,
+      2720
+    ],
+    "confidence": 86.0
+  },
+  {
+    "text": "Kontoinhaber:",
+    "bbox": [
+      764,
+      2762,
+      1244,
+      2824
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Weller",
+    "bbox": [
+      1262,
+      2762,
+      1486,
+      2823
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Die",
+    "bbox": [
+      764,
+      2878,
+      872,
+      2939
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Auszahlung",
+    "bbox": [
+      891,
+      2877,
+      1291,
+      2952
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "hat",
+    "bbox": [
+      1310,
+      2878,
+      1419,
+      2938
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "spätestens",
+    "bbox": [
+      1438,
+      2879,
+      1813,
+      2952
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "zum",
+    "bbox": [
+      1833,
+      2890,
+      1976,
+      2936
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "26.02.2025",
+    "bbox": [
+      1998,
+      2876,
+      2381,
+      2936
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      2401,
+      2888,
+      2475,
+      2935
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "erfolgen.",
+    "bbox": [
+      2498,
+      2873,
+      2795,
+      2948
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Voraussetzung",
+    "bbox": [
+      2816,
+      2873,
+      3321,
+      2946
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "hierfür",
+    "bbox": [
+      3339,
+      2870,
+      3563,
+      2931
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "ist",
+    "bbox": [
+      3582,
+      2870,
+      3662,
+      2929
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "die",
+    "bbox": [
+      3681,
+      2869,
+      3783,
+      2930
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Vorlage",
+    "bbox": [
+      3803,
+      2867,
+      4057,
+      2943
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "aller",
+    "bbox": [
+      4080,
+      2868,
+      4230,
+      2928
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "erforderlichen",
+    "bbox": [
+      763,
+      2992,
+      1244,
+      3053
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Nachweise",
+    "bbox": [
+      1268,
+      2991,
+      1643,
+      3052
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "über",
+    "bbox": [
+      1666,
+      2991,
+      1824,
+      3052
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      1840,
+      2991,
+      1965,
+      3051
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "vorgesehenen",
+    "bbox": [
+      1985,
+      2989,
+      2463,
+      3063
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Mitteleinsatz",
+    "bbox": [
+      2487,
+      2985,
+      2924,
+      3048
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "gemäß",
+    "bbox": [
+      2942,
+      2987,
+      3173,
+      3061
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Anlage",
+    "bbox": [
+      3189,
+      2986,
+      3422,
+      3058
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "1",
+    "bbox": [
+      3446,
+      2989,
+      3471,
+      3045
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "dieses",
+    "bbox": [
+      3502,
+      2982,
+      3721,
+      3045
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Vertrages.",
+    "bbox": [
+      3741,
+      2982,
+      4082,
+      3055
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "83",
+    "bbox": [
+      761,
+      3173,
+      844,
+      3233
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Rückzahlung",
+    "bbox": [
+      865,
+      3171,
+      1355,
+      3246
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1369,
+      3172,
+      1511,
+      3233
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Verzinsung",
+    "bbox": [
+      1527,
+      3172,
+      1946,
+      3244
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Der",
+    "bbox": [
+      764,
+      3289,
+      885,
+      3346
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensnehmer",
+    "bbox": [
+      905,
+      3288,
+      1524,
+      3348
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "verpflichtet",
+    "bbox": [
+      1540,
+      3285,
+      1934,
+      3360
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sich",
+    "bbox": [
+      1950,
+      3285,
+      2088,
+      3345
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zur",
+    "bbox": [
+      2108,
+      3297,
+      2214,
+      3344
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Rückzahlung",
+    "bbox": [
+      2236,
+      3285,
+      2673,
+      3354
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      2692,
+      3286,
+      2813,
+      3344
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensbetrages",
+    "bbox": [
+      2836,
+      3282,
+      3482,
+      3355
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      3502,
+      3279,
+      3559,
+      3340
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "monatlichen",
+    "bbox": [
+      3583,
+      3277,
+      4013,
+      3339
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "Raten",
+    "bbox": [
+      4036,
+      3277,
+      4231,
+      3338
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      4250,
+      3293,
+      4324,
+      3337
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "je",
+    "bbox": [
+      757,
+      3400,
+      818,
+      3474
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "498.56",
+    "bbox": [
+      838,
+      3401,
+      1072,
+      3460
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "€",
+    "bbox": [
+      1092,
+      3403,
+      1132,
+      3460
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Euro.",
+    "bbox": [
+      1155,
+      3400,
+      1326,
+      3459
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Die",
+    "bbox": [
+      1350,
+      3399,
+      1459,
+      3458
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "erste",
+    "bbox": [
+      1479,
+      3404,
+      1648,
+      3460
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Rate",
+    "bbox": [
+      1671,
+      3400,
+      1824,
+      3458
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "ist",
+    "bbox": [
+      1845,
+      3399,
+      1925,
+      3457
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zum",
+    "bbox": [
+      1941,
+      3412,
+      2086,
+      3456
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "22.03.2025",
+    "bbox": [
+      2107,
+      3397,
+      2490,
+      3456
+    ],
+    "confidence": 76.0
+  },
+  {
+    "text": "fällig,",
+    "bbox": [
+      2509,
+      3394,
+      2690,
+      3467
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "alle",
+    "bbox": [
+      2714,
+      3394,
+      2835,
+      3453
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "weiteren",
+    "bbox": [
+      2855,
+      3394,
+      3146,
+      3454
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "jeweils",
+    "bbox": [
+      3164,
+      3393,
+      3404,
+      3467
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zum",
+    "bbox": [
+      3423,
+      3406,
+      3564,
+      3453
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Ersten",
+    "bbox": [
+      3592,
+      3393,
+      3802,
+      3452
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "eines",
+    "bbox": [
+      3825,
+      3390,
+      4004,
+      3452
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Monats.",
+    "bbox": [
+      4028,
+      3393,
+      4297,
+      3450
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Das",
+    "bbox": [
+      766,
+      3514,
+      894,
+      3573
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Darlehen",
+    "bbox": [
+      919,
+      3514,
+      1226,
+      3574
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wird",
+    "bbox": [
+      1246,
+      3514,
+      1389,
+      3574
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "mit",
+    "bbox": [
+      1414,
+      3514,
+      1524,
+      3574
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "einem",
+    "bbox": [
+      1544,
+      3513,
+      1750,
+      3574
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Zinssatz",
+    "bbox": [
+      1772,
+      3513,
+      2189,
+      3573
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "von",
+    "bbox": [
+      2083,
+      3499,
+      2180,
+      3589
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "3,2",
+    "bbox": [
+      2212,
+      3511,
+      2318,
+      3581
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "%",
+    "bbox": [
+      2338,
+      3512,
+      2399,
+      3571
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "p.a.",
+    "bbox": [
+      2422,
+      3524,
+      2544,
+      3584
+    ],
+    "confidence": 50.0
+  },
+  {
+    "text": "verzinst.",
+    "bbox": [
+      2563,
+      3508,
+      2850,
+      3570
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Die",
+    "bbox": [
+      2877,
+      3508,
+      2982,
+      3568
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Zinsen",
+    "bbox": [
+      3001,
+      3508,
+      3224,
+      3568
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sind",
+    "bbox": [
+      3247,
+      3505,
+      3389,
+      3567
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      3413,
+      3506,
+      3470,
+      3566
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      3493,
+      3505,
+      3616,
+      3567
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Raten",
+    "bbox": [
+      3639,
+      3507,
+      3833,
+      3567
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "enthalten",
+    "bbox": [
+      3856,
+      3504,
+      4180,
+      3565
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      4203,
+      3503,
+      4328,
+      3564
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "werden",
+    "bbox": [
+      761,
+      3615,
+      971,
+      3704
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "jährlich",
+    "bbox": [
+      1024,
+      3615,
+      1289,
+      3704
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "abgerechnet.",
+    "bbox": [
+      1312,
+      3626,
+      1760,
+      3699
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "Vorzeitige",
+    "bbox": [
+      1780,
+      3626,
+      2111,
+      3698
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Rückzahlungen",
+    "bbox": [
+      2134,
+      3625,
+      2655,
+      3696
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "sind",
+    "bbox": [
+      2678,
+      3623,
+      2819,
+      3683
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "jederzeit",
+    "bbox": [
+      2838,
+      3622,
+      3134,
+      3696
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "ohne",
+    "bbox": [
+      3153,
+      3620,
+      3319,
+      3681
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Vorfälligkeitsentschädigung",
+    "bbox": [
+      3338,
+      3619,
+      4289,
+      3693
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "möglich,",
+    "bbox": [
+      767,
+      3742,
+      1058,
+      3814
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "müssen",
+    "bbox": [
+      1085,
+      3742,
+      1351,
+      3800
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "jedoch",
+    "bbox": [
+      1367,
+      3740,
+      1602,
+      3811
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "mindestens",
+    "bbox": [
+      1625,
+      3739,
+      2025,
+      3799
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sieben",
+    "bbox": [
+      2044,
+      3738,
+      2270,
+      3798
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Werktage",
+    "bbox": [
+      2290,
+      3738,
+      2612,
+      3811
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "vor",
+    "bbox": [
+      2632,
+      3749,
+      2737,
+      3797
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "dem",
+    "bbox": [
+      2756,
+      3737,
+      2906,
+      3797
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Zahlungstermin",
+    "bbox": [
+      2925,
+      3733,
+      3461,
+      3809
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "angekündigt",
+    "bbox": [
+      3483,
+      3731,
+      3905,
+      3807
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "werden.",
+    "bbox": [
+      3921,
+      3732,
+      4195,
+      3792
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "34",
+    "bbox": [
+      764,
+      3917,
+      849,
+      3977
+    ],
+    "confidence": 69.0
+  },
+  {
+    "text": "Sicherheiten",
+    "bbox": [
+      865,
+      3916,
+      1349,
+      3978
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Zur",
+    "bbox": [
+      762,
+      4032,
+      875,
+      4091
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Absicherung",
+    "bbox": [
+      890,
+      4031,
+      1323,
+      4104
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      1339,
+      4031,
+      1460,
+      4091
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Darlehens",
+    "bbox": [
+      1483,
+      4028,
+      1834,
+      4091
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "verpflichtet",
+    "bbox": [
+      1850,
+      4028,
+      2244,
+      4102
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "sich",
+    "bbox": [
+      2264,
+      4028,
+      2402,
+      4088
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      2422,
+      4028,
+      2535,
+      4088
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensnehmer,",
+    "bbox": [
+      2554,
+      4025,
+      3183,
+      4095
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "eine",
+    "bbox": [
+      3206,
+      4023,
+      3348,
+      4084
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Bürgschaft",
+    "bbox": [
+      3373,
+      4022,
+      3739,
+      4097
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      3758,
+      4021,
+      3869,
+      4083
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Schäfer",
+    "bbox": [
+      3886,
+      4020,
+      4153,
+      4082
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "über",
+    "bbox": [
+      4172,
+      4020,
+      4327,
+      4081
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "die",
+    "bbox": [
+      765,
+      4146,
+      866,
+      4206
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Gesamtsumme",
+    "bbox": [
+      889,
+      4147,
+      1417,
+      4206
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "von",
+    "bbox": [
+      1433,
+      4158,
+      1555,
+      4205
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "231.11",
+    "bbox": [
+      1577,
+      4146,
+      1799,
+      4205
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "€",
+    "bbox": [
+      1828,
+      4148,
+      1869,
+      4204
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Euro",
+    "bbox": [
+      1892,
+      4145,
+      2042,
+      4204
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "beizubringen.",
+    "bbox": [
+      2065,
+      4141,
+      2525,
+      4214
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Alternativ",
+    "bbox": [
+      2544,
+      4140,
+      2875,
+      4201
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "kann",
+    "bbox": [
+      2894,
+      4142,
+      3052,
+      4200
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "auch",
+    "bbox": [
+      3076,
+      4140,
+      3242,
+      4199
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "eine",
+    "bbox": [
+      3265,
+      4138,
+      3406,
+      4199
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "dingliche",
+    "bbox": [
+      3429,
+      4136,
+      3737,
+      4210
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Sicherheit",
+    "bbox": [
+      3757,
+      4134,
+      4107,
+      4197
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      4126,
+      4135,
+      4183,
+      4196
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Form",
+    "bbox": [
+      4207,
+      4135,
+      4377,
+      4196
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "einer",
+    "bbox": [
+      766,
+      4258,
+      939,
+      4320
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Maschinen-",
+    "bbox": [
+      959,
+      4257,
+      1360,
+      4321
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "oder",
+    "bbox": [
+      1378,
+      4258,
+      1537,
+      4319
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Grundstücksverpfändung",
+    "bbox": [
+      1556,
+      4256,
+      2426,
+      4330
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "nach",
+    "bbox": [
+      2445,
+      4255,
+      2607,
+      4314
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Absprache",
+    "bbox": [
+      2626,
+      4255,
+      2997,
+      4328
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "erfolgen.",
+    "bbox": [
+      3017,
+      4252,
+      3316,
+      4325
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Die",
+    "bbox": [
+      3341,
+      4251,
+      3449,
+      4311
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Sicherheitsteistung",
+    "bbox": [
+      3468,
+      4249,
+      4130,
+      4322
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "ist",
+    "bbox": [
+      4148,
+      4249,
+      4229,
+      4307
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "bis",
+    "bbox": [
+      4250,
+      4247,
+      4343,
+      4308
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "spätestens",
+    "bbox": [
+      765,
+      4376,
+      1143,
+      4448
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "26.03.2025",
+    "bbox": [
+      1162,
+      4375,
+      1545,
+      4434
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "nachzuweisen.",
+    "bbox": [
+      1568,
+      4371,
+      2077,
+      4434
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "85",
+    "bbox": [
+      765,
+      4556,
+      846,
+      4616
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Informationspflichten",
+    "bbox": [
+      867,
+      4552,
+      1700,
+      4627
+    ],
+    "confidence": 30.0
+  },
+  {
+    "text": "Der",
+    "bbox": [
+      768,
+      4665,
+      889,
+      4723
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensnehmer",
+    "bbox": [
+      908,
+      4665,
+      1527,
+      4722
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "verpflichtet",
+    "bbox": [
+      1544,
+      4666,
+      1936,
+      4733
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sich,",
+    "bbox": [
+      1955,
+      4665,
+      2113,
+      4728
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "dem",
+    "bbox": [
+      2136,
+      4664,
+      2286,
+      4719
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensgeber",
+    "bbox": [
+      2312,
+      4662,
+      2854,
+      4731
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "quartalsweise",
+    "bbox": [
+      2873,
+      4659,
+      3349,
+      4730
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "schriftlich",
+    "bbox": [
+      3372,
+      4658,
+      3712,
+      4716
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "über",
+    "bbox": [
+      3735,
+      4658,
+      3889,
+      4717
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      3957,
+      4672,
+      4034,
+      4716
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Stand",
+    "bbox": [
+      4054,
+      4655,
+      4251,
+      4715
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      768,
+      4777,
+      887,
+      4835
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Projekts",
+    "bbox": [
+      910,
+      4774,
+      1185,
+      4849
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Fischereischein",
+    "bbox": [
+      1207,
+      4772,
+      1741,
+      4836
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      1764,
+      4787,
+      1837,
+      4832
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "berichten.",
+    "bbox": [
+      1860,
+      4771,
+      2204,
+      4833
+    ],
+    "confidence": 82.0
+  },
+  {
+    "text": "Dies",
+    "bbox": [
+      2231,
+      4771,
+      2377,
+      4831
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "umfasst",
+    "bbox": [
+      2400,
+      4770,
+      2675,
+      4830
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Fortschrittsberichte,",
+    "bbox": [
+      2698,
+      4765,
+      3391,
+      4835
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Mittelverwendungsnachweise",
+    "bbox": [
+      771,
+      4886,
+      1789,
+      4961
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1811,
+      4887,
+      1937,
+      4946
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "ggf.",
+    "bbox": [
+      1959,
+      4888,
+      2076,
+      4960
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Abweichungsanalysen.",
+    "bbox": [
+      2096,
+      4883,
+      2883,
+      4957
+    ],
+    "confidence": 87.0
+  },
+  {
+    "text": "Für",
+    "bbox": [
+      2909,
+      4883,
+      3016,
+      4940
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Rückfragen",
+    "bbox": [
+      3038,
+      4879,
+      3417,
+      4951
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "benennt",
+    "bbox": [
+      3440,
+      4879,
+      3724,
+      4938
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      3747,
+      4877,
+      3858,
+      4935
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Darlehensnehmer",
+    "bbox": [
+      771,
+      5004,
+      1391,
+      5064
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Maik",
+    "bbox": [
+      1409,
+      5003,
+      1571,
+      5061
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Kramer",
+    "bbox": [
+      1590,
+      5002,
+      1837,
+      5061
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "als",
+    "bbox": [
+      1853,
+      5001,
+      1951,
+      5060
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zuständige",
+    "bbox": [
+      1969,
+      4999,
+      2341,
+      5070
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Kontaktperson",
+    "bbox": [
+      2364,
+      4998,
+      2860,
+      5068
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "(Tel;",
+    "bbox": [
+      2883,
+      4995,
+      3017,
+      5068
+    ],
+    "confidence": 72.0
+  },
+  {
+    "text": "0709530118,",
+    "bbox": [
+      3040,
+      4994,
+      3480,
+      5059
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "E-Mail:",
+    "bbox": [
+      3507,
+      4992,
+      3742,
+      5051
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "rhoffmann@googlemail.com),",
+    "bbox": [
+      771,
+      5114,
+      1795,
+      5190
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      1819,
+      5114,
+      1932,
+      5172
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensgeber",
+    "bbox": [
+      1951,
+      5111,
+      2496,
+      5183
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "benennt",
+    "bbox": [
+      2515,
+      5109,
+      2798,
+      5169
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Marian",
+    "bbox": [
+      2821,
+      5108,
+      3047,
+      5168
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Täsche",
+    "bbox": [
+      3063,
+      5106,
+      3305,
+      5166
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "(Tel:",
+    "bbox": [
+      3328,
+      5105,
+      3461,
+      5177
+    ],
+    "confidence": 81.0
+  },
+  {
+    "text": "06280",
+    "bbox": [
+      3482,
+      5104,
+      3692,
+      5163
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "866203,",
+    "bbox": [
+      3711,
+      5102,
+      3985,
+      5168
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "E-Mail:",
+    "bbox": [
+      4009,
+      5101,
+      4247,
+      5159
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "hartungdieter@yahoo.de).",
+    "bbox": [
+      773,
+      5225,
+      1663,
+      5305
+    ],
+    "confidence": 86.0
+  },
+  {
+    "text": "86",
+    "bbox": [
+      770,
+      5413,
+      855,
+      5471
+    ],
+    "confidence": 72.0
+  },
+  {
+    "text": "Vertragsverletzung",
+    "bbox": [
+      868,
+      5410,
+      1589,
+      5484
+    ],
+    "confidence": 85.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1605,
+      5406,
+      1746,
+      5467
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Kündigung",
+    "bbox": [
+      1768,
+      5405,
+      2169,
+      5479
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Kommt",
+    "bbox": [
+      775,
+      5526,
+      1021,
+      5584
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      1040,
+      5524,
+      1152,
+      5584
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensnehmer",
+    "bbox": [
+      1172,
+      5520,
+      1790,
+      5583
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "mit",
+    "bbox": [
+      1809,
+      5518,
+      1920,
+      5578
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zwei",
+    "bbox": [
+      1935,
+      5517,
+      2082,
+      5576
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "aufeinanderfolgenden",
+    "bbox": [
+      2105,
+      5512,
+      2859,
+      5586
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Raten",
+    "bbox": [
+      2884,
+      5514,
+      3077,
+      5572
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "ganz",
+    "bbox": [
+      3096,
+      5519,
+      3254,
+      5584
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "oder",
+    "bbox": [
+      3273,
+      5509,
+      3430,
+      5568
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "teilweise",
+    "bbox": [
+      3446,
+      5505,
+      3749,
+      5566
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      3770,
+      5505,
+      3826,
+      5564
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Verzug",
+    "bbox": [
+      3846,
+      5504,
+      4076,
+      5576
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "oder",
+    "bbox": [
+      4094,
+      5504,
+      4249,
+      5562
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "verwendet",
+    "bbox": [
+      768,
+      5638,
+      1133,
+      5698
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "die",
+    "bbox": [
+      1152,
+      5637,
+      1254,
+      5696
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensmittel",
+    "bbox": [
+      1275,
+      5633,
+      1829,
+      5697
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "zweckwidrig,",
+    "bbox": [
+      1845,
+      5629,
+      2283,
+      5705
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "so",
+    "bbox": [
+      2306,
+      5642,
+      2385,
+      5689
+    ],
+    "confidence": 68.0
+  },
+  {
+    "text": "ist",
+    "bbox": [
+      2405,
+      5627,
+      2486,
+      5688
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      2505,
+      5628,
+      2616,
+      5686
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Darlehensgeber",
+    "bbox": [
+      2639,
+      5624,
+      3180,
+      5697
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "berechtigt,",
+    "bbox": [
+      3199,
+      5620,
+      3565,
+      5694
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      3586,
+      5619,
+      3711,
+      5679
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Vertrag",
+    "bbox": [
+      3731,
+      5618,
+      3977,
+      5690
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "fristlos",
+    "bbox": [
+      3992,
+      5615,
+      4227,
+      5676
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      4245,
+      5628,
+      4319,
+      5672
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "kündigen",
+    "bbox": [
+      776,
+      5753,
+      1083,
+      5827
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1107,
+      5751,
+      1232,
+      5810
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      1255,
+      5751,
+      1381,
+      5809
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "gesamten",
+    "bbox": [
+      1401,
+      5754,
+      1736,
+      5823
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "ausstehenden",
+    "bbox": [
+      1758,
+      5746,
+      2243,
+      5809
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Betrag",
+    "bbox": [
+      2267,
+      5745,
+      2485,
+      5818
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sofort",
+    "bbox": [
+      2503,
+      5743,
+      2702,
+      5802
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "fällig",
+    "bbox": [
+      2718,
+      5738,
+      2888,
+      5812
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      2902,
+      5752,
+      2976,
+      5798
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "stellen.",
+    "bbox": [
+      2999,
+      5736,
+      3249,
+      5799
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Gleiches",
+    "bbox": [
+      3273,
+      5734,
+      3571,
+      5795
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "gilt",
+    "bbox": [
+      3591,
+      5732,
+      3696,
+      5805
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "im",
+    "bbox": [
+      3712,
+      5733,
+      3794,
+      5792
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Falle",
+    "bbox": [
+      3818,
+      5732,
+      3978,
+      5793
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      4000,
+      5731,
+      4112,
+      5791
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "drohenden",
+    "bbox": [
+      774,
+      5868,
+      1146,
+      5929
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Zahlungsunfähigkeit",
+    "bbox": [
+      1165,
+      5861,
+      1858,
+      5940
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "oder",
+    "bbox": [
+      1877,
+      5863,
+      2032,
+      5921
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      2050,
+      5862,
+      2161,
+      5920
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Eröffnung",
+    "bbox": [
+      2183,
+      5860,
+      2512,
+      5930
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "eines",
+    "bbox": [
+      2530,
+      5857,
+      2710,
+      5917
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Insolvenzverfahrens",
+    "bbox": [
+      2733,
+      5853,
+      3416,
+      5915
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "gegen",
+    "bbox": [
+      3436,
+      5859,
+      3634,
+      5923
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      3654,
+      5847,
+      3779,
+      5908
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Darlehensnehmer.",
+    "bbox": [
+      780,
+      5980,
+      1410,
+      6042
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "87",
+    "bbox": [
+      777,
+      6161,
+      860,
+      6220
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "Datenschutz",
+    "bbox": [
+      879,
+      6157,
+      1358,
+      6218
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1375,
+      6154,
+      1519,
+      6215
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Vertraulichkeit",
+    "bbox": [
+      1531,
+      6151,
+      2103,
+      6215
+    ],
+    "confidence": 51.0
+  },
+  {
+    "text": "Beide",
+    "bbox": [
+      780,
+      6271,
+      970,
+      6332
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Parteien",
+    "bbox": [
+      994,
+      6268,
+      1271,
+      6331
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "verpflichten",
+    "bbox": [
+      1289,
+      6268,
+      1698,
+      6342
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sich,",
+    "bbox": [
+      1721,
+      6267,
+      1880,
+      6334
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sämtliche",
+    "bbox": [
+      1903,
+      6262,
+      2241,
+      6324
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "im",
+    "bbox": [
+      2261,
+      6263,
+      2343,
+      6322
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Rahmen",
+    "bbox": [
+      2367,
+      6261,
+      2649,
+      6320
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "dieses",
+    "bbox": [
+      2672,
+      6259,
+      2891,
+      6317
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Vertrages",
+    "bbox": [
+      2906,
+      6258,
+      3229,
+      6327
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "erhobenen",
+    "bbox": [
+      3248,
+      6254,
+      3618,
+      6313
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      3640,
+      6250,
+      3768,
+      6310
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "gespeicherten",
+    "bbox": [
+      3787,
+      6250,
+      4272,
+      6324
+    ],
+    "confidence": 96.0
+  }
+]
