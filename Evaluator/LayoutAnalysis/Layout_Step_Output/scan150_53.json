@@ -1,0 +1,683 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Baklagte wird verurteilt, an die Klágerin 33.31 € Euro nebst Zinsen in Höhe von 5 Prozentpunkten ber dem",
+            "bbox": [
+              944,
+              2726,
+              3979,
+              2851
+            ],
+            "confidence": 0.9575297832489014
+          }
+        ],
+        [
+          {
+            "text": "Basiszinssatz seit dem 24.05.2025 zu zahlen.",
+            "bbox": [
+              959,
+              2821,
+              2200,
+              2916
+            ],
+            "confidence": 0.9841724634170532
+          }
+        ]
+      ],
+      "bbox": [
+        944,
+        2726,
+        3979,
+        2916
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "2.",
+            "bbox": [
+              819,
+              2996,
+              952,
+              3055
+            ],
+            "confidence": 0.9998211860656738
+          },
+          {
+            "text": " Die Beklagte trgt die Kosten des Rechtsstreita.",
+            "bbox": [
+              929,
+              2967,
+              2259,
+              3085
+            ],
+            "confidence": 0.9918290972709656
+          }
+        ]
+      ],
+      "bbox": [
+        819,
+        2967,
+        2259,
+        3085
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Tatbestand",
+            "bbox": [
+              671,
+              3302,
+              1130,
+              3399
+            ],
+            "confidence": 0.9992560148239136
+          }
+        ]
+      ],
+      "bbox": [
+        671,
+        3302,
+        1130,
+        3399
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Beklagte ist threr sekundáren Darlegungslast zu bahaupteten Mängeln nicht nachgekornmen. Pauschale Behauptungen ohne",
+            "bbox": [
+              642,
+              5379,
+              4178,
+              5503
+            ],
+            "confidence": 0.9689114689826965
+          }
+        ],
+        [
+          {
+            "text": "technische Nachweise gengen nicht. Auch die behauptete Nichterreichbarkeit der Ansprechpartner wurde nicht substantiiert",
+            "bbox": [
+              635,
+              5474,
+              4119,
+              5591
+            ],
+            "confidence": 0.994143545627594
+          }
+        ],
+        [
+          {
+            "text": "belegt. Die E-Mail an therrmann@web.de vom 09.01.2025 wurde laut Logdatei des Mailservers zwar empfangen, bliab jedoch",
+            "bbox": [
+              634,
+              5561,
+              4082,
+              5686
+            ],
+            "confidence": 0.9857624769210815
+          }
+        ],
+        [
+          {
+            "text": " inhaltlich unbeantwortet. Ein Pflichtverstog ist daraus nicht abzuleiten.",
+            "bbox": [
+              642,
+              5664,
+              2598,
+              5759
+            ],
+            "confidence": 0.9742562770843506
+          }
+        ]
+      ],
+      "bbox": [
+        634,
+        5379,
+        4178,
+        5759
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Beklagte beantragt, die Klage abzuweisen. Sie behauptet, das gelieferte System sei nicht mit den bestehenden Strukturen",
+            "bbox": [
+              642,
+              4502,
+              4097,
+              4641
+            ],
+            "confidence": 0.9802873730659485
+          }
+        ],
+        [
+          {
+            "text": "kompatibel gewesen und habe mehrfach zum Austall Interner Prozosso getührt. Die Klögorin habe sich zudem gowaigert, telefonisch",
+            "bbox": [
+              642,
+              4597,
+              4274,
+              4729
+            ],
+            "confidence": 0.9692638516426086
+          }
+        ],
+        [
+          {
+            "text": "erreichbare Ansprechpartner bereitzustellen. Verwiesen wird auf eina E-Mall-Korrespondanz vom 09.01.2025 an therrmann@web.de",
+            "bbox": [
+              642,
+              4684,
+              4281,
+              4809
+            ],
+            "confidence": 0.9820415377616882
+          }
+        ],
+        [
+          {
+            "text": "sowie mehrere erfolglose Anrufe bal +49(0)9606 67257",
+            "bbox": [
+              642,
+              4772,
+              2171,
+              4890
+            ],
+            "confidence": 0.9623609781265259
+          }
+        ]
+      ],
+      "bbox": [
+        642,
+        4502,
+        4281,
+        4890
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Klágerin hat durch Vorlage des Abnahmeprotokolls (Anlage K3) sowie mahrerer technischer Berichte (Anlagen K4-K6) belegt, dass",
+            "bbox": [
+              634,
+              5130,
+              4207,
+              5255
+            ],
+            "confidence": 0.9819018840789795
+          }
+        ],
+        [
+          {
+            "text": "die vereinbarte Leistung vollst&ndig und mangelfrei erbracht wurde.",
+            "bbox": [
+              649,
+              5233,
+              2510,
+              5328
+            ],
+            "confidence": 0.9837382435798645
+          }
+        ]
+      ],
+      "bbox": [
+        634,
+        5130,
+        4207,
+        5328
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Klgerin macht gegen die Beklagte Ansprúche aus einem Werkvertrag geltend, den die Parteien am 12.04.2025 im Rahmen eines",
+            "bbox": [
+              657,
+              3405,
+              4281,
+              3538
+            ],
+            "confidence": 0.9795998930931091
+          }
+        ],
+        [
+          {
+            "text": "Integration cines IT-Systerms zur Verwaltung interner Vorgänge bei der Beklagten.",
+            "bbox": [
+              657,
+              3588,
+              2864,
+              3706
+            ],
+            "confidence": 0.9792448282241821
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        3405,
+        4281,
+        3706
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Parteien vereinbarten aine Vergútung in Höhe von 33.31 @ Euro. Die Klägerin erbrachte sámtliche vereinbarten Leistungen bis",
+            "bbox": [
+              657,
+              3742,
+              4185,
+              3866
+            ],
+            "confidence": 0.9701638221740723
+          }
+        ],
+        [
+          {
+            "text": "zum 17.03.2025. Die Beklagte verweigerte die Abnahme der Leistung rnit der Begründung, es lágen funktionale Mängel vor. Eine",
+            "bbox": [
+              649,
+              3829,
+              4148,
+              3962
+            ],
+            "confidence": 0.9720141887664795
+          }
+        ],
+        [
+          {
+            "text": "Zahlung arfolgte nicht. Die Klágarin forderte darauthin mit Schreiben vom 30.01.2025 unter Fristsetzung zur Zanlung bis zurm",
+            "bbox": [
+              642,
+              3917,
+              4060,
+              4049
+            ],
+            "confidence": 0.9724757075309753
+          }
+        ],
+        [
+          {
+            "text": "16.01.2025 auf, wes fruchtlos blieb.",
+            "bbox": [
+              649,
+              4012,
+              1639,
+              4122
+            ],
+            "confidence": 0.9706268310546875
+          }
+        ]
+      ],
+      "bbox": [
+        642,
+        3742,
+        4185,
+        4122
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "- die Beklagte zu verurteilen, an sie 33.31 € Euro nebst Zinsen sowie vorgerichtliche Mahnkosten in Höhe von 692.65 6 Euro zu",
+            "bbox": [
+              642,
+              4260,
+              4097,
+              4393
+            ],
+            "confidence": 0.9656816124916077
+          }
+        ],
+        [
+          {
+            "text": " zahlen.",
+            "bbox": [
+              647,
+              4346,
+              873,
+              4446
+            ],
+            "confidence": 0.9822965860366821
+          }
+        ]
+      ],
+      "bbox": [
+        642,
+        4260,
+        4097,
+        4446
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Zinsforderung folgt aus s 286, 288 Abs. 1 8GB. Die vorgerichtlichen Mahnkosten sind in der geltend gernachten Höhe nicht zu",
+            "bbox": [
+              642,
+              5810,
+              4200,
+              5927
+            ],
+            "confidence": 0.9681016802787781
+          }
+        ],
+        [
+          {
+            "text": "beanstanden.",
+            "bbox": [
+              641,
+              5905,
+              1049,
+              5993
+            ],
+            "confidence": 0.9995997548103333
+          }
+        ]
+      ],
+      "bbox": [
+        641,
+        5810,
+        4200,
+        5993
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "hat das Amtsgaricht Strausberg durch die Richterin Janos Koch B.Sc. am 25.03.2025 aufgrund dar mündlichen Verhandlung vom",
+            "bbox": [
+              671,
+              2295,
+              4178,
+              2427
+            ],
+            "confidence": 0.9813845753669739
+          }
+        ],
+        [
+          {
+            "text": "11.03.2025 für Recht erkannt:",
+            "bbox": [
+              671,
+              2389,
+              1514,
+              2485
+            ],
+            "confidence": 0.9930822849273682
+          }
+        ]
+      ],
+      "bbox": [
+        671,
+        2295,
+        4178,
+        2485
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "die Wilms, vertreten durch Univ.Prof. Sinaida Keudel MBA., Magret-Scheuarmann-Ring 07, 17026 Stade",
+            "bbox": [
+              679,
+              1893,
+              3499,
+              2017
+            ],
+            "confidence": 0.976078987121582
+          }
+        ],
+        [
+          {
+            "text": "- Beklagte -",
+            "bbox": [
+              679,
+              1995,
+              1019,
+              2076
+            ],
+            "confidence": 0.8926841616630554
+          }
+        ]
+      ],
+      "bbox": [
+        679,
+        1893,
+        3499,
+        2076
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "der Kohl GmbH, vertreten durch Thies Meister-Dietz, Vitall-Nerger-Gasse 0/6, 53296 Strausberg",
+            "bbox": [
+              671,
+              1490,
+              3300,
+              1623
+            ],
+            "confidence": 0.9805919528007507
+          }
+        ],
+        [
+          {
+            "text": "- Klägerin -",
+            "bbox": [
+              678,
+              1585,
+              1013,
+              1682
+            ],
+            "confidence": 0.9069234728813171
+          }
+        ]
+      ],
+      "bbox": [
+        671,
+        1490,
+        3300,
+        1682
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Zinsforderung folgt aus s 286, 288 Abs. 1 8GB. Die vorgerichtlichen Mahnkosten sind in der geltend gernachten Höhe nicht zu",
+            "bbox": [
+              642,
+              5810,
+              4200,
+              5927
+            ],
+            "confidence": 0.9681016802787781
+          }
+        ]
+      ],
+      "bbox": [
+        642,
+        5810,
+        4200,
+        5927
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Urteil vom 25.03.2025",
+            "bbox": [
+              693,
+              796,
+              1322,
+              892
+            ],
+            "confidence": 0.9942219853401184
+          }
+        ],
+        [
+          {
+            "text": "Aktenzeichen: 12 C 482/25",
+            "bbox": [
+              679,
+              892,
+              1454,
+              987
+            ],
+            "confidence": 0.9974185824394226
+          }
+        ]
+      ],
+      "bbox": [
+        679,
+        796,
+        1454,
+        987
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Amtsgericht Strausberg",
+      "bbox": [
+        686,
+        694,
+        1499,
+        812
+      ],
+      "confidence": 0.9909316897392273
+    },
+    {
+      "text": " Im Namen des Valkes",
+      "bbox": [
+        679,
+        1045,
+        1300,
+        1133
+      ],
+      "confidence": 0.9706020355224609
+    },
+    {
+      "text": "Urteil",
+      "bbox": [
+        684,
+        1196,
+        962,
+        1325
+      ],
+      "confidence": 0.9983646869659424
+    },
+    {
+      "text": "In dern Rechtsstreit",
+      "bbox": [
+        686,
+        1411,
+        1240,
+        1491
+      ],
+      "confidence": 0.9623554348945618
+    },
+    {
+      "text": "gegen",
+      "bbox": [
+        672,
+        1754,
+        871,
+        1834
+      ],
+      "confidence": 0.9972313046455383
+    },
+    {
+      "text": "wegen Forderung aus Werkvertrag",
+      "bbox": [
+        671,
+        2141,
+        1624,
+        2244
+      ],
+      "confidence": 0.9862456917762756
+    },
+    {
+      "text": "Tenor",
+      "bbox": [
+        662,
+        2549,
+        895,
+        2655
+      ],
+      "confidence": 0.9790306091308594
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        817,
+        2736,
+        899,
+        2812
+      ],
+      "confidence": 0.9772012829780579
+    },
+    {
+      "text": " 3. Das Urteil ist vorlaufig vollstreckbar.",
+      "bbox": [
+        797,
+        3128,
+        1949,
+        3230
+      ],
+      "confidence": 0.9734092354774475
+    },
+    {
+      "text": "Die Klágerin beantragt:",
+      "bbox": [
+        649,
+        4172,
+        1300,
+        4269
+      ],
+      "confidence": 0.9423307180404663
+    },
+    {
+      "text": "Entscheidungsgrinde",
+      "bbox": [
+        649,
+        4932,
+        1470,
+        5051
+      ],
+      "confidence": 0.9806515574455261
+    }
+  ]
+}

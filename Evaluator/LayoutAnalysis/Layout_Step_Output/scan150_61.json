@@ -1,0 +1,8447 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Geschäftsführung",
+            "bbox": [
+              798,
+              3278,
+              1227,
+              3336
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "besteht",
+            "bbox": [
+              1243,
+              3286,
+              1422,
+              3326
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "derzeit",
+            "bbox": [
+              1437,
+              3287,
+              1598,
+              3331
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "aus",
+            "bbox": [
+              1614,
+              3298,
+              1695,
+              3331
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "drei",
+            "bbox": [
+              1711,
+              3290,
+              1799,
+              3334
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Personen:",
+            "bbox": [
+              1816,
+              3293,
+              2053,
+              3336
+            ],
+            "confidence": 69.0
+          }
+        ],
+        [
+          {
+            "text": "Univ.Prof.",
+            "bbox": [
+              615,
+              3358,
+              840,
+              3400
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "Birgit",
+            "bbox": [
+              857,
+              3359,
+              974,
+              3415
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Barth",
+            "bbox": [
+              990,
+              3362,
+              1115,
+              3407
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "B.A.,",
+            "bbox": [
+              1135,
+              3363,
+              1240,
+              3411
+            ],
+            "confidence": 40.0
+          },
+          {
+            "text": "verantwortlich",
+            "bbox": [
+              1255,
+              3370,
+              1598,
+              3411
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1614,
+              3370,
+              1678,
+              3414
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "don",
+            "bbox": [
+              1691,
+              3372,
+              1776,
+              3415
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bereich",
+            "bbox": [
+              1795,
+              3374,
+              1972,
+              3415
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Stratopgia",
+            "bbox": [
+              1988,
+              3379,
+              2195,
+              3431
+            ],
+            "confidence": 56.0
+          },
+          {
+            "text": "&",
+            "bbox": [
+              2211,
+              3379,
+              2243,
+              3419
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "Innovation,",
+            "bbox": [
+              615,
+              3436,
+              877,
+              3488
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Yilmaz",
+            "bbox": [
+              889,
+              3442,
+              1049,
+              3487
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Grein",
+            "bbox": [
+              1063,
+              3443,
+              1191,
+              3488
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Groth-Siering,",
+            "bbox": [
+              1203,
+              3447,
+              1537,
+              3504
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Leiterin",
+            "bbox": [
+              1554,
+              3450,
+              1730,
+              3495
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1747,
+              3453,
+              1823,
+              3495
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "operativen",
+            "bbox": [
+              1837,
+              3455,
+              2085,
+              3505
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Geschäfte",
+            "bbox": [
+              611,
+              3520,
+              857,
+              3563
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              873,
+              3524,
+              958,
+              3564
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Personalentwicklung,",
+            "bbox": [
+              978,
+              3524,
+              1489,
+              3584
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "sowle",
+            "bbox": [
+              1505,
+              3532,
+              1642,
+              3575
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "Prof,",
+            "bbox": [
+              1658,
+              3533,
+              1763,
+              3576
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Francesca",
+            "bbox": [
+              1779,
+              3535,
+              2025,
+              3579
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Narger,",
+            "bbox": [
+              2040,
+              3534,
+              2210,
+              3597
+            ],
+            "confidence": 78.0
+          }
+        ],
+        [
+          {
+            "text": "der",
+            "bbox": [
+              611,
+              3599,
+              688,
+              3641
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "das",
+            "bbox": [
+              702,
+              3600,
+              786,
+              3641
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Ressart",
+            "bbox": [
+              801,
+              3600,
+              981,
+              3645
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "Finanzen",
+            "bbox": [
+              995,
+              3604,
+              1208,
+              3648
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "&",
+            "bbox": [
+              1223,
+              3605,
+              1256,
+              3649
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Recht",
+            "bbox": [
+              1271,
+              3608,
+              1409,
+              3649
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "betreut.",
+            "bbox": [
+              1425,
+              3608,
+              1610,
+              3652
+            ],
+            "confidence": 71.0
+          },
+          {
+            "text": "Gemeinsam",
+            "bbox": [
+              1626,
+              3612,
+              1916,
+              3656
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "treiben",
+            "bbox": [
+              1929,
+              3617,
+              2097,
+              3657
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sie",
+            "bbox": [
+              2113,
+              3617,
+              2178,
+              3660
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              2194,
+              3620,
+              2262,
+              3660
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Vision",
+            "bbox": [
+              608,
+              3679,
+              753,
+              3721
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              767,
+              3693,
+              850,
+              3725
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Fröhlich",
+            "bbox": [
+              865,
+              3682,
+              1058,
+              3725
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "voran:",
+            "bbox": [
+              1070,
+              3697,
+              1219,
+              3729
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Eine",
+            "bbox": [
+              1236,
+              3689,
+              1336,
+              3729
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "digitale",
+            "bbox": [
+              1349,
+              3689,
+              1524,
+              3741
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zukunft,",
+            "bbox": [
+              1537,
+              3693,
+              1730,
+              3742
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1747,
+              3694,
+              1819,
+              3737
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "den",
+            "bbox": [
+              1835,
+              3697,
+              1921,
+              3738
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Menschen",
+            "bbox": [
+              1936,
+              3698,
+              2182,
+              3741
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "In",
+            "bbox": [
+              2201,
+              3700,
+              2238,
+              3742
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "dan",
+            "bbox": [
+              608,
+              3761,
+              696,
+              3801
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Mittelpunkt",
+            "bbox": [
+              713,
+              3761,
+              982,
+              3814
+            ],
+            "confidence": 76.0
+          },
+          {
+            "text": "stellt.",
+            "bbox": [
+              997,
+              3765,
+              1127,
+              3809
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Unter",
+            "bbox": [
+              1147,
+              3766,
+              1280,
+              3810
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ihrer",
+            "bbox": [
+              1291,
+              3769,
+              1400,
+              3810
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Leitung",
+            "bbox": [
+              1412,
+              3770,
+              1590,
+              3825
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wurde",
+            "bbox": [
+              1598,
+              3774,
+              1747,
+              3814
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              1763,
+              3777,
+              1884,
+              3817
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nur",
+            "bbox": [
+              1896,
+              3789,
+              1977,
+              3817
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1988,
+              3777,
+              2057,
+              3817
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Expansion",
+            "bbox": [
+              608,
+              3841,
+              853,
+              3890
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "vorangetrieban,",
+            "bbox": [
+              864,
+              3845,
+              1240,
+              3894
+            ],
+            "confidence": 60.0
+          },
+          {
+            "text": "sondem",
+            "bbox": [
+              1256,
+              3849,
+              1449,
+              3890
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              1464,
+              3852,
+              1582,
+              3893
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "eine",
+            "bbox": [
+              1598,
+              3853,
+              1698,
+              3894
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "Interne",
+            "bbox": [
+              1715,
+              3853,
+              1880,
+              3894
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Initiative",
+            "bbox": [
+              1895,
+              3857,
+              2093,
+              3898
+            ],
+            "confidence": 61.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              2109,
+              3866,
+              2182,
+              3898
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "Nachhaltigkeit",
+            "bbox": [
+              608,
+              3918,
+              950,
+              3970
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              966,
+              3922,
+              1054,
+              3962
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sozialen",
+            "bbox": [
+              1070,
+              3922,
+              1264,
+              3966
+            ],
+            "confidence": 62.0
+          },
+          {
+            "text": "Verantwortung",
+            "bbox": [
+              1279,
+              3925,
+              1630,
+              3982
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "gestartet.",
+            "bbox": [
+              1642,
+              3934,
+              1868,
+              3983
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Diese",
+            "bbox": [
+              1887,
+              3934,
+              2016,
+              3974
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "beinheltet",
+            "bbox": [
+              608,
+              3997,
+              848,
+              4040
+            ],
+            "confidence": 53.0
+          },
+          {
+            "text": "u.",
+            "bbox": [
+              861,
+              4010,
+              904,
+              4041
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "a.",
+            "bbox": [
+              921,
+              4010,
+              961,
+              4042
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "CO,-Kompensation",
+            "bbox": [
+              978,
+              4003,
+              1439,
+              4055
+            ],
+            "confidence": 41.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1453,
+              4007,
+              1519,
+              4047
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Goschäftsreisen,",
+            "bbox": [
+              1533,
+              4010,
+              1940,
+              4059
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "papierlose",
+            "bbox": [
+              1956,
+              4014,
+              2206,
+              4063
+            ],
+            "confidence": 89.0
+          }
+        ],
+        [
+          {
+            "text": "Büros",
+            "bbox": [
+              608,
+              4075,
+              741,
+              4118
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              756,
+              4079,
+              845,
+              4119
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Partnorschaften",
+            "bbox": [
+              861,
+              4079,
+              1243,
+              4124
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1260,
+              4083,
+              1336,
+              4125
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Bildungselnrichtungen",
+            "bbox": [
+              1350,
+              4084,
+              1884,
+              4143
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              1899,
+              4103,
+              1972,
+              4132
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Förderung",
+            "bbox": [
+              1985,
+              4094,
+              2230,
+              4148
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "digitaler",
+            "bbox": [
+              604,
+              4156,
+              797,
+              4210
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kompetenzen.",
+            "bbox": [
+              811,
+              4159,
+              1151,
+              4212
+            ],
+            "confidence": 82.0
+          },
+          {
+            "text": "Durch",
+            "bbox": [
+              1171,
+              4163,
+              1312,
+              4207
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "jährliche",
+            "bbox": [
+              1324,
+              4163,
+              1533,
+              4216
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Transparenzberichte",
+            "bbox": [
+              1546,
+              4167,
+              2037,
+              4221
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "legen",
+            "bbox": [
+              2053,
+              4175,
+              2178,
+              4225
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              2189,
+              4175,
+              2262,
+              4219
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "offon,",
+            "bbox": [
+              604,
+              4235,
+              739,
+              4283
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "wie",
+            "bbox": [
+              753,
+              4236,
+              833,
+              4276
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "unsero",
+            "bbox": [
+              849,
+              4248,
+              1010,
+              4280
+            ],
+            "confidence": 69.0
+          },
+          {
+            "text": "Ziele",
+            "bbox": [
+              1026,
+              4239,
+              1139,
+              4280
+            ],
+            "confidence": 48.0
+          },
+          {
+            "text": "erreicht",
+            "bbox": [
+              1151,
+              4244,
+              1336,
+              4284
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "werden",
+            "bbox": [
+              1349,
+              4248,
+              1526,
+              4284
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1542,
+              4248,
+              1630,
+              4287
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wo",
+            "bbox": [
+              1642,
+              4257,
+              1711,
+              4288
+            ],
+            "confidence": 76.0
+          }
+        ],
+        [
+          {
+            "text": "Verbesserungspotenzialo",
+            "bbox": [
+              599,
+              4313,
+              1203,
+              4369
+            ],
+            "confidence": 66.0
+          },
+          {
+            "text": "bestehen.",
+            "bbox": [
+              1219,
+              4321,
+              1454,
+              4365
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Das",
+            "bbox": [
+              1473,
+              4324,
+              1561,
+              4365
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "schafft",
+            "bbox": [
+              1578,
+              4327,
+              1743,
+              4369
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              1759,
+              4328,
+              1876,
+              4369
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "nur",
+            "bbox": [
+              1892,
+              4341,
+              1968,
+              4369
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Vertrauen,",
+            "bbox": [
+              1980,
+              4331,
+              2226,
+              4377
+            ],
+            "confidence": 87.0
+          }
+        ],
+        [
+          {
+            "text": "sondem",
+            "bbox": [
+              600,
+              4396,
+              796,
+              4437
+            ],
+            "confidence": 82.0
+          },
+          {
+            "text": "inspiriert",
+            "bbox": [
+              810,
+              4397,
+              1022,
+              4449
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              1034,
+              4400,
+              1151,
+              4441
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Mitarbeitende",
+            "bbox": [
+              1170,
+              4401,
+              1501,
+              4445
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1517,
+              4404,
+              1606,
+              4446
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Kund:Innen,",
+            "bbox": [
+              1622,
+              4405,
+              1905,
+              4456
+            ],
+            "confidence": 38.0
+          },
+          {
+            "text": "Teit",
+            "bbox": [
+              1919,
+              4408,
+              2001,
+              4452
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "eines",
+            "bbox": [
+              2012,
+              4408,
+              2137,
+              4453
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "größeren",
+            "bbox": [
+              599,
+              4473,
+              809,
+              4521
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Wandels",
+            "bbox": [
+              821,
+              4476,
+              1030,
+              4517
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1046,
+              4489,
+              1099,
+              4517
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sein.",
+            "bbox": [
+              1115,
+              4478,
+              1223,
+              4518
+            ],
+            "confidence": 94.0
+          }
+        ]
+      ],
+      "bbox": [
+        599,
+        3278,
+        2262,
+        4521
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Fröhlich",
+            "bbox": [
+              659,
+              740,
+              848,
+              786
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wurde",
+            "bbox": [
+              861,
+              748,
+              1010,
+              791
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              1026,
+              748,
+              1082,
+              792
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Jahr",
+            "bbox": [
+              1095,
+              751,
+              1192,
+              795
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "1998",
+            "bbox": [
+              1236,
+              753,
+              1320,
+              797
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "gegründet",
+            "bbox": [
+              1336,
+              759,
+              1575,
+              808
+            ],
+            "confidence": 73.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1590,
+              763,
+              1678,
+              804
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zählt",
+            "bbox": [
+              1694,
+              764,
+              1808,
+              808
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "heute",
+            "bbox": [
+              1823,
+              767,
+              1956,
+              809
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1968,
+              780,
+              2024,
+              812
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "den",
+            "bbox": [
+              2037,
+              773,
+              2125,
+              815
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "führenden",
+            "bbox": [
+              655,
+              822,
+              898,
+              869
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Anblotern",
+            "bbox": [
+              909,
+              828,
+              1143,
+              875
+            ],
+            "confidence": 77.0
+          },
+          {
+            "text": "iT-Lösu",
+            "bbox": [
+              1433,
+              840,
+              1602,
+              885
+            ],
+            "confidence": 28.0
+          },
+          {
+            "text": "ngen",
+            "bbox": [
+              1610,
+              852,
+              1722,
+              897
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1736,
+              848,
+              1802,
+              889
+            ],
+            "confidence": 93.0
+          }
+        ],
+        [
+          {
+            "text": "Unternehmen",
+            "bbox": [
+              656,
+              901,
+              981,
+              952
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              998,
+              909,
+              1054,
+              953
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "dautschsprachigen",
+            "bbox": [
+              1067,
+              912,
+              1526,
+              973
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "Raum,",
+            "bbox": [
+              1542,
+              924,
+              1695,
+              969
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "Mit",
+            "bbox": [
+              1711,
+              928,
+              1784,
+              970
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sitz",
+            "bbox": [
+              1798,
+              929,
+              1883,
+              973
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "In",
+            "bbox": [
+              1896,
+              929,
+              1936,
+              973
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1952,
+              933,
+              2029,
+              974
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Anatotl-",
+            "bbox": [
+              2040,
+              934,
+              2230,
+              978
+            ],
+            "confidence": 61.0
+          }
+        ],
+        [
+          {
+            "text": "Blümel-Straße",
+            "bbox": [
+              652,
+              985,
+              990,
+              1033
+            ],
+            "confidence": 81.0
+          },
+          {
+            "text": "1/7",
+            "bbox": [
+              1009,
+              993,
+              1082,
+              1037
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "In",
+            "bbox": [
+              1098,
+              993,
+              1135,
+              1039
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "07301",
+            "bbox": [
+              1151,
+              997,
+              1289,
+              1042
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Eutin",
+            "bbox": [
+              1312,
+              1001,
+              1432,
+              1045
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "verateht",
+            "bbox": [
+              1445,
+              1005,
+              1642,
+              1050
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              1654,
+              1005,
+              1751,
+              1052
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Fröhlich",
+            "bbox": [
+              1767,
+              1009,
+              1958,
+              1057
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "als",
+            "bbox": [
+              1972,
+              1015,
+              2041,
+              1057
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "Schnittstelle",
+            "bbox": [
+              647,
+              1066,
+              950,
+              1114
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "zwischen",
+            "bbox": [
+              965,
+              1074,
+              1184,
+              1119
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Technologie,",
+            "bbox": [
+              1199,
+              1077,
+              1498,
+              1135
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Wirtschaft",
+            "bbox": [
+              1512,
+              1086,
+              1763,
+              1130
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1778,
+              1094,
+              1864,
+              1134
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Seit",
+            "bbox": [
+              2097,
+              1098,
+              2189,
+              1141
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              2206,
+              1101,
+              2315,
+              1143
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "zwei",
+            "bbox": [
+              647,
+              1150,
+              751,
+              1190
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "Jahrzehnten",
+            "bbox": [
+              763,
+              1153,
+              1050,
+              1195
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "begleiten",
+            "bbox": [
+              1067,
+              1158,
+              1284,
+              1209
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1297,
+              1162,
+              1372,
+              1202
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unsere",
+            "bbox": [
+              1384,
+              1174,
+              1546,
+              1207
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              1561,
+              1167,
+              1739,
+              1211
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "bei",
+            "bbox": [
+              1755,
+              1171,
+              1827,
+              1211
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1843,
+              1174,
+              1919,
+              1214
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Cigitalen",
+            "bbox": [
+              1932,
+              1177,
+              2133,
+              1226
+            ],
+            "confidence": 53.0
+          }
+        ],
+        [
+          {
+            "text": "Transformation",
+            "bbox": [
+              643,
+              1226,
+              1003,
+              1271
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "-",
+            "bbox": [
+              1028,
+              1255,
+              1046,
+              1263
+            ],
+            "confidence": 71.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1054,
+              1246,
+              1139,
+              1275
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1154,
+              1239,
+              1235,
+              1278
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Strategieberatu",
+            "bbox": [
+              1244,
+              1239,
+              1610,
+              1294
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "ng",
+            "bbox": [
+              1618,
+              1255,
+              1671,
+              1299
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              1687,
+              1246,
+              1792,
+              1291
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1807,
+              1250,
+              1875,
+              1291
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Umsetzung",
+            "bbox": [
+              1892,
+              1252,
+              2161,
+              1307
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "bis",
+            "bbox": [
+              2177,
+              1259,
+              2243,
+              1299
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "hin",
+            "bbox": [
+              647,
+              1307,
+              716,
+              1347
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              729,
+              1315,
+              805,
+              1348
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "kontinuierlichen",
+            "bbox": [
+              816,
+              1311,
+              1202,
+              1359
+            ],
+            "confidence": 37.0
+          },
+          {
+            "text": "Betreuung,",
+            "bbox": [
+              1219,
+              1318,
+              1477,
+              1375
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "Dabei",
+            "bbox": [
+              1494,
+              1323,
+              1630,
+              1367
+            ],
+            "confidence": 63.0
+          },
+          {
+            "text": "legen",
+            "bbox": [
+              1646,
+              1327,
+              1771,
+              1380
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1787,
+              1331,
+              1860,
+              1370
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "besonderen",
+            "bbox": [
+              1872,
+              1331,
+              2154,
+              1376
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "Wert",
+            "bbox": [
+              2169,
+              1337,
+              2282,
+              1380
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "auf",
+            "bbox": [
+              643,
+              1387,
+              720,
+              1427
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "Transparenz,",
+            "bbox": [
+              730,
+              1387,
+              1034,
+              1440
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Qualität",
+            "bbox": [
+              1050,
+              1395,
+              1241,
+              1443
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1257,
+              1400,
+              1344,
+              1439
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "langfristige",
+            "bbox": [
+              1360,
+              1400,
+              1622,
+              1456
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Partnerschaften,",
+            "bbox": [
+              1639,
+              1407,
+              2035,
+              1456
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "Unsere",
+            "bbox": [
+              2053,
+              1415,
+              2222,
+              1459
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Mission",
+            "bbox": [
+              643,
+              1465,
+              821,
+              1508
+            ],
+            "confidence": 45.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              837,
+              1468,
+              894,
+              1512
+            ],
+            "confidence": 45.0
+          },
+          {
+            "text": "es,",
+            "bbox": [
+              909,
+              1480,
+              974,
+              1519
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Prozesse",
+            "bbox": [
+              991,
+              1472,
+              1199,
+              1516
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "effizienter,",
+            "bbox": [
+              1215,
+              1478,
+              1462,
+              1528
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sicherer",
+            "bbox": [
+              1481,
+              1481,
+              1674,
+              1526
+            ],
+            "confidence": 23.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1687,
+              1488,
+              1775,
+              1528
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zukunftsfähig",
+            "bbox": [
+              1791,
+              1491,
+              2109,
+              1548
+            ],
+            "confidence": 70.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              2125,
+              1505,
+              2174,
+              1536
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gestalten,",
+            "bbox": [
+              639,
+              1549,
+              874,
+              1598
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "Unsere",
+            "bbox": [
+              890,
+              1551,
+              1058,
+              1596
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Lösungen",
+            "bbox": [
+              1074,
+              1553,
+              1304,
+              1609
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "umfassen",
+            "bbox": [
+              1320,
+              1560,
+              1550,
+              1605
+            ],
+            "confidence": 69.0
+          },
+          {
+            "text": "u.",
+            "bbox": [
+              1567,
+              1573,
+              1610,
+              1606
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "a.",
+            "bbox": [
+              1626,
+              1576,
+              1667,
+              1606
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Individuelle",
+            "bbox": [
+              1686,
+              1564,
+              1957,
+              1612
+            ],
+            "confidence": 68.0
+          }
+        ],
+        [
+          {
+            "text": "Sofltwareontwicklung,",
+            "bbox": [
+              639,
+              1621,
+              1155,
+              1689
+            ],
+            "confidence": 34.0
+          },
+          {
+            "text": "Cloud-Servicas,",
+            "bbox": [
+              1174,
+              1636,
+              1554,
+              1690
+            ],
+            "confidence": 82.0
+          },
+          {
+            "text": "IT-Sicherheit",
+            "bbox": [
+              1570,
+              1645,
+              1868,
+              1690
+            ],
+            "confidence": 52.0
+          },
+          {
+            "text": "sowie",
+            "bbox": [
+              1884,
+              1653,
+              2017,
+              1693
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              2033,
+              1653,
+              2105,
+              1694
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Integration",
+            "bbox": [
+              639,
+              1705,
+              889,
+              1757
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bestehender",
+            "bbox": [
+              905,
+              1709,
+              1211,
+              1757
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "Systeme",
+            "bbox": [
+              1223,
+              1717,
+              1426,
+              1769
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1441,
+              1719,
+              1481,
+              1762
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "moderne",
+            "bbox": [
+              1497,
+              1724,
+              1711,
+              1766
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Architekturen,",
+            "bbox": [
+              1723,
+              1725,
+              2062,
+              1774
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Das",
+            "bbox": [
+              2081,
+              1733,
+              2170,
+              1774
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Toam",
+            "bbox": [
+              635,
+              1786,
+              760,
+              1826
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "aus",
+            "bbox": [
+              776,
+              1798,
+              861,
+              1830
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "rund",
+            "bbox": [
+              876,
+              1793,
+              982,
+              1830
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "120",
+            "bbox": [
+              1001,
+              1794,
+              1084,
+              1834
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Mitarbeitenden",
+            "bbox": [
+              1099,
+              1794,
+              1461,
+              1841
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "arbeitet",
+            "bbox": [
+              1477,
+              1802,
+              1663,
+              1846
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "standort",
+            "bbox": [
+              1674,
+              1806,
+              1875,
+              1850
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "übergreifend",
+            "bbox": [
+              1883,
+              1810,
+              2182,
+              1862
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2198,
+              1817,
+              2286,
+              1854
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "ist",
+            "bbox": [
+              636,
+              1866,
+              692,
+              1907
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sowohl",
+            "bbox": [
+              704,
+              1870,
+              874,
+              1911
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              888,
+              1870,
+              926,
+              1911
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Kuba",
+            "bbox": [
+              946,
+              1870,
+              1062,
+              1915
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "als",
+            "bbox": [
+              1078,
+              1874,
+              1144,
+              1915
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              1159,
+              1877,
+              1276,
+              1918
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "In",
+            "bbox": [
+              1289,
+              1878,
+              1332,
+              1918
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "mehreren",
+            "bbox": [
+              1348,
+              1882,
+              1577,
+              1922
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "europäischen",
+            "bbox": [
+              1590,
+              1886,
+              1917,
+              1935
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "Ländern",
+            "bbox": [
+              1933,
+              1890,
+              2126,
+              1935
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "aktiv.",
+            "bbox": [
+              2141,
+              1894,
+              2262,
+              1935
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        635,
+        740,
+        2315,
+        1935
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Als",
+            "bbox": [
+              2592,
+              1331,
+              2665,
+              1371
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wachsendes",
+            "bbox": [
+              2677,
+              1335,
+              2981,
+              1376
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Unternehmen",
+            "bbox": [
+              2995,
+              1339,
+              3325,
+              1384
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sind",
+            "bbox": [
+              3341,
+              1344,
+              3437,
+              1384
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              3453,
+              1347,
+              3523,
+              1387
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "kontinulertich",
+            "bbox": [
+              3537,
+              1348,
+              3861,
+              1395
+            ],
+            "confidence": 77.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              3877,
+              1356,
+              3954,
+              1395
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              3965,
+              1356,
+              4046,
+              1400
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Suche",
+            "bbox": [
+              4057,
+              1359,
+              4206,
+              1400
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "nach",
+            "bbox": [
+              2593,
+              1411,
+              2709,
+              1452
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "telentierten",
+            "bbox": [
+              2725,
+              1412,
+              2999,
+              1457
+            ],
+            "confidence": 48.0
+          },
+          {
+            "text": "Fachkräften,",
+            "bbox": [
+              3015,
+              1415,
+              3313,
+              1463
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "Wir",
+            "bbox": [
+              3329,
+              1423,
+              3409,
+              1464
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "bieten",
+            "bbox": [
+              3422,
+              1424,
+              3571,
+              1467
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              3586,
+              1428,
+              3704,
+              1469
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "nur",
+            "bbox": [
+              3719,
+              1440,
+              3800,
+              1472
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "flexible",
+            "bbox": [
+              3812,
+              1432,
+              3981,
+              1476
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "Arbeitszoitmodelle",
+            "bbox": [
+              2589,
+              1488,
+              3040,
+              1536
+            ],
+            "confidence": 25.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3055,
+              1500,
+              3144,
+              1537
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3160,
+              1499,
+              3229,
+              1540
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Möglichkeit",
+            "bbox": [
+              3244,
+              1500,
+              3518,
+              1556
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "zum",
+            "bbox": [
+              3530,
+              1515,
+              3631,
+              1549
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Homaeoffice,",
+            "bbox": [
+              3647,
+              1508,
+              3937,
+              1561
+            ],
+            "confidence": 37.0
+          },
+          {
+            "text": "sondern",
+            "bbox": [
+              3957,
+              1515,
+              4150,
+              1557
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "auch",
+            "bbox": [
+              2592,
+              1572,
+              2705,
+              1611
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Individuelle",
+            "bbox": [
+              2723,
+              1570,
+              2995,
+              1617
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Weitorbildungsbudgets,",
+            "bbox": [
+              3008,
+              1576,
+              3578,
+              1635
+            ],
+            "confidence": 67.0
+          },
+          {
+            "text": "Mentoring-Programme",
+            "bbox": [
+              3595,
+              1587,
+              4130,
+              1645
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              4147,
+              1600,
+              4235,
+              1637
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "eine",
+            "bbox": [
+              2588,
+              1649,
+              2689,
+              1690
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "olfane,",
+            "bbox": [
+              2705,
+              1652,
+              2867,
+              1698
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "wertschätzende",
+            "bbox": [
+              2882,
+              1657,
+              3262,
+              1698
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Unternehmenskultur.",
+            "bbox": [
+              3281,
+              1660,
+              3784,
+              1709
+            ],
+            "confidence": 45.0
+          },
+          {
+            "text": "Neue",
+            "bbox": [
+              3804,
+              1669,
+              3926,
+              1710
+            ],
+            "confidence": 74.0
+          }
+        ],
+        [
+          {
+            "text": "Mitarbeitonde",
+            "bbox": [
+              2588,
+              1725,
+              2922,
+              1770
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "durchlaufen",
+            "bbox": [
+              2938,
+              1732,
+              3220,
+              1777
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              3237,
+              1738,
+              3309,
+              1778
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "strukturiertes",
+            "bbox": [
+              3325,
+              1741,
+              3643,
+              1785
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "On",
+            "bbox": [
+              3658,
+              1746,
+              3723,
+              1786
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "boarding,",
+            "bbox": [
+              3732,
+              1746,
+              3953,
+              1802
+            ],
+            "confidence": 35.0
+          },
+          {
+            "text": "das",
+            "bbox": [
+              3969,
+              1752,
+              4054,
+              1791
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sowohl",
+            "bbox": [
+              4070,
+              1754,
+              4240,
+              1794
+            ],
+            "confidence": 92.0
+          }
+        ],
+        [
+          {
+            "text": "fachliche",
+            "bbox": [
+              2585,
+              1805,
+              2806,
+              1850
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "als",
+            "bbox": [
+              2822,
+              1810,
+              2887,
+              1850
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              2902,
+              1814,
+              3019,
+              1854
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "soziale",
+            "bbox": [
+              3032,
+              1814,
+              3196,
+              1855
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Aspakte",
+            "bbox": [
+              3212,
+              1818,
+              3405,
+              1869
+            ],
+            "confidence": 64.0
+          },
+          {
+            "text": "berücksichtigt.",
+            "bbox": [
+              3422,
+              1821,
+              3772,
+              1878
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Unsere",
+            "bbox": [
+              3792,
+              1826,
+              3961,
+              1870
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Internen",
+            "bbox": [
+              3977,
+              1829,
+              4170,
+              1874
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "Kommunikationsplattformen",
+            "bbox": [
+              2588,
+              1886,
+              3271,
+              1943
+            ],
+            "confidence": 80.0
+          },
+          {
+            "text": "fördern",
+            "bbox": [
+              3288,
+              1898,
+              3458,
+              1939
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "den",
+            "bbox": [
+              3474,
+              1902,
+              3562,
+              1942
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Austausch",
+            "bbox": [
+              3574,
+              1902,
+              3829,
+              1946
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zwischen",
+            "bbox": [
+              3840,
+              1907,
+              4065,
+              1950
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Abteilungen,",
+            "bbox": [
+              2581,
+              1966,
+              2882,
+              2019
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Standorten",
+            "bbox": [
+              2898,
+              1970,
+              3161,
+              2015
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3180,
+              1975,
+              3267,
+              2015
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Hierarchien,",
+            "bbox": [
+              3285,
+              1978,
+              3575,
+              2022
+            ],
+            "confidence": 69.0
+          },
+          {
+            "text": "Zudem",
+            "bbox": [
+              3590,
+              1983,
+              3752,
+              2026
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "veranstalten",
+            "bbox": [
+              3767,
+              1988,
+              4062,
+              2031
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              4077,
+              1991,
+              4150,
+              2031
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "ragelmäßig",
+            "bbox": [
+              2584,
+              2046,
+              2846,
+              2100
+            ],
+            "confidence": 47.0
+          },
+          {
+            "text": "firmenweite",
+            "bbox": [
+              2858,
+              2047,
+              3140,
+              2092
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Evonts",
+            "bbox": [
+              3156,
+              2055,
+              3313,
+              2095
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "wie",
+            "bbox": [
+              3325,
+              2059,
+              3406,
+              2099
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Hockathons,",
+            "bbox": [
+              3422,
+              2059,
+              3724,
+              2110
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "Ba",
+            "bbox": [
+              3740,
+              2063,
+              3796,
+              2104
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3998,
+              2070,
+              4106,
+              2110
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "unsere",
+            "bbox": [
+              2582,
+              2135,
+              2744,
+              2167
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Sommerfeste,",
+            "bbox": [
+              2757,
+              2128,
+              3092,
+              2180
+            ],
+            "confidence": 76.0
+          },
+          {
+            "text": "bei",
+            "bbox": [
+              3109,
+              2132,
+              3179,
+              2176
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "denen",
+            "bbox": [
+              3192,
+              2135,
+              3341,
+              2179
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              3357,
+              2137,
+              3435,
+              2179
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "persönliche",
+            "bbox": [
+              3450,
+              2140,
+              3727,
+              2188
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Austausch",
+            "bbox": [
+              3740,
+              2143,
+              3997,
+              2188
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              4013,
+              2148,
+              4066,
+              2188
+            ],
+            "confidence": 77.0
+          }
+        ],
+        [
+          {
+            "text": "Vordergrund",
+            "bbox": [
+              2580,
+              2204,
+              2873,
+              2257
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "steht.",
+            "bbox": [
+              2890,
+              2209,
+              3020,
+              2250
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Bewerbungen",
+            "bbox": [
+              3039,
+              2209,
+              3362,
+              2268
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "können",
+            "bbox": [
+              3381,
+              2216,
+              3553,
+              2260
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "direkt",
+            "bbox": [
+              3567,
+              2220,
+              3703,
+              2263
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "an",
+            "bbox": [
+              3718,
+              2232,
+              3772,
+              2264
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "len!kroker@web.de",
+            "bbox": [
+              2580,
+              2284,
+              3036,
+              2333
+            ],
+            "confidence": 28.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3051,
+              2293,
+              3160,
+              2333
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              3172,
+              2293,
+              3281,
+              2333
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "das",
+            "bbox": [
+              3293,
+              2296,
+              3378,
+              2336
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Bawerberportal",
+            "bbox": [
+              3393,
+              2297,
+              3764,
+              2350
+            ],
+            "confidence": 66.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              3780,
+              2304,
+              3854,
+              2345
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "http:/www.barkholz.com/",
+            "bbox": [
+              2580,
+              2365,
+              3209,
+              2418
+            ],
+            "confidence": 59.0
+          },
+          {
+            "text": "eingereicht",
+            "bbox": [
+              3224,
+              2373,
+              3489,
+              2429
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "werden.",
+            "bbox": [
+              3502,
+              2381,
+              3692,
+              2422
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Bei",
+            "bbox": [
+              3711,
+              2381,
+              3781,
+              2425
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Fragen",
+            "bbox": [
+              3796,
+              2383,
+              3953,
+              2438
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "steht",
+            "bbox": [
+              3969,
+              2388,
+              4089,
+              2429
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "dir",
+            "bbox": [
+              4102,
+              2389,
+              4166,
+              2429
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "unser",
+            "bbox": [
+              2577,
+              2456,
+              2713,
+              2487
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "HR-Team",
+            "bbox": [
+              2725,
+              2446,
+              2939,
+              2490
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "gerne",
+            "bbox": [
+              2952,
+              2462,
+              3084,
+              2502
+            ],
+            "confidence": 71.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              3099,
+              2454,
+              3216,
+              2494
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "telefonisch",
+            "bbox": [
+              3232,
+              2454,
+              3498,
+              2498
+            ],
+            "confidence": 45.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              3513,
+              2467,
+              3639,
+              2502
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "+49(0}2840",
+            "bbox": [
+              3651,
+              2466,
+              3917,
+              2514
+            ],
+            "confidence": 68.0
+          },
+          {
+            "text": "956096",
+            "bbox": [
+              3933,
+              2469,
+              4078,
+              2510
+            ],
+            "confidence": 73.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              4094,
+              2478,
+              4167,
+              2510
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Verfügung.",
+            "bbox": [
+              2572,
+              2526,
+              2830,
+              2582
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        2572,
+        1331,
+        4240,
+        2582
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "unserer",
+            "bbox": [
+              1163,
+              2031,
+              1344,
+              2063
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Unternehmenskultur",
+            "bbox": [
+              1357,
+              2023,
+              1856,
+              2071
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              1867,
+              2031,
+              1923,
+              2076
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1936,
+              2035,
+              2016,
+              2076
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "direkte",
+            "bbox": [
+              2029,
+              2035,
+              2189,
+              2080
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2206,
+              2039,
+              2294,
+              2080
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "persönliche",
+            "bbox": [
+              632,
+              2094,
+              910,
+              2142
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Austausch",
+            "bbox": [
+              925,
+              2095,
+              1179,
+              2140
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1195,
+              2101,
+              1271,
+              2143
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unseren",
+            "bbox": [
+              1285,
+              2115,
+              1477,
+              2145
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kunden.",
+            "bbox": [
+              1494,
+              2107,
+              1687,
+              2150
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Unser",
+            "bbox": [
+              1705,
+              2111,
+              1846,
+              2152
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kundenservice",
+            "bbox": [
+              1860,
+              2115,
+              2209,
+              2160
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              2226,
+              2119,
+              2279,
+              2160
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "unter",
+            "bbox": [
+              632,
+              2176,
+              756,
+              2212
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              768,
+              2175,
+              847,
+              2213
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Rufnummer",
+            "bbox": [
+              861,
+              2173,
+              1143,
+              2221
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "03978",
+            "bbox": [
+              1159,
+              2180,
+              1304,
+              2223
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "52062",
+            "bbox": [
+              1316,
+              2181,
+              1464,
+              2225
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "weorktags",
+            "bbox": [
+              1477,
+              2185,
+              1691,
+              2240
+            ],
+            "confidence": 34.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1702,
+              2200,
+              1787,
+              2230
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "8",
+            "bbox": [
+              1803,
+              2189,
+              1828,
+              2232
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "bis",
+            "bbox": [
+              1844,
+              2191,
+              1912,
+              2232
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "18",
+            "bbox": [
+              1929,
+              2192,
+              1983,
+              2233
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Uhr",
+            "bbox": [
+              2000,
+              2195,
+              2082,
+              2236
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "erreichbar,",
+            "bbox": [
+              631,
+              2252,
+              882,
+              2296
+            ],
+            "confidence": 50.0
+          },
+          {
+            "text": "Alternativ",
+            "bbox": [
+              897,
+              2256,
+              1127,
+              2301
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "können",
+            "bbox": [
+              1139,
+              2260,
+              1313,
+              2303
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Anfragen",
+            "bbox": [
+              1327,
+              2264,
+              1542,
+              2317
+            ],
+            "confidence": 34.0
+          },
+          {
+            "text": "per",
+            "bbox": [
+              1557,
+              2277,
+              1633,
+              2319
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "E-Mail",
+            "bbox": [
+              1646,
+              2269,
+              1796,
+              2312
+            ],
+            "confidence": 76.0
+          },
+          {
+            "text": "an",
+            "bbox": [
+              1811,
+              2280,
+              1867,
+              2313
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "florabeer@gmail.com",
+            "bbox": [
+              628,
+              2330,
+              1146,
+              2390
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "gesendet",
+            "bbox": [
+              1159,
+              2344,
+              1380,
+              2393
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "werden,",
+            "bbox": [
+              1391,
+              2346,
+              1582,
+              2390
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Für",
+            "bbox": [
+              1599,
+              2349,
+              1675,
+              2390
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "schriftliche",
+            "bbox": [
+              1687,
+              2350,
+              1956,
+              2394
+            ],
+            "confidence": 57.0
+          }
+        ],
+        [
+          {
+            "text": "Korrespondenz",
+            "bbox": [
+              628,
+              2414,
+              986,
+              2467
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "steht",
+            "bbox": [
+              999,
+              2421,
+              1121,
+              2465
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "neben",
+            "bbox": [
+              1135,
+              2423,
+              1284,
+              2466
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "dem",
+            "bbox": [
+              1297,
+              2425,
+              1402,
+              2469
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Hauptsitz",
+            "bbox": [
+              1417,
+              2427,
+              1646,
+              2480
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "such",
+            "bbox": [
+              1658,
+              2433,
+              1776,
+              2474
+            ],
+            "confidence": 70.0
+          },
+          {
+            "text": "unsere",
+            "bbox": [
+              1794,
+              2442,
+              1955,
+              2477
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Niederlassung",
+            "bbox": [
+              628,
+              2494,
+              970,
+              2550
+            ],
+            "confidence": 16.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              984,
+              2498,
+              1022,
+              2542
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Bützow",
+            "bbox": [
+              1042,
+              2501,
+              1215,
+              2542
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "offen,",
+            "bbox": [
+              1227,
+              2505,
+              1364,
+              2553
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1377,
+              2518,
+              1432,
+              2546
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "finden",
+            "bbox": [
+              1448,
+              2510,
+              1594,
+              2550
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1610,
+              2511,
+              1650,
+              2550
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1667,
+              2513,
+              1744,
+              2554
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Mathilde-Zirme-Platz",
+            "bbox": [
+              1759,
+              2510,
+              2259,
+              2573
+            ],
+            "confidence": 83.0
+          }
+        ],
+        [
+          {
+            "text": "040,",
+            "bbox": [
+              623,
+              2574,
+              725,
+              2626
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "91578.",
+            "bbox": [
+              740,
+              2578,
+              901,
+              2622
+            ],
+            "confidence": 80.0
+          },
+          {
+            "text": "Dort",
+            "bbox": [
+              918,
+              2583,
+              1019,
+              2622
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "betreuen",
+            "bbox": [
+              1034,
+              2583,
+              1247,
+              2626
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1260,
+              2586,
+              1333,
+              2627
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "insbesondere",
+            "bbox": [
+              1344,
+              2587,
+              1670,
+              2634
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "unsere",
+            "bbox": [
+              1687,
+              2602,
+              1848,
+              2635
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              1864,
+              2595,
+              2041,
+              2639
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "aus",
+            "bbox": [
+              2057,
+              2610,
+              2141,
+              2639
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "dem",
+            "bbox": [
+              2156,
+              2601,
+              2261,
+              2643
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "süddeutschen",
+            "bbox": [
+              623,
+              2655,
+              962,
+              2702
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Raum",
+            "bbox": [
+              981,
+              2662,
+              1119,
+              2704
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1135,
+              2666,
+              1223,
+              2706
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Österreich,",
+            "bbox": [
+              1239,
+              2657,
+              1502,
+              2711
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Auch",
+            "bbox": [
+              1518,
+              2670,
+              1639,
+              2711
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "hier",
+            "bbox": [
+              1655,
+              2670,
+              1747,
+              2714
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "steht",
+            "bbox": [
+              1759,
+              2674,
+              1880,
+              2715
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              1892,
+              2675,
+              1961,
+              2715
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "engagiertes",
+            "bbox": [
+              1977,
+              2674,
+              2251,
+              2737
+            ],
+            "confidence": 54.0
+          }
+        ],
+        [
+          {
+            "text": "Team",
+            "bbox": [
+              619,
+              2735,
+              745,
+              2780
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "bereit,",
+            "bbox": [
+              761,
+              2738,
+              913,
+              2787
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "um",
+            "bbox": [
+              929,
+              2752,
+              1002,
+              2783
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "maßgeschneiderte",
+            "bbox": [
+              1018,
+              2743,
+              1463,
+              2795
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "IT.",
+            "bbox": [
+              1480,
+              2751,
+              1521,
+              2790
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "-Lösungen",
+            "bbox": [
+              1518,
+              2751,
+              1767,
+              2804
+            ],
+            "confidence": 37.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1783,
+              2764,
+              1835,
+              2795
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "entwickeln",
+            "bbox": [
+              1848,
+              2757,
+              2105,
+              2800
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2122,
+              2760,
+              2210,
+              2800
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              2226,
+              2771,
+              2278,
+              2801
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "betreuen,",
+            "bbox": [
+              623,
+              2815,
+              850,
+              2859
+            ],
+            "confidence": 76.0
+          },
+          {
+            "text": "Weitere",
+            "bbox": [
+              864,
+              2819,
+              1046,
+              2863
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Informationen",
+            "bbox": [
+              1063,
+              2821,
+              1397,
+              2867
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1412,
+              2836,
+              1465,
+              2868
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unseren",
+            "bbox": [
+              1481,
+              2839,
+              1671,
+              2873
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Leistungen,",
+            "bbox": [
+              1691,
+              2832,
+              1964,
+              2885
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Referenzen",
+            "bbox": [
+              1981,
+              2836,
+              2246,
+              2880
+            ],
+            "confidence": 45.0
+          }
+        ],
+        [
+          {
+            "text": "und",
+            "bbox": [
+              619,
+              2896,
+              708,
+              2933
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Karrieremöglichkalten",
+            "bbox": [
+              726,
+              2896,
+              1247,
+              2949
+            ],
+            "confidence": 69.0
+          },
+          {
+            "text": "findest",
+            "bbox": [
+              1263,
+              2904,
+              1426,
+              2945
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "du",
+            "bbox": [
+              1440,
+              2907,
+              1498,
+              2945
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              1513,
+              2908,
+              1590,
+              2948
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "unsarar",
+            "bbox": [
+              1606,
+              2916,
+              1787,
+              2950
+            ],
+            "confidence": 59.0
+          },
+          {
+            "text": "Internatsaite",
+            "bbox": [
+              1799,
+              2911,
+              2100,
+              2956
+            ],
+            "confidence": 44.0
+          }
+        ],
+        [
+          {
+            "text": "https://mans,com/.",
+            "bbox": [
+              619,
+              2973,
+              1079,
+              3021
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "Wir",
+            "bbox": [
+              1098,
+              2979,
+              1179,
+              3020
+            ],
+            "confidence": 80.0
+          },
+          {
+            "text": "laden",
+            "bbox": [
+              1191,
+              2980,
+              1324,
+              3021
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Interessierte",
+            "bbox": [
+              1340,
+              2981,
+              1634,
+              3025
+            ],
+            "confidence": 81.0
+          },
+          {
+            "text": "ein,",
+            "bbox": [
+              1650,
+              2987,
+              1735,
+              3033
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "dort",
+            "bbox": [
+              1754,
+              2988,
+              1848,
+              3029
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "regelmäßig",
+            "bbox": [
+              1863,
+              2993,
+              2125,
+              3045
+            ],
+            "confidence": 82.0
+          }
+        ],
+        [
+          {
+            "text": "vorbeizuscheuen",
+            "bbox": [
+              615,
+              3052,
+              1022,
+              3097
+            ],
+            "confidence": 32.0
+          },
+          {
+            "text": "-",
+            "bbox": [
+              1035,
+              3077,
+              1067,
+              3085
+            ],
+            "confidence": 66.0
+          },
+          {
+            "text": "unser",
+            "bbox": [
+              1078,
+              3069,
+              1212,
+              3101
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Newsbereich",
+            "bbox": [
+              1227,
+              3060,
+              1537,
+              3105
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "wird",
+            "bbox": [
+              1553,
+              3065,
+              1653,
+              3105
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "laufend",
+            "bbox": [
+              1670,
+              3065,
+              1847,
+              3109
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "aktualisiert",
+            "bbox": [
+              1864,
+              3070,
+              2129,
+              3114
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2146,
+              3073,
+              2230,
+              3114
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gibt",
+            "bbox": [
+              615,
+              3129,
+              705,
+              3181
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "Einblicke",
+            "bbox": [
+              720,
+              3132,
+              931,
+              3173
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              946,
+              3133,
+              986,
+              3174
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Projekte,",
+            "bbox": [
+              1002,
+              3137,
+              1208,
+              3187
+            ],
+            "confidence": 78.0
+          },
+          {
+            "text": "Events",
+            "bbox": [
+              1227,
+              3138,
+              1384,
+              3181
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1400,
+              3142,
+              1485,
+              3181
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "technologische",
+            "bbox": [
+              1501,
+              3145,
+              1868,
+              3198
+            ],
+            "confidence": 81.0
+          },
+          {
+            "text": "Entwicklungen.",
+            "bbox": [
+              1884,
+              3146,
+              2246,
+              3201
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        615,
+        2023,
+        2294,
+        3201
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Neben",
+            "bbox": [
+              2576,
+              2670,
+              2729,
+              2712
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2746,
+              2674,
+              2826,
+              2715
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "klassischen",
+            "bbox": [
+              2837,
+              2674,
+              3116,
+              2718
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "IT-Beratung",
+            "bbox": [
+              3132,
+              2679,
+              3402,
+              2732
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "engagiert",
+            "bbox": [
+              3414,
+              2684,
+              3635,
+              2735
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              3648,
+              2686,
+              3744,
+              2727
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              3969,
+              2694,
+              4085,
+              2732
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "zunehmend",
+            "bbox": [
+              2571,
+              2752,
+              2854,
+              2795
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              2870,
+              2755,
+              2926,
+              2795
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "gemeinnützigen",
+            "bbox": [
+              2941,
+              2757,
+              3317,
+              2811
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Bereich.",
+            "bbox": [
+              3337,
+              2762,
+              3530,
+              2804
+            ],
+            "confidence": 70.0
+          },
+          {
+            "text": "In",
+            "bbox": [
+              3546,
+              2763,
+              3586,
+              2804
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Kooperation",
+            "bbox": [
+              3603,
+              2766,
+              3889,
+              2816
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              3905,
+              2770,
+              3981,
+              2811
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "mehreren",
+            "bbox": [
+              3997,
+              2775,
+              4223,
+              2815
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "Non-Profit-Organisationen",
+            "bbox": [
+              2572,
+              2828,
+              3200,
+              2884
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "entwickeln",
+            "bbox": [
+              3216,
+              2838,
+              3474,
+              2880
+            ],
+            "confidence": 77.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              3495,
+              2824,
+              3561,
+              2893
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Tools",
+            "bbox": [
+              3585,
+              2842,
+              3694,
+              2884
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3712,
+              2844,
+              3796,
+              2885
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Plettformoan,",
+            "bbox": [
+              3816,
+              2845,
+              4109,
+              2896
+            ],
+            "confidence": 38.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              4126,
+              2852,
+              4195,
+              2891
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "sozlalos",
+            "bbox": [
+              2571,
+              2908,
+              2761,
+              2949
+            ],
+            "confidence": 33.0
+          },
+          {
+            "text": "Engagement",
+            "bbox": [
+              2778,
+              2909,
+              3072,
+              2961
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "digital",
+            "bbox": [
+              3087,
+              2913,
+              3233,
+              2964
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "untorstützen.",
+            "bbox": [
+              3260,
+              2904,
+              3562,
+              2977
+            ],
+            "confidence": 64.0
+          },
+          {
+            "text": "Projakte",
+            "bbox": [
+              3578,
+              2920,
+              3771,
+              2973
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "wie",
+            "bbox": [
+              3784,
+              2924,
+              3864,
+              2964
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "eine",
+            "bbox": [
+              3881,
+              2925,
+              3981,
+              2965
+            ],
+            "confidence": 78.0
+          },
+          {
+            "text": "Matching-",
+            "bbox": [
+              3998,
+              2928,
+              4232,
+              2980
+            ],
+            "confidence": 86.0
+          }
+        ],
+        [
+          {
+            "text": "Plattform",
+            "bbox": [
+              2571,
+              2984,
+              2788,
+              3028
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              2802,
+              2988,
+              2869,
+              3029
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ehrenamtliche",
+            "bbox": [
+              2882,
+              2988,
+              3229,
+              3033
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3244,
+              2993,
+              3353,
+              3033
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              3365,
+              2993,
+              3434,
+              3036
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "automatisiertes",
+            "bbox": [
+              3450,
+              2998,
+              3828,
+              3041
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "Spendeantracking-Tool",
+            "bbox": [
+              2568,
+              3062,
+              3087,
+              3118
+            ],
+            "confidence": 25.0
+          },
+          {
+            "text": "zeigen,",
+            "bbox": [
+              3099,
+              3070,
+              3265,
+              3121
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "dass",
+            "bbox": [
+              3281,
+              3073,
+              3390,
+              3114
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Technologie",
+            "bbox": [
+              3405,
+              3073,
+              3691,
+              3129
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              3703,
+              3081,
+              3820,
+              3121
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              3836,
+              3080,
+              3893,
+              3122
+            ],
+            "confidence": 62.0
+          }
+        ],
+        [
+          {
+            "text": "gesellschaftlichen",
+            "bbox": [
+              2567,
+              3142,
+              3003,
+              3194
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "Kontext",
+            "bbox": [
+              3019,
+              3149,
+              3196,
+              3190
+            ],
+            "confidence": 81.0
+          },
+          {
+            "text": "einen",
+            "bbox": [
+              3212,
+              3149,
+              3341,
+              3194
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Unterschied",
+            "bbox": [
+              3357,
+              3152,
+              3646,
+              3197
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "machen",
+            "bbox": [
+              3663,
+              3157,
+              3853,
+              3198
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "kann.",
+            "bbox": [
+              3872,
+              3157,
+              3999,
+              3202
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Diese",
+            "bbox": [
+              4017,
+              3162,
+              4150,
+              3202
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Projekte",
+            "bbox": [
+              2568,
+              3222,
+              2761,
+              3274
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "werden",
+            "bbox": [
+              2774,
+              3226,
+              2950,
+              3266
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              2963,
+              3238,
+              3047,
+              3267
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "interdisziplinären",
+            "bbox": [
+              3063,
+              3229,
+              3474,
+              3283
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "Teams",
+            "bbox": [
+              3488,
+              3234,
+              3640,
+              3278
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "betreut,",
+            "bbox": [
+              3655,
+              3238,
+              3840,
+              3287
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              3860,
+              3238,
+              3896,
+              3283
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "denen",
+            "bbox": [
+              3913,
+              3242,
+              4062,
+              3283
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Entwicklor:innen,",
+            "bbox": [
+              2568,
+              3302,
+              2979,
+              3355
+            ],
+            "confidence": 46.0
+          },
+          {
+            "text": "UX-Designer;innen",
+            "bbox": [
+              2995,
+              3307,
+              3441,
+              3362
+            ],
+            "confidence": 27.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3458,
+              3315,
+              3547,
+              3355
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Proja",
+            "bbox": [
+              3562,
+              3314,
+              3679,
+              3367
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "ktmanageriInnen",
+            "bbox": [
+              3688,
+              3318,
+              4090,
+              3370
+            ],
+            "confidence": 42.0
+          },
+          {
+            "text": "eng",
+            "bbox": [
+              4103,
+              3331,
+              4191,
+              3374
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "mit",
+            "bbox": [
+              2564,
+              3383,
+              2640,
+              3426
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Partnerorganisationen",
+            "bbox": [
+              2657,
+              3386,
+              3181,
+              3440
+            ],
+            "confidence": 70.0
+          },
+          {
+            "text": "zusammenarbeiten.",
+            "bbox": [
+              3196,
+              3395,
+              3675,
+              3439
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Ziel",
+            "bbox": [
+              3691,
+              3398,
+              3776,
+              3443
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              3792,
+              3398,
+              3844,
+              3443
+            ],
+            "confidence": 78.0
+          },
+          {
+            "text": "es",
+            "bbox": [
+              3861,
+              3411,
+              3913,
+              3443
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "stets,",
+            "bbox": [
+              3929,
+              3407,
+              4054,
+              3450
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "nachhaltige,",
+            "bbox": [
+              2564,
+              3464,
+              2854,
+              3520
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "leicht",
+            "bbox": [
+              2874,
+              3467,
+              3003,
+              3510
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "wartbare",
+            "bbox": [
+              3015,
+              3471,
+              3229,
+              3512
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3244,
+              3471,
+              3332,
+              3514
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "anpassbare",
+            "bbox": [
+              3349,
+              3477,
+              3627,
+              3527
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Lösungen",
+            "bbox": [
+              3643,
+              3479,
+              3869,
+              3532
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              3885,
+              3491,
+              3937,
+              3524
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "schaffen.",
+            "bbox": [
+              3953,
+              3483,
+              4174,
+              3525
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Auch",
+            "bbox": [
+              2560,
+              3544,
+              2681,
+              3588
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "externes",
+            "bbox": [
+              2697,
+              3551,
+              2873,
+              3589
+            ],
+            "confidence": 30.0
+          },
+          {
+            "text": "Entwickler:innan",
+            "bbox": [
+              2891,
+              3548,
+              3285,
+              3595
+            ],
+            "confidence": 23.0
+          },
+          {
+            "text": "können",
+            "bbox": [
+              3301,
+              3552,
+              3474,
+              3597
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              3490,
+              3556,
+              3586,
+              3597
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "beteiligon",
+            "bbox": [
+              3603,
+              3556,
+              3833,
+              3608
+            ],
+            "confidence": 68.0
+          },
+          {
+            "text": "=-vlale",
+            "bbox": [
+              3848,
+              3560,
+              3998,
+              3601
+            ],
+            "confidence": 4.0
+          },
+          {
+            "text": "unserer",
+            "bbox": [
+              4013,
+              3572,
+              4195,
+              3604
+            ],
+            "confidence": 40.0
+          }
+        ],
+        [
+          {
+            "text": "Tools",
+            "bbox": [
+              2560,
+              3624,
+              2685,
+              3665
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "sind",
+            "bbox": [
+              2697,
+              3624,
+              2794,
+              3666
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "als",
+            "bbox": [
+              2810,
+              3628,
+              2878,
+              3669
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Open",
+            "bbox": [
+              2894,
+              3628,
+              3023,
+              3677
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Source",
+            "bbox": [
+              3036,
+              3628,
+              3205,
+              3672
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "verfügbar",
+            "bbox": [
+              3216,
+              3632,
+              3446,
+              3684
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3458,
+              3636,
+              3547,
+              3676
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "werden",
+            "bbox": [
+              3562,
+              3636,
+              3737,
+              3677
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "aktiv",
+            "bbox": [
+              3752,
+              3640,
+              3865,
+              3680
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "weiterentwickelt.",
+            "bbox": [
+              2560,
+              3704,
+              2967,
+              3749
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Interessierte",
+            "bbox": [
+              2983,
+              3708,
+              3281,
+              3753
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "können",
+            "bbox": [
+              3296,
+              3713,
+              3470,
+              3756
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              3485,
+              3716,
+              3582,
+              3757
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              3598,
+              3717,
+              3707,
+              3757
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "http;//conradi.com/",
+            "bbox": [
+              3719,
+              3717,
+              4187,
+              3769
+            ],
+            "confidence": 58.0
+          }
+        ],
+        [
+          {
+            "text": "oder",
+            "bbox": [
+              2560,
+              3786,
+              2669,
+              3825
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "direkt",
+            "bbox": [
+              2681,
+              3786,
+              2818,
+              3829
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bel",
+            "bbox": [
+              2833,
+              3789,
+              2900,
+              3829
+            ],
+            "confidence": 71.0
+          },
+          {
+            "text": "Tomasz",
+            "bbox": [
+              2914,
+              3789,
+              3094,
+              3829
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "Selfert-Mälzer",
+            "bbox": [
+              3103,
+              3790,
+              3441,
+              3834
+            ],
+            "confidence": 60.0
+          },
+          {
+            "text": "(fpleper@web.de)",
+            "bbox": [
+              3454,
+              3795,
+              3877,
+              3849
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "informieren.",
+            "bbox": [
+              3892,
+              3801,
+              4181,
+              3842
+            ],
+            "confidence": 67.0
+          }
+        ]
+      ],
+      "bbox": [
+        2560,
+        2670,
+        4232,
+        3849
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "weiterer",
+            "bbox": [
+              684,
+              4618,
+              878,
+              4662
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Schwerpunkt",
+            "bbox": [
+              889,
+              4622,
+              1207,
+              4674
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "unserer",
+            "bbox": [
+              1225,
+              4614,
+              1396,
+              4686
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Tätigkeit",
+            "bbox": [
+              1418,
+              4625,
+              1608,
+              4679
+            ],
+            "confidence": 54.0
+          },
+          {
+            "text": "liegt",
+            "bbox": [
+              1626,
+              4630,
+              1725,
+              4682
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              1739,
+              4630,
+              1795,
+              4670
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Baraich",
+            "bbox": [
+              1811,
+              4632,
+              1989,
+              4674
+            ],
+            "confidence": 80.0
+          },
+          {
+            "text": "Forschung",
+            "bbox": [
+              2006,
+              4634,
+              2256,
+              4686
+            ],
+            "confidence": 84.0
+          }
+        ],
+        [
+          {
+            "text": "und",
+            "bbox": [
+              599,
+              4694,
+              688,
+              4734
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Entwicklung,",
+            "bbox": [
+              704,
+              4694,
+              1006,
+              4751
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Fröhlich",
+            "bbox": [
+              1025,
+              4698,
+              1215,
+              4740
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "arbeitet",
+            "bbox": [
+              1231,
+              4702,
+              1415,
+              4742
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ang",
+            "bbox": [
+              1429,
+              4710,
+              1513,
+              4755
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1529,
+              4704,
+              1606,
+              4744
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Hochschulen",
+            "bbox": [
+              1622,
+              4704,
+              1936,
+              4747
+            ],
+            "confidence": 27.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1953,
+              4710,
+              2041,
+              4751
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Forschungseinrichtungen",
+            "bbox": [
+              599,
+              4774,
+              1203,
+              4831
+            ],
+            "confidence": 70.0
+          },
+          {
+            "text": "zusammen,",
+            "bbox": [
+              1219,
+              4790,
+              1498,
+              4828
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "um",
+            "bbox": [
+              1513,
+              4794,
+              1590,
+              4826
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "nau6e",
+            "bbox": [
+              1606,
+              4794,
+              1720,
+              4827
+            ],
+            "confidence": 25.0
+          },
+          {
+            "text": "Technologien",
+            "bbox": [
+              1735,
+              4786,
+              2052,
+              4839
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "Trühzeitig",
+            "bbox": [
+              595,
+              4852,
+              816,
+              4904
+            ],
+            "confidence": 77.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              829,
+              4863,
+              881,
+              4896
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "erkannen",
+            "bbox": [
+              897,
+              4855,
+              1119,
+              4899
+            ],
+            "confidence": 9.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1135,
+              4859,
+              1221,
+              4900
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "anwendungsreif",
+            "bbox": [
+              1239,
+              4859,
+              1622,
+              4911
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1632,
+              4872,
+              1682,
+              4904
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "machen.",
+            "bbox": [
+              1702,
+              4863,
+              1908,
+              4906
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Aktuelle",
+            "bbox": [
+              1923,
+              4866,
+              2117,
+              4908
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Projekte",
+            "bbox": [
+              599,
+              4931,
+              789,
+              4984
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "beschäftigen",
+            "bbox": [
+              805,
+              4934,
+              1115,
+              4988
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              1130,
+              4936,
+              1223,
+              4979
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1243,
+              4939,
+              1316,
+              4980
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "dem",
+            "bbox": [
+              1330,
+              4939,
+              1436,
+              4980
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Einsatz",
+            "bbox": [
+              1450,
+              4939,
+              1622,
+              4984
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1633,
+              4952,
+              1717,
+              4984
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Künstlicher",
+            "bbox": [
+              1735,
+              4944,
+              2005,
+              4985
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "|",
+            "bbox": [
+              2016,
+              4948,
+              2026,
+              4988
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "ntelliganz",
+            "bbox": [
+              2033,
+              4942,
+              2261,
+              5004
+            ],
+            "confidence": 37.0
+          }
+        ],
+        [
+          {
+            "text": "In",
+            "bbox": [
+              596,
+              5011,
+              636,
+              5052
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              652,
+              5012,
+              731,
+              5052
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Prozessautomatisierung,",
+            "bbox": [
+              744,
+              5012,
+              1332,
+              5071
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1349,
+              5020,
+              1429,
+              5060
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sicheren",
+            "bbox": [
+              1440,
+              5020,
+              1643,
+              5065
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Verwaltung",
+            "bbox": [
+              1658,
+              5021,
+              1928,
+              5077
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1936,
+              5036,
+              2020,
+              5065
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Identitäten",
+            "bbox": [
+              596,
+              5093,
+              853,
+              5133
+            ],
+            "confidence": 81.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              869,
+              5093,
+              909,
+              5137
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Cloud-Umgebungen",
+            "bbox": [
+              923,
+              5096,
+              1408,
+              5149
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1424,
+              5101,
+              1510,
+              5141
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1525,
+              5102,
+              1606,
+              5141
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Entwicklung",
+            "bbox": [
+              1618,
+              5101,
+              1909,
+              5156
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "skalierbarer",
+            "bbox": [
+              1920,
+              5107,
+              2206,
+              5146
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "Plattformarchitekturen",
+            "bbox": [
+              595,
+              5173,
+              1135,
+              5217
+            ],
+            "confidence": 70.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1150,
+              5177,
+              1215,
+              5217
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "datenintensive",
+            "bbox": [
+              1227,
+              5177,
+              1580,
+              5221
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Anwendungen.",
+            "bbox": [
+              1594,
+              5181,
+              1952,
+              5235
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Viele",
+            "bbox": [
+              1964,
+              5185,
+              2081,
+              5225
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "dieser",
+            "bbox": [
+              2097,
+              5185,
+              2245,
+              5226
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Entwicklungen",
+            "bbox": [
+              595,
+              5249,
+              942,
+              5306
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "fließen",
+            "bbox": [
+              957,
+              5253,
+              1119,
+              5297
+            ],
+            "confidence": 79.0
+          },
+          {
+            "text": "direkt",
+            "bbox": [
+              1135,
+              5258,
+              1268,
+              5298
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1284,
+              5258,
+              1324,
+              5297
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unsere",
+            "bbox": [
+              1340,
+              5269,
+              1501,
+              5298
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Kundenprojakte",
+            "bbox": [
+              1517,
+              5261,
+              1891,
+              5313
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              1905,
+              5265,
+              1976,
+              5302
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1992,
+              5265,
+              2078,
+              5305
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "erhöhen",
+            "bbox": [
+              595,
+              5331,
+              789,
+              5374
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "damit",
+            "bbox": [
+              805,
+              5334,
+              942,
+              5374
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "den",
+            "bbox": [
+              956,
+              5334,
+              1043,
+              5375
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "technologischen",
+            "bbox": [
+              1058,
+              5335,
+              1457,
+              5390
+            ],
+            "confidence": 75.0
+          },
+          {
+            "text": "Vorsprung",
+            "bbox": [
+              1469,
+              5338,
+              1715,
+              5393
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "dar",
+            "bbox": [
+              1732,
+              5342,
+              1803,
+              5382
+            ],
+            "confidence": 76.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1824,
+              5351,
+              1895,
+              5383
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "uns",
+            "bbox": [
+              1917,
+              5354,
+              2001,
+              5384
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "botrauten",
+            "bbox": [
+              2016,
+              5342,
+              2246,
+              5386
+            ],
+            "confidence": 61.0
+          }
+        ],
+        [
+          {
+            "text": "Unternehmen,",
+            "bbox": [
+              595,
+              5411,
+              937,
+              5455
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "Unsera",
+            "bbox": [
+              954,
+              5414,
+              1123,
+              5458
+            ],
+            "confidence": 57.0
+          },
+          {
+            "text": "F&E-Abteilung",
+            "bbox": [
+              1139,
+              5415,
+              1478,
+              5471
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1493,
+              5418,
+              1566,
+              5462
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sitz",
+            "bbox": [
+              1582,
+              5419,
+              1667,
+              5463
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1682,
+              5421,
+              1720,
+              5463
+            ],
+            "confidence": 79.0
+          },
+          {
+            "text": "Königs",
+            "bbox": [
+              1739,
+              5422,
+              1892,
+              5475
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Wustorhausen",
+            "bbox": [
+              1904,
+              5422,
+              2254,
+              5467
+            ],
+            "confidence": 88.0
+          }
+        ],
+        [
+          {
+            "text": "at",
+            "bbox": [
+              595,
+              5491,
+              648,
+              5535
+            ],
+            "confidence": 58.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              664,
+              5491,
+              703,
+              5535
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              719,
+              5494,
+              797,
+              5535
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Ehrentraud-Loos-Weg",
+            "bbox": [
+              809,
+              5494,
+              1332,
+              5552
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "352",
+            "bbox": [
+              1344,
+              5499,
+              1430,
+              5540
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "baheimatet",
+            "bbox": [
+              1445,
+              5499,
+              1719,
+              5543
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1735,
+              5503,
+              1823,
+              5543
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "betreibt",
+            "bbox": [
+              1839,
+              5503,
+              2025,
+              5544
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "dart",
+            "bbox": [
+              2037,
+              5507,
+              2133,
+              5547
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              2149,
+              5506,
+              2218,
+              5548
+            ],
+            "confidence": 86.0
+          }
+        ],
+        [
+          {
+            "text": "sigenes",
+            "bbox": [
+              591,
+              5572,
+              776,
+              5624
+            ],
+            "confidence": 49.0
+          },
+          {
+            "text": "Test-",
+            "bbox": [
+              785,
+              5573,
+              901,
+              5615
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              914,
+              5575,
+              1002,
+              5615
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Simulationszentrum.",
+            "bbox": [
+              1018,
+              5575,
+              1518,
+              5620
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "Interessierte",
+            "bbox": [
+              1533,
+              5579,
+              1832,
+              5624
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Studierende",
+            "bbox": [
+              1844,
+              5583,
+              2136,
+              5624
+            ],
+            "confidence": 7.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2153,
+              5583,
+              2238,
+              5625
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Absolvent:innen",
+            "bbox": [
+              591,
+              5652,
+              978,
+              5693
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "finden",
+            "bbox": [
+              990,
+              5655,
+              1139,
+              5696
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "boi",
+            "bbox": [
+              1159,
+              5656,
+              1227,
+              5696
+            ],
+            "confidence": 58.0
+          },
+          {
+            "text": "uns",
+            "bbox": [
+              1243,
+              5668,
+              1328,
+              5696
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              1340,
+              5658,
+              1412,
+              5696
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "spannendes",
+            "bbox": [
+              1428,
+              5659,
+              1719,
+              5708
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Umfeld",
+            "bbox": [
+              1735,
+              5659,
+              1908,
+              5700
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1922,
+              5662,
+              1988,
+              5700
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Praktike,",
+            "bbox": [
+              2001,
+              5663,
+              2205,
+              5710
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "Abschlussarbeiten",
+            "bbox": [
+              591,
+              5732,
+              1034,
+              5776
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              1050,
+              5735,
+              1161,
+              5776
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "einen",
+            "bbox": [
+              1174,
+              5733,
+              1304,
+              5776
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Berufseinstieg.",
+            "bbox": [
+              1318,
+              5736,
+              1671,
+              5789
+            ],
+            "confidence": 94.0
+          }
+        ]
+      ],
+      "bbox": [
+        591,
+        4614,
+        2261,
+        5789
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "In",
+            "bbox": [
+              591,
+              5876,
+              632,
+              5917
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              647,
+              5877,
+              725,
+              5917
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Zusammengerbeit",
+            "bbox": [
+              736,
+              5877,
+              1147,
+              5921
+            ],
+            "confidence": 26.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1163,
+              5880,
+              1236,
+              5921
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unseren",
+            "bbox": [
+              1252,
+              5889,
+              1441,
+              5921
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              1457,
+              5881,
+              1638,
+              5925
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "verfolgen",
+            "bbox": [
+              1650,
+              5885,
+              1871,
+              5935
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1884,
+              5885,
+              1956,
+              5925
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "einen",
+            "bbox": [
+              1968,
+              5885,
+              2098,
+              5926
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "egilen",
+            "bbox": [
+              591,
+              5953,
+              731,
+              6006
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              748,
+              5957,
+              833,
+              5994
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "itarativon",
+            "bbox": [
+              849,
+              5953,
+              1067,
+              5998
+            ],
+            "confidence": 53.0
+          },
+          {
+            "text": "Ansatz.",
+            "bbox": [
+              1082,
+              5958,
+              1256,
+              5998
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Projekte",
+            "bbox": [
+              1276,
+              5958,
+              1465,
+              6010
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "worden",
+            "bbox": [
+              1481,
+              5961,
+              1658,
+              6001
+            ],
+            "confidence": 78.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1674,
+              5961,
+              1715,
+              6001
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "kurzen",
+            "bbox": [
+              1730,
+              5961,
+              1884,
+              6001
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zyklen",
+            "bbox": [
+              1899,
+              5962,
+              2049,
+              6014
+            ],
+            "confidence": 49.0
+          }
+        ],
+        [
+          {
+            "text": "geplant,",
+            "bbox": [
+              588,
+              6034,
+              781,
+              6085
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "umgesetzt",
+            "bbox": [
+              797,
+              6040,
+              1046,
+              6086
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1063,
+              6035,
+              1147,
+              6078
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "reflektiert.",
+            "bbox": [
+              1167,
+              6038,
+              1409,
+              6079
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Dadurch",
+            "bbox": [
+              1428,
+              6038,
+              1629,
+              6082
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "können",
+            "bbox": [
+              1646,
+              6038,
+              1819,
+              6082
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1832,
+              6042,
+              1904,
+              6082
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              1916,
+              6042,
+              1992,
+              6082
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              2005,
+              6043,
+              2101,
+              6083
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "ändernde",
+            "bbox": [
+              591,
+              6110,
+              816,
+              6155
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "Anforderungen",
+            "bbox": [
+              829,
+              6114,
+              1186,
+              6167
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "flexibel",
+            "bbox": [
+              1199,
+              6114,
+              1373,
+              6159
+            ],
+            "confidence": 73.0
+          },
+          {
+            "text": "reagieren",
+            "bbox": [
+              1384,
+              6118,
+              1606,
+              6170
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1622,
+              6118,
+              1706,
+              6161
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "schnell",
+            "bbox": [
+              1726,
+              6119,
+              1898,
+              6162
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "funktionierende",
+            "bbox": [
+              587,
+              6190,
+              966,
+              6235
+            ],
+            "confidence": 58.0
+          },
+          {
+            "text": "Telllösungen",
+            "bbox": [
+              978,
+              6192,
+              1276,
+              6247
+            ],
+            "confidence": 46.0
+          },
+          {
+            "text": "liefern.",
+            "bbox": [
+              1292,
+              6194,
+              1454,
+              6236
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Unsere",
+            "bbox": [
+              1473,
+              6195,
+              1639,
+              6239
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Projektmanager:innen",
+            "bbox": [
+              1654,
+              6198,
+              2180,
+              6251
+            ],
+            "confidence": 38.0
+          }
+        ],
+        [
+          {
+            "text": "und",
+            "bbox": [
+              591,
+              6272,
+              677,
+              6311
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Entwickler;Innen",
+            "bbox": [
+              695,
+              6272,
+              1091,
+              6315
+            ],
+            "confidence": 29.0
+          },
+          {
+            "text": "werden",
+            "bbox": [
+              1106,
+              6275,
+              1283,
+              6315
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "regelmäßig",
+            "bbox": [
+              1299,
+              6276,
+              1561,
+              6331
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "geschult,",
+            "bbox": [
+              1574,
+              6279,
+              1791,
+              6331
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "um",
+            "bbox": [
+              1808,
+              6288,
+              1881,
+              6320
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "moderne",
+            "bbox": [
+              1898,
+              6280,
+              2109,
+              6320
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Methoden",
+            "bbox": [
+              591,
+              6352,
+              829,
+              6393
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wie",
+            "bbox": [
+              841,
+              6352,
+              923,
+              6396
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "SCRUM,",
+            "bbox": [
+              937,
+              6354,
+              1135,
+              6400
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Kanban",
+            "bbox": [
+              1154,
+              6356,
+              1332,
+              6396
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1348,
+              6356,
+              1436,
+              6396
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "DevOps",
+            "bbox": [
+              1453,
+              6356,
+              1639,
+              6408
+            ],
+            "confidence": 83.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              1654,
+              6356,
+              1774,
+              6400
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "nur",
+            "bbox": [
+              1787,
+              6368,
+              1867,
+              6400
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              1879,
+              6368,
+              1932,
+              6400
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "verstehen,",
+            "bbox": [
+              1943,
+              6360,
+              2194,
+              6408
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "sondem",
+            "bbox": [
+              588,
+              6433,
+              781,
+              6474
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "aktiv",
+            "bbox": [
+              797,
+              6435,
+              910,
+              6476
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              921,
+              6444,
+              973,
+              6476
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "leben.",
+            "bbox": [
+              990,
+              6436,
+              1135,
+              6477
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Darübor",
+            "bbox": [
+              1154,
+              6436,
+              1349,
+              6480
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "hinaua",
+            "bbox": [
+              1360,
+              6436,
+              1518,
+              6480
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "bieten",
+            "bbox": [
+              1533,
+              6440,
+              1682,
+              6480
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1694,
+              6440,
+              1768,
+              6480
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Schulungen",
+            "bbox": [
+              1779,
+              6441,
+              2061,
+              6493
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              2077,
+              6441,
+              2141,
+              6484
+            ],
+            "confidence": 91.0
+          }
+        ]
+      ],
+      "bbox": [
+        587,
+        5876,
+        2194,
+        6493
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "an,",
+            "bbox": [
+              2976,
+              803,
+              3047,
+              840
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "um",
+            "bbox": [
+              3066,
+              804,
+              3139,
+              836
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3152,
+              796,
+              3224,
+              836
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zusammenarbeit",
+            "bbox": [
+              3237,
+              797,
+              3647,
+              849
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "so",
+            "bbox": [
+              3663,
+              816,
+              3716,
+              849
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "effizient",
+            "bbox": [
+              3732,
+              808,
+              3921,
+              855
+            ],
+            "confidence": 74.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3937,
+              815,
+              4026,
+              856
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "transparont",
+            "bbox": [
+              2604,
+              869,
+              2881,
+              921
+            ],
+            "confidence": 79.0
+          },
+          {
+            "text": "wie",
+            "bbox": [
+              2894,
+              872,
+              2971,
+              912
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "möglich",
+            "bbox": [
+              2991,
+              876,
+              3176,
+              928
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              3192,
+              888,
+              3244,
+              920
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "goatalten.",
+            "bbox": [
+              3257,
+              883,
+              3491,
+              932
+            ],
+            "confidence": 78.0
+          },
+          {
+            "text": "Besonders",
+            "bbox": [
+              3510,
+              884,
+              3764,
+              929
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "stolz",
+            "bbox": [
+              3776,
+              893,
+              3889,
+              933
+            ],
+            "confidence": 71.0
+          },
+          {
+            "text": "sind",
+            "bbox": [
+              3904,
+              893,
+              4002,
+              935
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              4016,
+              897,
+              4086,
+              936
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              4099,
+              898,
+              4175,
+              937
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              4186,
+              900,
+              4259,
+              941
+            ],
+            "confidence": 84.0
+          }
+        ],
+        [
+          {
+            "text": "positiven",
+            "bbox": [
+              2604,
+              946,
+              2818,
+              997
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Rückmeldungen,",
+            "bbox": [
+              2834,
+              949,
+              3234,
+              1008
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3253,
+              958,
+              3321,
+              1001
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              3337,
+              960,
+              3406,
+              1002
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              3417,
+              973,
+              3502,
+              1004
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "langjährigen",
+            "bbox": [
+              3519,
+              965,
+              3809,
+              1021
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Partnern",
+            "bbox": [
+              3825,
+              970,
+              4026,
+              1014
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "erhalten",
+            "bbox": [
+              4041,
+              977,
+              4238,
+              1018
+            ],
+            "confidence": 89.0
+          }
+        ],
+        [
+          {
+            "text": "—",
+            "bbox": [
+              2596,
+              1049,
+              2625,
+              1058
+            ],
+            "confidence": 16.0
+          },
+          {
+            "text": "sel",
+            "bbox": [
+              2639,
+              1029,
+              2705,
+              1071
+            ],
+            "confidence": 81.0
+          },
+          {
+            "text": "83",
+            "bbox": [
+              2721,
+              1042,
+              2771,
+              1071
+            ],
+            "confidence": 58.0
+          },
+          {
+            "text": "durch",
+            "bbox": [
+              2785,
+              1032,
+              2923,
+              1074
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "informelle",
+            "bbox": [
+              2939,
+              1033,
+              3176,
+              1078
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Gespräche,",
+            "bbox": [
+              3192,
+              1041,
+              3465,
+              1094
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "regelmäßige",
+            "bbox": [
+              3482,
+              1049,
+              3772,
+              1103
+            ],
+            "confidence": 10.0
+          },
+          {
+            "text": "Reviews",
+            "bbox": [
+              3788,
+              1053,
+              3981,
+              1098
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3998,
+              1058,
+              4102,
+              1101
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "Strukturierte",
+            "bbox": [
+              2601,
+              1110,
+              2894,
+              1154
+            ],
+            "confidence": 56.0
+          },
+          {
+            "text": "Feedbackprozesse.",
+            "bbox": [
+              2910,
+              1114,
+              3365,
+              1168
+            ],
+            "confidence": 43.0
+          },
+          {
+            "text": "Diese",
+            "bbox": [
+              3385,
+              1122,
+              3514,
+              1166
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Rückmoldungen",
+            "bbox": [
+              3533,
+              1126,
+              3920,
+              1183
+            ],
+            "confidence": 57.0
+          },
+          {
+            "text": "fließen",
+            "bbox": [
+              3933,
+              1134,
+              4095,
+              1178
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "kontinulerlich",
+            "bbox": [
+              2596,
+              1188,
+              2923,
+              1232
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "In",
+            "bbox": [
+              2939,
+              1194,
+              2978,
+              1235
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              2994,
+              1194,
+              3064,
+              1235
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Verbesserung",
+            "bbox": [
+              3078,
+              1195,
+              3406,
+              1255
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "unserer",
+            "bbox": [
+              3422,
+              1213,
+              3603,
+              1246
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Prozesse",
+            "bbox": [
+              3615,
+              1207,
+              3824,
+              1250
+            ],
+            "confidence": 49.0
+          },
+          {
+            "text": "eln.",
+            "bbox": [
+              3840,
+              1211,
+              3925,
+              1255
+            ],
+            "confidence": 86.0
+          }
+        ]
+      ],
+      "bbox": [
+        2596,
+        796,
+        4259,
+        1255
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Ein",
+      "bbox": [
+        636,
+        2011,
+        704,
+        2052
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "zentrales",
+      "bbox": [
+        717,
+        2015,
+        934,
+        2056
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Element",
+      "bbox": [
+        950,
+        2015,
+        1147,
+        2060
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Unsere",
+      "bbox": [
+        615,
+        3274,
+        784,
+        3318
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Ein",
+      "bbox": [
+        599,
+        4618,
+        670,
+        4659
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "unsere",
+      "bbox": [
+        2608,
+        796,
+        2769,
+        828
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Kunden",
+      "bbox": [
+        2785,
+        788,
+        2963,
+        832
+      ],
+      "confidence": 96.0
+    }
+  ]
+}

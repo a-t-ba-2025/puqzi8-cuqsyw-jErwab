@@ -1,0 +1,337 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Sollten weitere Unteriagen erforderlich sein, werden wir Sie zeitnah benachrichtigen.",
+            "bbox": [
+              664,
+              3303,
+              3979,
+              3465
+            ],
+            "confidence": 0.9937219023704529
+          }
+        ],
+        [
+          {
+            "text": "Bitte sehen Sie bis dahin von Rückfragen zum Bearbeitungsstand ab.",
+            "bbox": [
+              664,
+              3427,
+              3322,
+              3567
+            ],
+            "confidence": 0.9983758926391602
+          }
+        ]
+      ],
+      "bbox": [
+        664,
+        3303,
+        3979,
+        3567
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Bei Rückfragen stehen wir Ihnen gerne unter der Telefonnummer +49(0)6762 463724",
+            "bbox": [
+              664,
+              3668,
+              3993,
+              3801
+            ],
+            "confidence": 0.9821922183036804
+          }
+        ],
+        [
+          {
+            "text": "oder per E-Mail unter attila06@yahoo.de zur Verfügung",
+            "bbox": [
+              656,
+              3785,
+              2864,
+              3918
+            ],
+            "confidence": 0.9904090166091919
+          }
+        ]
+      ],
+      "bbox": [
+        656,
+        3668,
+        3993,
+        3918
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "hiermit informieren wir Sie darüber, dass lhr Antrag mit der Vorgangsnummer 50631490",
+            "bbox": [
+              664,
+              2835,
+              4126,
+              2982
+            ],
+            "confidence": 0.9806310534477234
+          }
+        ],
+        [
+          {
+            "text": "geprüft wurde. Aufgrund der aktuellen Bearbeitungslage wird die abschließende",
+            "bbox": [
+              656,
+              2945,
+              3816,
+              3099
+            ],
+            "confidence": 0.9895744919776917
+          }
+        ],
+        [
+          {
+            "text": "Entscheidung voraussichtlich bis zurn 25.04.2025 erfoigen.",
+            "bbox": [
+              656,
+              3062,
+              2960,
+              3216
+            ],
+            "confidence": 0.9916372895240784
+          }
+        ]
+      ],
+      "bbox": [
+        656,
+        2835,
+        4126,
+        3216
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte/r Katrin Löchel,",
+            "bbox": [
+              671,
+              2587,
+              1801,
+              2705
+            ],
+            "confidence": 0.957258939743042
+          }
+        ]
+      ],
+      "bbox": [
+        671,
+        2587,
+        1801,
+        2705
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Katrin Löchel",
+            "bbox": [
+              686,
+              2046,
+              1203,
+              2149
+            ],
+            "confidence": 0.9896506071090698
+          }
+        ],
+        [
+          {
+            "text": "Konstantinos-Schüler-Gasse 938",
+            "bbox": [
+              679,
+              2163,
+              1942,
+              2281
+            ],
+            "confidence": 0.9849454760551453
+          }
+        ],
+        [
+          {
+            "text": "60896 Rehau",
+            "bbox": [
+              677,
+              2264,
+              1212,
+              2399
+            ],
+            "confidence": 0.9996621608734131
+          }
+        ]
+      ],
+      "bbox": [
+        677,
+        2046,
+        1942,
+        2399
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Teresa Anders",
+            "bbox": [
+              649,
+              4260,
+              1226,
+              4371
+            ],
+            "confidence": 0.9998553991317749
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        4260,
+        1226,
+        4371
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              649,
+              4019,
+              1639,
+              4145
+            ],
+            "confidence": 0.9858399033546448
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        4019,
+        1639,
+        4145
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "+49(0)0227264045",
+            "bbox": [
+              664,
+              4502,
+              1402,
+              4604
+            ],
+            "confidence": 0.9811069965362549
+          }
+        ],
+        [
+          {
+            "text": "https://hofmann.de/",
+            "bbox": [
+              641,
+              4611,
+              1477,
+              4729
+            ],
+            "confidence": 0.9935613870620728
+          }
+        ]
+      ],
+      "bbox": [
+        641,
+        4502,
+        1477,
+        4729
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "attila06@yahoo.de ",
+            "bbox": [
+              3174,
+              6095,
+              4096,
+              6197
+            ],
+            "confidence": 0.9900479912757874
+          }
+        ]
+      ],
+      "bbox": [
+        3174,
+        6095,
+        4096,
+        6197
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "15.04.2025",
+      "bbox": [
+        678,
+        1672,
+        1138,
+        1792
+      ],
+      "confidence": 0.9999690055847168
+    },
+    {
+      "text": "+49(0)6762 463724",
+      "bbox": [
+        3388,
+        5847,
+        4178,
+        5949
+      ],
+      "confidence": 0.998735785484314
+    },
+    {
+      "text": "https://hofmann.de/ @",
+      "bbox": [
+        2886,
+        6344,
+        3868,
+        6446
+      ],
+      "confidence": 0.9944839477539062
+    },
+    {
+      "text": "+49(0)0227264045",
+      "bbox": [
+        2738,
+        6599,
+        3484,
+        6694
+      ],
+      "confidence": 0.9997234344482422
+    }
+  ]
+}

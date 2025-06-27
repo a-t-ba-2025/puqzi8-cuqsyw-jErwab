@@ -1,0 +1,508 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon: 0283544930",
+            "bbox": [
+              449,
+              2535,
+              1219,
+              2662
+            ],
+            "confidence": 0.9973207712173462
+          }
+        ]
+      ],
+      "bbox": [
+        449,
+        2535,
+        1219,
+        2662
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr gechrte/r Vinzenz Scliolz,",
+            "bbox": [
+              443,
+              3625,
+              1690,
+              3735
+            ],
+            "confidence": 0.9531272053718567
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        3625,
+        1690,
+        3735
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "wir informieren Sie darüber, dass Ihr Antrag auf Namensänderung vom 06.02.2025 aktuell in Bearbeitung ist.",
+            "bbox": [
+              442,
+              3895,
+              4222,
+              4035
+            ],
+            "confidence": 0.9857592582702637
+          }
+        ],
+        [
+          {
+            "text": "Aufgrund der aktuellen Bcarbeitungslage wird die Entscheidung voraussichtlich bis zum 24.05.2025",
+            "bbox": [
+              442,
+              4012,
+              3890,
+              4144
+            ],
+            "confidence": 0.9910893440246582
+          }
+        ],
+        [
+          {
+            "text": "getroffen.Sollten noch weitere Unteriagen benötigt werden, setzen wir uns zeitnah mit Ihnen in Verbindung. Sie",
+            "bbox": [
+              442,
+              4122,
+              4281,
+              4261
+            ],
+            "confidence": 0.9906263947486877
+          }
+        ],
+        [
+          {
+            "text": " können den Bearbeitungsstatus Ihres Antrags jederzeit unter Angabe der Vorgangsnummer r-82520131 bei",
+            "bbox": [
+              435,
+              4231,
+              4126,
+              4371
+            ],
+            "confidence": 0.9836357831954956
+          }
+        ],
+        [
+          {
+            "text": "unserer Behörde erfragen.Falls Sie Fragen haben, stehen wir Ihnen unter +49(0)4220161636 oder per E-Mail",
+            "bbox": [
+              435,
+              4348,
+              4200,
+              4480
+            ],
+            "confidence": 0.981505811214447
+          }
+        ],
+        [
+          {
+            "text": "unter amir25@gmail.com zur Verfügung.",
+            "bbox": [
+              428,
+              4458,
+              1860,
+              4575
+            ],
+            "confidence": 0.9862253069877625
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        3895,
+        4281,
+        4575
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              2111,
+              4955,
+              2989,
+              5050
+            ],
+            "confidence": 0.9573821425437927
+          }
+        ],
+        [
+          {
+            "text": "Jaqueline Tintzmann",
+            "bbox": [
+              2118,
+              5072,
+              2864,
+              5167
+            ],
+            "confidence": 0.9817751049995422
+          }
+        ],
+        [
+          {
+            "text": "Leiter/in der Schulverwaltung",
+            "bbox": [
+              2103,
+              5174,
+              3167,
+              5284
+            ],
+            "confidence": 0.9871535301208496
+          }
+        ]
+      ],
+      "bbox": [
+        2103,
+        4955,
+        3167,
+        5284
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Vinzenz Scholz",
+            "bbox": [
+              457,
+              2089,
+              1005,
+              2208
+            ],
+            "confidence": 0.997953474521637
+          }
+        ],
+        [
+          {
+            "text": "Schmiedtstraße 4/4",
+            "bbox": [
+              457,
+              2199,
+              1160,
+              2318
+            ],
+            "confidence": 0.9872627258300781
+          }
+        ],
+        [
+          {
+            "text": " 59239 Duderstadt",
+            "bbox": [
+              450,
+              2316,
+              1108,
+              2427
+            ],
+            "confidence": 0.9760519862174988
+          }
+        ]
+      ],
+      "bbox": [
+        450,
+        2089,
+        1160,
+        2427
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " 59239 Duderstadt",
+            "bbox": [
+              450,
+              2316,
+              1108,
+              2427
+            ],
+            "confidence": 0.9760519862174988
+          }
+        ]
+      ],
+      "bbox": [
+        450,
+        2316,
+        1108,
+        2427
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon: +49(0)4220161636",
+            "bbox": [
+              2981,
+              1717,
+              3964,
+              1843
+            ],
+            "confidence": 0.9941855669021606
+          }
+        ]
+      ],
+      "bbox": [
+        2981,
+        1717,
+        3964,
+        1843
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Leiter/in der Schulverwaltung",
+            "bbox": [
+              2103,
+              5174,
+              3167,
+              5284
+            ],
+            "confidence": 0.9871535301208496
+          }
+        ]
+      ],
+      "bbox": [
+        2103,
+        5174,
+        3167,
+        5284
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "48030 Hannover",
+            "bbox": [
+              2981,
+              1607,
+              3603,
+              1726
+            ],
+            "confidence": 0.9980835318565369
+          }
+        ]
+      ],
+      "bbox": [
+        2981,
+        1607,
+        3603,
+        1726
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Schmiedtstraße 4/4",
+            "bbox": [
+              457,
+              2199,
+              1160,
+              2318
+            ],
+            "confidence": 0.9872627258300781
+          }
+        ]
+      ],
+      "bbox": [
+        457,
+        2199,
+        1160,
+        2318
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              2111,
+              4955,
+              2989,
+              5050
+            ],
+            "confidence": 0.9573821425437927
+          }
+        ]
+      ],
+      "bbox": [
+        2111,
+        4955,
+        2989,
+        5050
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "48030 Hannover",
+            "bbox": [
+              2111,
+              5891,
+              2724,
+              5986
+            ],
+            "confidence": 0.9870067238807678
+          }
+        ]
+      ],
+      "bbox": [
+        2111,
+        5891,
+        2724,
+        5986
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "KGaA",
+            "bbox": [
+              2979,
+              1372,
+              3250,
+              1493
+            ],
+            "confidence": 0.9993830919265747
+          }
+        ],
+        [
+          {
+            "text": "Scheibeweg 7",
+            "bbox": [
+              2979,
+              1481,
+              3472,
+              1625
+            ],
+            "confidence": 0.9688454270362854
+          }
+        ],
+        [
+          {
+            "text": "48030 Hannover",
+            "bbox": [
+              2981,
+              1607,
+              3603,
+              1726
+            ],
+            "confidence": 0.9980835318565369
+          }
+        ],
+        [
+          {
+            "text": "Telefon: +49(0)4220161636",
+            "bbox": [
+              2981,
+              1717,
+              3964,
+              1843
+            ],
+            "confidence": 0.9941855669021606
+          }
+        ]
+      ],
+      "bbox": [
+        2979,
+        1372,
+        3964,
+        1843
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Betreff: Information zu Ihrem Antrag auf Namensänderung",
+            "bbox": [
+              442,
+              3230,
+              2517,
+              3362
+            ],
+            "confidence": 0.9842879176139832
+          }
+        ]
+      ],
+      "bbox": [
+        442,
+        3230,
+        2517,
+        3362
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Ditschlerin Handc Stiftung & Co.",
+      "bbox": [
+        2981,
+        1264,
+        4311,
+        1397
+      ],
+      "confidence": 0.9796621799468994
+    },
+    {
+      "text": "27.02.2025",
+      "bbox": [
+        448,
+        2943,
+        873,
+        3072
+      ],
+      "confidence": 0.9998934864997864
+    },
+    {
+      "text": "Ditschlerin Hande Stiftung & Co. KGaA",
+      "bbox": [
+        2111,
+        5656,
+        3676,
+        5767
+      ],
+      "confidence": 0.9938395619392395
+    },
+    {
+      "text": "Scheibeweg 7",
+      "bbox": [
+        2108,
+        5749,
+        2593,
+        5893
+      ],
+      "confidence": 0.9801002144813538
+    }
+  ]
+}

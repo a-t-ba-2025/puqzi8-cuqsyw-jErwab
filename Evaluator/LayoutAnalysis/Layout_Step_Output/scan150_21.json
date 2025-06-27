@@ -1,0 +1,522 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte Damen und Herren,",
+            "bbox": [
+              694,
+              1951,
+              2045,
+              2054
+            ],
+            "confidence": 0.9892673492431641
+          }
+        ]
+      ],
+      "bbox": [
+        694,
+        1951,
+        2045,
+        2054
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "12.06.2025",
+            "bbox": [
+              694,
+              1352,
+              1151,
+              1432
+            ],
+            "confidence": 0.9998822212219238
+          }
+        ]
+      ],
+      "bbox": [
+        694,
+        1352,
+        1151,
+        1432
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "70295 Erding",
+            "bbox": [
+              670,
+              977,
+              1242,
+              1127
+            ],
+            "confidence": 0.9999011158943176
+          }
+        ]
+      ],
+      "bbox": [
+        670,
+        977,
+        1242,
+        1127
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": " Laut Ihrer Versandbestätigung hätte das Paket bereits arn 19.02.2025 zugestellt werden",
+            "bbox": [
+              672,
+              2741,
+              4266,
+              2872
+            ],
+            "confidence": 0.9641697406768799
+          }
+        ],
+        [
+          {
+            "text": "sollen. Leider ist es bisher weder bei mir, Damaris Klemm, noch bei meiner Nachbarin,",
+            "bbox": [
+              694,
+              2901,
+              4229,
+              2996
+            ],
+            "confidence": 0.9947609305381775
+          }
+        ],
+        [
+          {
+            "text": "Salih Gröttner, eingetroffen. Ich habe mehrfach versucht, Ihre Kundenhotline unter der",
+            "bbox": [
+              679,
+              3026,
+              4229,
+              3135
+            ],
+            "confidence": 0.9881842732429504
+          }
+        ],
+        [
+          {
+            "text": "Nummer 01089 418547 zu erreichen, jedoch leider ohne Erfolg. Auch auf meine E-Mail",
+            "bbox": [
+              679,
+              3157,
+              4229,
+              3274
+            ],
+            "confidence": 0.9938104152679443
+          }
+        ],
+        [
+          {
+            "text": "an allaharloff@web.de habe ich bislang keine Rückmeldung erhalten",
+            "bbox": [
+              686,
+              3318,
+              3513,
+              3413
+            ],
+            "confidence": 0.9945659041404724
+          }
+        ]
+      ],
+      "bbox": [
+        672,
+        2741,
+        4266,
+        3413
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Ich bitte Sie höflich, den Verbleib der Sendung zu prüfen und mir eine Rückmeldung bis",
+            "bbox": [
+              686,
+              4246,
+              4259,
+              4348
+            ],
+            "confidence": 0.9811357259750366
+          }
+        ],
+        [
+          {
+            "text": "spätestens 09.04.2025 zukommen zu lassen. Sollte das Paket bis dahin nicht eintreffen",
+            "bbox": [
+              686,
+              4378,
+              4266,
+              4495
+            ],
+            "confidence": 0.9924634099006653
+          }
+        ],
+        [
+          {
+            "text": "oder ich keine Rückmeldung erhalten, sehe ich mich leider gezwungen, weitere Schritte",
+            "bbox": [
+              686,
+              4516,
+              4274,
+              4634
+            ],
+            "confidence": 0.9912221431732178
+          }
+        ],
+        [
+          {
+            "text": " einzuleiten.",
+            "bbox": [
+              678,
+              4647,
+              1190,
+              4766
+            ],
+            "confidence": 0.9705803394317627
+          }
+        ]
+      ],
+      "bbox": [
+        678,
+        4246,
+        4274,
+        4766
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "ich wende mich heute mit einem Anliegen an Sie, das mir sehr am Herzen liegt. Am",
+            "bbox": [
+              679,
+              2141,
+              4067,
+              2251
+            ],
+            "confidence": 0.989970862865448
+          }
+        ],
+        [
+          {
+            "text": "31.01.2025 habe ich über Inre Internetseite http://hess.de/ eine Bestellung aufgegeben,",
+            "bbox": [
+              686,
+              2280,
+              4259,
+              2375
+            ],
+            "confidence": 0.9894852638244629
+          }
+        ],
+        [
+          {
+            "text": "die bis heute nicht bei mir eingetroffen ist. Die Bestellnummer lautete AB-31.01.2025-",
+            "bbox": [
+              679,
+              2412,
+              4200,
+              2522
+            ],
+            "confidence": 0.9986350536346436
+          }
+        ],
+        [
+          {
+            "text": "Anselm Hörle, falls Ihnen das weiterhilft.",
+            "bbox": [
+              679,
+              2550,
+              2392,
+              2660
+            ],
+            "confidence": 0.9902323484420776
+          }
+        ]
+      ],
+      "bbox": [
+        679,
+        2141,
+        4259,
+        2660
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Zur besseren Ubersicht füge ich am Ende dieses Schreibens noch einmal alle relevanten",
+            "bbox": [
+              686,
+              4845,
+              4318,
+              4955
+            ],
+            "confidence": 0.9922885894775391
+          }
+        ],
+        [
+          {
+            "text": "Daten aufgelistet bei.",
+            "bbox": [
+              694,
+              4999,
+              1572,
+              5101
+            ],
+            "confidence": 0.9986677765846252
+          }
+        ]
+      ],
+      "bbox": [
+        686,
+        4845,
+        4318,
+        5101
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              701,
+              5204,
+              1712,
+              5299
+            ],
+            "confidence": 0.9920693039894104
+          }
+        ]
+      ],
+      "bbox": [
+        701,
+        5204,
+        1712,
+        5299
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Södingallee 6",
+            "bbox": [
+              694,
+              3786,
+              1255,
+              3888
+            ],
+            "confidence": 0.9760196208953857
+          }
+        ]
+      ],
+      "bbox": [
+        694,
+        3786,
+        1255,
+        3888
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Damaris Klemm",
+            "bbox": [
+              694,
+              5342,
+              1373,
+              5437
+            ],
+            "confidence": 0.9976829290390015
+          }
+        ]
+      ],
+      "bbox": [
+        694,
+        5342,
+        1373,
+        5437
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Israel",
+            "bbox": [
+              672,
+              1140,
+              930,
+              1250
+            ],
+            "confidence": 0.9283974766731262
+          }
+        ]
+      ],
+      "bbox": [
+        672,
+        1140,
+        930,
+        1250
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Damaris Klemm",
+            "bbox": [
+              686,
+              731,
+              1358,
+              833
+            ],
+            "confidence": 0.9989725947380066
+          }
+        ],
+        [
+          {
+            "text": "Södingallee 6",
+            "bbox": [
+              686,
+              870,
+              1247,
+              972
+            ],
+            "confidence": 0.9882799983024597
+          }
+        ],
+        [
+          {
+            "text": "70295 Erding",
+            "bbox": [
+              670,
+              977,
+              1242,
+              1127
+            ],
+            "confidence": 0.9999011158943176
+          }
+        ],
+        [
+          {
+            "text": "Israel",
+            "bbox": [
+              672,
+              1140,
+              930,
+              1250
+            ],
+            "confidence": 0.9283974766731262
+          }
+        ]
+      ],
+      "bbox": [
+        670,
+        731,
+        1358,
+        1250
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte Damen und Herren,",
+            "bbox": [
+              694,
+              1951,
+              2045,
+              2054
+            ],
+            "confidence": 0.9892673492431641
+          }
+        ]
+      ],
+      "bbox": [
+        694,
+        1951,
+        2045,
+        2054
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Israel",
+            "bbox": [
+              679,
+              4049,
+              937,
+              4158
+            ],
+            "confidence": 0.9944390654563904
+          }
+        ]
+      ],
+      "bbox": [
+        679,
+        4049,
+        937,
+        4158
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Meine Adresse lautet erneut zur Kontrolle:",
+      "bbox": [
+        686,
+        3515,
+        2421,
+        3610
+      ],
+      "confidence": 0.9890425801277161
+    },
+    {
+      "text": "Damaris Klemm",
+      "bbox": [
+        694,
+        3654,
+        1365,
+        3749
+      ],
+      "confidence": 0.9910555481910706
+    },
+    {
+      "text": "70295 Erding",
+      "bbox": [
+        685,
+        3902,
+        1248,
+        4028
+      ],
+      "confidence": 0.9490315318107605
+    }
+  ]
+}

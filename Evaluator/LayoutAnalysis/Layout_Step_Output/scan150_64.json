@@ -1,0 +1,1608 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": "es",
+            "bbox": [
+              798,
+              3830,
+              825,
+              3858
+            ],
+            "confidence": 38.0
+          },
+          {
+            "text": "Nachweis",
+            "bbox": [
+              942,
+              3810,
+              1309,
+              3874
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              1336,
+              3814,
+              1506,
+              3877
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wirklich",
+            "bbox": [
+              1522,
+              3818,
+              1812,
+              3882
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        798,
+        3810,
+        1812,
+        3882
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "*",
+            "bbox": [
+              793,
+              4013,
+              825,
+              4043
+            ],
+            "confidence": 72.0
+          },
+          {
+            "text": "Bestätigung",
+            "bbox": [
+              942,
+              3994,
+              1384,
+              4076
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1400,
+              4013,
+              1533,
+              4063
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Junken",
+            "bbox": [
+              1553,
+              3999,
+              1815,
+              4066
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Häring",
+            "bbox": [
+              1843,
+              4004,
+              2086,
+              4086
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "GmbH",
+            "bbox": [
+              2108,
+              4007,
+              2347,
+              4071
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        793,
+        3994,
+        2347,
+        4086
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "e*",
+            "bbox": [
+              801,
+              3649,
+              829,
+              3680
+            ],
+            "confidence": 29.0
+          },
+          {
+            "text": "Kopie",
+            "bbox": [
+              946,
+              3629,
+              1151,
+              3708
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "des",
+            "bbox": [
+              1175,
+              3632,
+              1305,
+              3697
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Personalausweises",
+            "bbox": [
+              1333,
+              3636,
+              2057,
+              3705
+            ],
+            "confidence": 90.0
+          }
+        ]
+      ],
+      "bbox": [
+        801,
+        3629,
+        2057,
+        3708
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Betreff:",
+            "bbox": [
+              668,
+              2965,
+              955,
+              3029
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Erinnerung",
+            "bbox": [
+              984,
+              2970,
+              1417,
+              3053
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "-",
+            "bbox": [
+              1432,
+              3009,
+              1477,
+              3021
+            ],
+            "confidence": 47.0
+          },
+          {
+            "text": "Fehlende",
+            "bbox": [
+              1498,
+              2978,
+              1860,
+              3045
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "U",
+            "bbox": [
+              1888,
+              2984,
+              1939,
+              3045
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nterlagen",
+            "bbox": [
+              1948,
+              2985,
+              2322,
+              3065
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              2346,
+              2989,
+              2456,
+              3052
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Vorgangsnummer",
+            "bbox": [
+              2475,
+              2993,
+              3185,
+              3073
+            ],
+            "confidence": 54.0
+          },
+          {
+            "text": "r-82891134",
+            "bbox": [
+              3205,
+              3005,
+              3639,
+              3069
+            ],
+            "confidence": 90.0
+          }
+        ]
+      ],
+      "bbox": [
+        668,
+        2965,
+        3639,
+        3073
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Betreff:",
+            "bbox": [
+              668,
+              2965,
+              955,
+              3029
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Erinnerung",
+            "bbox": [
+              984,
+              2970,
+              1417,
+              3053
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "-",
+            "bbox": [
+              1432,
+              3009,
+              1477,
+              3021
+            ],
+            "confidence": 47.0
+          },
+          {
+            "text": "Fehlende",
+            "bbox": [
+              1498,
+              2978,
+              1860,
+              3045
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "U",
+            "bbox": [
+              1888,
+              2984,
+              1939,
+              3045
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nterlagen",
+            "bbox": [
+              1948,
+              2985,
+              2322,
+              3065
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              2346,
+              2989,
+              2456,
+              3052
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Vorgangsnummer",
+            "bbox": [
+              2475,
+              2993,
+              3185,
+              3073
+            ],
+            "confidence": 54.0
+          },
+          {
+            "text": "r-82891134",
+            "bbox": [
+              3205,
+              3005,
+              3639,
+              3069
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "Sehr",
+            "bbox": [
+              660,
+              3146,
+              833,
+              3211
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "geehrte/r",
+            "bbox": [
+              850,
+              3150,
+              1196,
+              3226
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Milena",
+            "bbox": [
+              1219,
+              3154,
+              1461,
+              3222
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Warmer,",
+            "bbox": [
+              1486,
+              3158,
+              1811,
+              3235
+            ],
+            "confidence": 89.0
+          }
+        ]
+      ],
+      "bbox": [
+        660,
+        2965,
+        3639,
+        3235
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "https://hoffmann.com/",
+            "bbox": [
+              640,
+              5591,
+              1506,
+              5664
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "|",
+            "bbox": [
+              1533,
+              5597,
+              1543,
+              5673
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "lothar76@yahoo.de",
+            "bbox": [
+              1573,
+              5597,
+              2315,
+              5677
+            ],
+            "confidence": 81.0
+          }
+        ]
+      ],
+      "bbox": [
+        640,
+        5591,
+        2315,
+        5677
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "04.04.2025",
+            "bbox": [
+              668,
+              2592,
+              1083,
+              2659
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        668,
+        2592,
+        1083,
+        2659
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "03555",
+            "bbox": [
+              672,
+              2374,
+              898,
+              2438
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Schrobenhausen",
+            "bbox": [
+              921,
+              2377,
+              1595,
+              2450
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        672,
+        2374,
+        1595,
+        2450
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Für",
+            "bbox": [
+              648,
+              4466,
+              768,
+              4529
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Rückfragen",
+            "bbox": [
+              789,
+              4469,
+              1211,
+              4549
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "stehen",
+            "bbox": [
+              1235,
+              4474,
+              1489,
+              4538
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1509,
+              4477,
+              1626,
+              4538
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Ihnen",
+            "bbox": [
+              1646,
+              4477,
+              1852,
+              4542
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "gerne",
+            "bbox": [
+              1875,
+              4491,
+              2081,
+              4558
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "telefonisch",
+            "bbox": [
+              2102,
+              4485,
+              2523,
+              4546
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              2551,
+              4494,
+              2746,
+              4550
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "(00912)",
+            "bbox": [
+              2770,
+              4490,
+              3047,
+              4570
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "281533",
+            "bbox": [
+              3071,
+              4494,
+              3345,
+              4558
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3373,
+              4497,
+              3543,
+              4558
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "per",
+            "bbox": [
+              3562,
+              4511,
+              3684,
+              4574
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "E-Mail",
+            "bbox": [
+              3707,
+              4498,
+              3941,
+              4562
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              3964,
+              4508,
+              4162,
+              4566
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "lothar76@yahoo.de",
+            "bbox": [
+              648,
+              4583,
+              1385,
+              4663
+            ],
+            "confidence": 80.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              1408,
+              4607,
+              1523,
+              4655
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Verfügung.",
+            "bbox": [
+              1542,
+              4594,
+              1944,
+              4671
+            ],
+            "confidence": 72.0
+          }
+        ]
+      ],
+      "bbox": [
+        648,
+        4466,
+        4162,
+        4671
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "leider",
+            "bbox": [
+              661,
+              3327,
+              871,
+              3394
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "konnten",
+            "bbox": [
+              893,
+              3332,
+              1192,
+              3399
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              1218,
+              3336,
+              1332,
+              3399
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Ihren",
+            "bbox": [
+              1353,
+              3339,
+              1538,
+              3404
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Antrag",
+            "bbox": [
+              1561,
+              3343,
+              1809,
+              3422
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              1827,
+              3347,
+              1948,
+              3408
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Fünf",
+            "bbox": [
+              1972,
+              3347,
+              2146,
+              3411
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Wohnung",
+            "bbox": [
+              2161,
+              3351,
+              2545,
+              3431
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "drehen",
+            "bbox": [
+              2564,
+              3356,
+              2838,
+              3419
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "damit",
+            "bbox": [
+              2866,
+              3359,
+              3092,
+              3422
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sieben",
+            "bbox": [
+              3115,
+              3363,
+              3375,
+              3427
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sind",
+            "bbox": [
+              3401,
+              3366,
+              3562,
+              3428
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "klettern.",
+            "bbox": [
+              3591,
+              3367,
+              3921,
+              3435
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              3953,
+              3372,
+              4138,
+              3436
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "weiterbearbeiten,",
+            "bbox": [
+              656,
+              3444,
+              1317,
+              3525
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "da",
+            "bbox": [
+              1344,
+              3453,
+              1433,
+              3515
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "uns",
+            "bbox": [
+              1460,
+              3469,
+              1590,
+              3520
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "folgende",
+            "bbox": [
+              1610,
+              3457,
+              1940,
+              3536
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Unterlagen",
+            "bbox": [
+              1964,
+              3463,
+              2374,
+              3544
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "fehlen:",
+            "bbox": [
+              2395,
+              3467,
+              2654,
+              3532
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        656,
+        3327,
+        4138,
+        3544
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit",
+            "bbox": [
+              648,
+              4759,
+              757,
+              4823
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "freundlichen",
+            "bbox": [
+              776,
+              4759,
+              1253,
+              4827
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Grüßen",
+            "bbox": [
+              1280,
+              4764,
+              1553,
+              4831
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        648,
+        4759,
+        1553,
+        4831
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wir",
+            "bbox": [
+              644,
+              4168,
+              774,
+              4235
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bitten",
+            "bbox": [
+              797,
+              4172,
+              1006,
+              4237
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie,",
+            "bbox": [
+              1033,
+              4176,
+              1167,
+              4249
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1193,
+              4176,
+              1304,
+              4240
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "fehlenden",
+            "bbox": [
+              1325,
+              4180,
+              1702,
+              4247
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Dokumente",
+            "bbox": [
+              1730,
+              4184,
+              2165,
+              4249
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "bis",
+            "bbox": [
+              2193,
+              4188,
+              2295,
+              4252
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "spätestens",
+            "bbox": [
+              2322,
+              4191,
+              2733,
+              4268
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "19.02.2025",
+            "bbox": [
+              2764,
+              4197,
+              3184,
+              4260
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "nachzureichen.",
+            "bbox": [
+              3208,
+              4200,
+              3785,
+              4269
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "Andernfalls",
+            "bbox": [
+              3808,
+              4202,
+              4240,
+              4291
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "müssen",
+            "bbox": [
+              648,
+              4288,
+              942,
+              4353
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              966,
+              4289,
+              1079,
+              4353
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihren",
+            "bbox": [
+              1102,
+              4293,
+              1288,
+              4357
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Antrag",
+            "bbox": [
+              1311,
+              4297,
+              1558,
+              4377
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "leider",
+            "bbox": [
+              1580,
+              4297,
+              1791,
+              4361
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ablehnen.",
+            "bbox": [
+              1811,
+              4301,
+              2182,
+              4366
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        644,
+        4168,
+        4240,
+        4377
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Abteilung:",
+            "bbox": [
+              2944,
+              1408,
+              3309,
+              1484
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Leiter/in",
+            "bbox": [
+              3333,
+              1416,
+              3631,
+              1477
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              3655,
+              1420,
+              3772,
+              1479
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Schulverwaltung",
+            "bbox": [
+              3792,
+              1421,
+              4400,
+              1509
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Löchelplatz",
+            "bbox": [
+              3877,
+              1522,
+              4268,
+              1601
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "4/1",
+            "bbox": [
+              4287,
+              1533,
+              4385,
+              1593
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "03555",
+            "bbox": [
+              3583,
+              1621,
+              3792,
+              1677
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Schrobenhausen",
+            "bbox": [
+              3812,
+              1622,
+              4389,
+              1691
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        2944,
+        1408,
+        4400,
+        1691
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Milena",
+            "bbox": [
+              677,
+              2160,
+              934,
+              2224
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Warmer",
+            "bbox": [
+              958,
+              2164,
+              1281,
+              2229
+            ],
+            "confidence": 92.0
+          }
+        ],
+        [
+          {
+            "text": "Löchelplatz",
+            "bbox": [
+              677,
+              2265,
+              1136,
+              2348
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "4/1",
+            "bbox": [
+              1154,
+              2275,
+              1269,
+              2337
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "03555",
+            "bbox": [
+              672,
+              2374,
+              898,
+              2438
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Schrobenhausen",
+            "bbox": [
+              921,
+              2377,
+              1595,
+              2450
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        672,
+        2160,
+        1595,
+        2450
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Dipl.-Ing.",
+            "bbox": [
+              644,
+              4940,
+              978,
+              5021
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Thaddäus",
+            "bbox": [
+              1002,
+              4945,
+              1373,
+              5011
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Paffrath",
+            "bbox": [
+              1400,
+              4949,
+              1691,
+              5013
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "MBA.",
+            "bbox": [
+              1719,
+              4952,
+              1909,
+              5016
+            ],
+            "confidence": 81.0
+          }
+        ]
+      ],
+      "bbox": [
+        644,
+        4940,
+        1909,
+        5021
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr",
+            "bbox": [
+              660,
+              3146,
+              833,
+              3211
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "geehrte/r",
+            "bbox": [
+              850,
+              3150,
+              1196,
+              3226
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Milena",
+            "bbox": [
+              1219,
+              3154,
+              1461,
+              3222
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Warmer,",
+            "bbox": [
+              1486,
+              3158,
+              1811,
+              3235
+            ],
+            "confidence": 89.0
+          }
+        ]
+      ],
+      "bbox": [
+        660,
+        3146,
+        1811,
+        3235
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "03555",
+            "bbox": [
+              3583,
+              1621,
+              3792,
+              1677
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Schrobenhausen",
+            "bbox": [
+              3812,
+              1622,
+              4389,
+              1691
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        3583,
+        1621,
+        4389,
+        1691
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Dipl.-Ing.",
+            "bbox": [
+              644,
+              4940,
+              978,
+              5021
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Thaddäus",
+            "bbox": [
+              1002,
+              4945,
+              1373,
+              5011
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Paffrath",
+            "bbox": [
+              1400,
+              4949,
+              1691,
+              5013
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "MBA.",
+            "bbox": [
+              1719,
+              4952,
+              1909,
+              5016
+            ],
+            "confidence": 81.0
+          }
+        ],
+        [
+          {
+            "text": "Abteilungsleiter/in",
+            "bbox": [
+              637,
+              5057,
+              1328,
+              5141
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "+49(0)9658",
+            "bbox": [
+              640,
+              5177,
+              1095,
+              5258
+            ],
+            "confidence": 87.0
+          },
+          {
+            "text": "189842",
+            "bbox": [
+              1115,
+              5181,
+              1343,
+              5245
+            ],
+            "confidence": 89.0
+          }
+        ]
+      ],
+      "bbox": [
+        637,
+        4940,
+        1909,
+        5258
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Löchelplatz",
+            "bbox": [
+              3877,
+              1522,
+              4268,
+              1601
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "4/1",
+            "bbox": [
+              4287,
+              1533,
+              4385,
+              1593
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "03555",
+            "bbox": [
+              3583,
+              1621,
+              3792,
+              1677
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Schrobenhausen",
+            "bbox": [
+              3812,
+              1622,
+              4389,
+              1691
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        3583,
+        1522,
+        4389,
+        1691
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": []
+}

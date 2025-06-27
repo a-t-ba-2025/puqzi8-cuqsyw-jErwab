@@ -1,0 +1,403 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": "- Bearbeiter/in: Elsbeth Sauer, Leiter/in Bürgerbeteiligung",
+            "bbox": [
+              479,
+              3946,
+              2761,
+              4086
+            ],
+            "confidence": 0.9792056083679199
+          }
+        ]
+      ],
+      "bbox": [
+        479,
+        3946,
+        2761,
+        4086
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Schadenshöhe (geschätzt): 7948.91 €",
+            "bbox": [
+              479,
+              3807,
+              2126,
+              3940
+            ],
+            "confidence": 0.9603604078292847
+          }
+        ]
+      ],
+      "bbox": [
+        479,
+        3807,
+        2126,
+        3940
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Schadensart: trinken",
+            "bbox": [
+              575,
+              3668,
+              1440,
+              3794
+            ],
+            "confidence": 0.979493260383606
+          }
+        ]
+      ],
+      "bbox": [
+        575,
+        3668,
+        1440,
+        3794
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Falls wir zusátzliche Unterlagen benötigen, werden wir uns umgehend mit Ihnen in Verbindung",
+            "bbox": [
+              435,
+              4136,
+              4038,
+              4313
+            ],
+            "confidence": 0.9877280592918396
+          }
+        ],
+        [
+          {
+            "text": " setzen. Die voraussichtliche Bearbeitungsdauer beträgt 88 Werktage.",
+            "bbox": [
+              427,
+              4260,
+              3101,
+              4422
+            ],
+            "confidence": 0.9920254945755005
+          }
+        ]
+      ],
+      "bbox": [
+        427,
+        4136,
+        4038,
+        4422
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen Grüßen",
+            "bbox": [
+              427,
+              4771,
+              1366,
+              4897
+            ],
+            "confidence": 0.9690939784049988
+          }
+        ]
+      ],
+      "bbox": [
+        427,
+        4771,
+        1366,
+        4897
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Bei Fragen stehen wir Ihnen jederzeit telefonisch unter 04477 981784 oder per E-Mail unter",
+            "bbox": [
+              435,
+              4465,
+              3920,
+              4605
+            ],
+            "confidence": 0.994838535785675
+          }
+        ],
+        [
+          {
+            "text": "kohljanette@gmx.de zur Verfügung",
+            "bbox": [
+              428,
+              4582,
+              1861,
+              4707
+            ],
+            "confidence": 0.980076789855957
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        4465,
+        3920,
+        4707
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Annamaria-Rose-Gasse 566",
+            "bbox": [
+              494,
+              1103,
+              1595,
+              1221
+            ],
+            "confidence": 0.9996466636657715
+          }
+        ]
+      ],
+      "bbox": [
+        494,
+        1103,
+        1595,
+        1221
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " wir bestätigen den Eingang lhrer Schadensmeldung vom 14.03.2025 mit der Vorgangsnummer",
+            "bbox": [
+              449,
+              2915,
+              4127,
+              3100
+            ],
+            "confidence": 0.9802631735801697
+          }
+        ],
+        [
+          {
+            "text": "V-87059344. Unsere Fachabteilung prüft derzeit Ihren Fall bezüglich gab.",
+            "bbox": [
+              449,
+              3113,
+              3256,
+              3282
+            ],
+            "confidence": 0.9831180572509766
+          }
+        ]
+      ],
+      "bbox": [
+        449,
+        2915,
+        4127,
+        3282
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "62441 Werdau",
+            "bbox": [
+              485,
+              1255,
+              1087,
+              1390
+            ],
+            "confidence": 0.9995364546775818
+          }
+        ]
+      ],
+      "bbox": [
+        485,
+        1255,
+        1087,
+        1390
+      ]
+    }
+  ],
+  "Title": [
+    {
+      "rows": [
+        [
+          {
+            "text": "MITSCHKE HORNIG AG & CO. OHG VERSICHERUNG",
+            "bbox": [
+              501,
+              861,
+              3440,
+              1039
+            ],
+            "confidence": 0.9974803328514099
+          }
+        ]
+      ],
+      "bbox": [
+        501,
+        861,
+        3440,
+        1039
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "text": "Sami Dussen van-Hölzenbecher",
+      "bbox": [
+        486,
+        1600,
+        1802,
+        1740
+      ],
+      "confidence": 0.9891335368156433
+    },
+    {
+      "text": "Bodo-Etzold-Gasse 5",
+      "bbox": [
+        486,
+        1760,
+        1322,
+        1887
+      ],
+      "confidence": 0.9984247088432312
+    },
+    {
+      "text": "23378 Schwandorf",
+      "bbox": [
+        479,
+        1884,
+        1226,
+        2011
+      ],
+      "confidence": 0.9993038177490234
+    },
+    {
+      "text": "BETREFF: BEARBEITUNG IHRES SCHADENSFALLS (VORGANGSNUMMER: V-87059344)",
+      "bbox": [
+        479,
+        2294,
+        4260,
+        2493
+      ],
+      "confidence": 0.9864102602005005
+    },
+    {
+      "text": "25.01.2025",
+      "bbox": [
+        3646,
+        2580,
+        4096,
+        2682
+      ],
+      "confidence": 0.9999755620956421
+    },
+    {
+      "text": "Sehr geehrte/r Sami Dussen van-Hölzenbecher,",
+      "bbox": [
+        464,
+        2725,
+        2304,
+        2866
+      ],
+      "confidence": 0.9950284957885742
+    },
+    {
+      "text": "Aktueller Bearbeitungsstand:",
+      "bbox": [
+        457,
+        3317,
+        1669,
+        3443
+      ],
+      "confidence": 0.9857340455055237
+    },
+    {
+      "text": ": Versicherungspolice: 87059344",
+      "bbox": [
+        479,
+        3529,
+        1890,
+        3655
+      ],
+      "confidence": 0.9698680639266968
+    },
+    {
+      "text": "Elsbeth Sauer",
+      "bbox": [
+        427,
+        4961,
+        1027,
+        5088
+      ],
+      "confidence": 0.9782280325889587
+    },
+    {
+      "text": "Mitschke Hornig AG & Co. OHG Versicherung",
+      "bbox": [
+        420,
+        5057,
+        2311,
+        5212
+      ],
+      "confidence": 0.9950234293937683
+    },
+    {
+      "text": "Annamaria-Rose-Gasse 566",
+      "bbox": [
+        427,
+        5174,
+        1536,
+        5292
+      ],
+      "confidence": 0.9989435076713562
+    },
+    {
+      "text": "[Datum",
+      "bbox": [
+        4250,
+        5209,
+        4408,
+        5622
+      ],
+      "confidence": 0.9889541268348694
+    },
+    {
+      "text": "62441 Werdau",
+      "bbox": [
+        427,
+        5261,
+        1020,
+        5388
+      ],
+      "confidence": 0.9998690485954285
+    }
+  ]
+}
