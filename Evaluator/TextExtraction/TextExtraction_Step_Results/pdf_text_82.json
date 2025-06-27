@@ -1,0 +1,392 @@
+[
+  {
+    "text": "Jugendamt",
+    "bbox": [
+      378.07,
+      712.55868,
+      435.74836,
+      722.51868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Henkallee 865",
+    "bbox": [
+      378.07,
+      698.2586799999999,
+      441.83392,
+      708.21868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "43043 Ueckermünde",
+    "bbox": [
+      378.07,
+      684.09868,
+      471.02668,
+      694.05868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: +49 (0) 4544 187707",
+    "bbox": [
+      378.07,
+      669.93868,
+      509.11372,
+      679.89868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Dr. Sylvana Mosemann",
+    "bbox": [
+      54.0,
+      617.4986799999999,
+      156.7872,
+      627.45868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Cäcilie-Kallert-Allee 612",
+    "bbox": [
+      54.0,
+      603.21868,
+      161.03912000000003,
+      613.17868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "84758 Flöha",
+    "bbox": [
+      54.0,
+      589.05868,
+      109.23816000000001,
+      599.01868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: (05131) 46468",
+    "bbox": [
+      54.0,
+      560.6186799999999,
+      156.72744,
+      570.57868
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "11.02.2025",
+    "bbox": [
+      54.0,
+      505.798,
+      108.0,
+      517.798
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betreff: Einladung zur Bürgerversammlung in Ueckermünde",
+    "bbox": [
+      54.0,
+      477.958,
+      368.088,
+      489.958
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte/r Dr. Sylvana Mosemann, ",
+    "bbox": [
+      54.0,
+      450.118,
+      244.37,
+      462.118
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "wir laden Sie herzlich zur nächsten ",
+    "bbox": [
+      54.0,
+      422.398,
+      225.08400000000003,
+      434.398
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Bürgerversammlung",
+    "bbox": [
+      225.17,
+      422.398,
+      332.006,
+      434.398
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " ein, um über wichtige Themen in ",
+    "bbox": [
+      332.11,
+      422.398,
+      497.086,
+      434.398
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ueckermünde",
+    "bbox": [
+      54.0,
+      408.598,
+      125.988,
+      420.598
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " zu informieren und mit Ihnen ins Gespräch zu kommen. ",
+    "bbox": [
+      126.02,
+      408.598,
+      401.11,
+      420.598
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Datum:",
+    "bbox": [
+      54.0,
+      380.75800000000004,
+      93.372,
+      392.75800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 12.06.2025 ",
+    "bbox": [
+      93.384,
+      380.75800000000004,
+      153.38,
+      392.75800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ort:",
+    "bbox": [
+      54.0,
+      366.958,
+      76.596,
+      378.958
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Jörn-Boucsein-Allee 16, 55430 Wolgast ",
+    "bbox": [
+      76.584,
+      366.958,
+      276.05,
+      378.958
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Uhrzeit:",
+    "bbox": [
+      54.0,
+      353.13800000000003,
+      96.528,
+      365.13800000000003
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 13:00 Uhr ",
+    "bbox": [
+      96.504,
+      353.13800000000003,
+      151.7,
+      365.13800000000003
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Themen der Versammlung: ",
+    "bbox": [
+      54.0,
+      323.52103999999997,
+      217.16,
+      337.08104
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      75.024,
+      294.938,
+      80.544,
+      306.938
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Neugestaltung des Stadtparks",
+    "bbox": [
+      93.024,
+      294.938,
+      245.70000000000002,
+      306.938
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      75.024,
+      280.298,
+      80.544,
+      292.298
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Verkehrsberuhigung in Dehmelweg",
+    "bbox": [
+      93.024,
+      280.298,
+      275.55600000000004,
+      292.298
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      75.024,
+      265.658,
+      80.544,
+      277.658
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Geplante Bauprojekte",
+    "bbox": [
+      93.024,
+      265.658,
+      206.67600000000002,
+      277.658
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      75.024,
+      250.89800000000002,
+      80.544,
+      262.898
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Fragen und Anregungen der Bürger",
+    "bbox": [
+      93.024,
+      250.89800000000002,
+      278.952,
+      262.898
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wir freuen uns auf Ihre Teilnahme! Bitte geben Sie uns eine kurze Rückmeldung unter ",
+    "bbox": [
+      54.0,
+      223.178,
+      474.33599999999996,
+      235.178
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "florianmueller@web.de oder +49 (0) 4544 187707, falls Sie teilnehmen möchten. ",
+    "bbox": [
+      54.0,
+      209.37799999999993,
+      448.87,
+      221.37799999999993
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mit freundlichen Grüßen ",
+    "bbox": [
+      54.0,
+      181.50800000000004,
+      177.02,
+      193.50800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Juliane Baum-Stadelmann ",
+    "bbox": [
+      54.0,
+      153.788,
+      183.38,
+      165.788
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Leiter/in Katasteramt ",
+    "bbox": [
+      54.0,
+      139.98800000000006,
+      159.26,
+      151.98800000000006
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Jugendamt",
+    "bbox": [
+      54.0,
+      112.14800000000002,
+      111.468,
+      124.14800000000002
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Henkallee 865 ",
+    "bbox": [
+      54.0,
+      98.34799999999996,
+      126.62,
+      110.34799999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "43043 Ueckermünde ",
+    "bbox": [
+      54.0,
+      84.55200000000002,
+      157.34,
+      96.55200000000002
+    ],
+    "confidence": 1.0
+  }
+]

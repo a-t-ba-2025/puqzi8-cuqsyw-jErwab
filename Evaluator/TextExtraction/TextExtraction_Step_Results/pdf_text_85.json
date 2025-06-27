@@ -1,0 +1,512 @@
+[
+  {
+    "text": "Fiebig",
+    "bbox": [
+      384.07,
+      103.68863999999996,
+      410.65324000000004,
+      113.64864
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Heidrichplatz 19 ",
+    "bbox": [
+      384.07,
+      89.76864,
+      453.55,
+      99.72864000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "83421 Warendorf ",
+    "bbox": [
+      384.07,
+      75.72864000000004,
+      457.39,
+      85.68863999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: +49(0)3281355686 ",
+    "bbox": [
+      384.07,
+      61.688639999999964,
+      500.23,
+      71.64864
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Internet: https://paffrath.com/ ",
+    "bbox": [
+      384.07,
+      47.64864,
+      504.91,
+      57.60864000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Finanzberatung ",
+    "bbox": [
+      396.31,
+      731.7784,
+      504.34288000000004,
+      744.7384
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "08.05.2025",
+    "bbox": [
+      488.98,
+      620.188,
+      542.98,
+      632.188
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betreff: Willkommen bei Fiebig ",
+    "bbox": [
+      79.224,
+      600.748,
+      245.05200000000002,
+      612.748
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "–",
+    "bbox": [
+      245.21,
+      600.748,
+      251.21,
+      612.748
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Ihre Vertragsunterlagen",
+    "bbox": [
+      251.21,
+      600.748,
+      379.7660000000001,
+      612.748
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte/r Leszek Junken B.Sc., ",
+    "bbox": [
+      79.224,
+      564.718,
+      255.89,
+      576.718
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "wir freuen uns, Sie als neuen Kunden bei ",
+    "bbox": [
+      79.224,
+      528.838,
+      279.324,
+      540.838
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Fiebig",
+    "bbox": [
+      279.41,
+      528.838,
+      311.41400000000004,
+      540.838
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " begrüßen zu dürfen! Mit diesem Schreiben ",
+    "bbox": [
+      311.45,
+      528.838,
+      522.9940000000001,
+      540.838
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "erhalten Sie die wichtigsten Informationen zu Ihrem neuen Vertrag ",
+    "bbox": [
+      79.224,
+      510.83799999999997,
+      403.94399999999996,
+      522.838
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "nach",
+    "bbox": [
+      404.11,
+      510.83799999999997,
+      428.77000000000004,
+      522.838
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": ", der ab dem ",
+    "bbox": [
+      428.83,
+      510.83799999999997,
+      491.07399999999996,
+      522.838
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "18.04.2025",
+    "bbox": [
+      79.224,
+      492.958,
+      133.224,
+      504.958
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " gültig ist. ",
+    "bbox": [
+      133.22,
+      492.958,
+      184.58,
+      504.958
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ihre Vertragsdetails: ",
+    "bbox": [
+      79.224,
+      456.958,
+      189.89,
+      468.958
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      437.35,
+      88.836,
+      449.35
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Vertragsnummer:",
+    "bbox": [
+      91.824,
+      437.278,
+      185.16,
+      449.278
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 49277312 ",
+    "bbox": [
+      185.18,
+      437.278,
+      239.21,
+      449.278
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      416.57,
+      88.836,
+      428.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Leistungsbeginn:",
+    "bbox": [
+      91.824,
+      416.498,
+      179.88000000000002,
+      428.498
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 18.04.2025 ",
+    "bbox": [
+      179.9,
+      416.498,
+      239.93,
+      428.498
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      395.81,
+      88.836,
+      407.81
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Monatlicher Beitrag:",
+    "bbox": [
+      91.824,
+      395.738,
+      200.05200000000002,
+      407.738
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "8960.32 €",
+    "bbox": [
+      203.21,
+      395.738,
+      251.21,
+      407.738
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      375.05,
+      88.836,
+      387.05
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zahlungsweise:",
+    "bbox": [
+      91.824,
+      374.978,
+      171.15600000000003,
+      386.978
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " laut ",
+    "bbox": [
+      171.14,
+      374.978,
+      195.17,
+      386.978
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Was Sie jetzt tun können: ",
+    "bbox": [
+      79.224,
+      338.01800000000003,
+      214.25,
+      350.01800000000003
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "🔹",
+    "bbox": [
+      79.224,
+      300.2900000000001,
+      95.7,
+      312.2900000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ihr Online-Kundenkonto aktivieren",
+    "bbox": [
+      98.664,
+      300.21799999999996,
+      282.644,
+      312.21799999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " unter https://paffrath.com/ ",
+    "bbox": [
+      282.77,
+      300.21799999999996,
+      414.67,
+      312.21799999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "🔹",
+    "bbox": [
+      79.224,
+      279.65,
+      95.7,
+      291.65
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Unsere App herunterladen",
+    "bbox": [
+      98.664,
+      279.5780000000001,
+      235.944,
+      291.5780000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " für einfache Verwaltung ",
+    "bbox": [
+      236.09,
+      279.5780000000001,
+      359.35,
+      291.5780000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "🔹",
+    "bbox": [
+      79.224,
+      258.86,
+      95.7,
+      270.86
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Kontaktmöglichkeiten nutzen",
+    "bbox": [
+      98.664,
+      258.788,
+      250.932,
+      270.788
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " bei Fragen oder Änderungswünschen ",
+    "bbox": [
+      251.09,
+      258.788,
+      436.03,
+      270.788
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Falls Sie Fragen haben, stehen wir Ihnen jederzeit unter ",
+    "bbox": [
+      79.224,
+      221.82799999999997,
+      349.70400000000006,
+      233.82799999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "+49(0)3281355686",
+    "bbox": [
+      349.87,
+      221.82799999999997,
+      442.63,
+      233.82799999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " oder per E-Mail          ",
+    "bbox": [
+      442.78,
+      221.82799999999997,
+      552.46,
+      233.82799999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "nora99@gmail.com",
+    "bbox": [
+      79.224,
+      203.82799999999997,
+      179.424,
+      215.82799999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " zur Verfügung. ",
+    "bbox": [
+      179.54,
+      203.82799999999997,
+      258.65,
+      215.82799999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wir freuen uns auf eine erfolgreiche Zusammenarbeit! ",
+    "bbox": [
+      79.224,
+      167.94799999999998,
+      344.11,
+      179.94799999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Leszek Junken B.Sc.",
+    "bbox": [
+      86.784,
+      698.668,
+      192.168,
+      710.668
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Piepergasse 456 ",
+    "bbox": [
+      86.784,
+      680.788,
+      167.42,
+      692.788
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "12151 Eilenburg ",
+    "bbox": [
+      86.784,
+      662.788,
+      170.06,
+      674.788
+    ],
+    "confidence": 1.0
+  }
+]

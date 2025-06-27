@@ -1,0 +1,472 @@
+[
+  {
+    "text": "     Stroh Heidrich AG",
+    "bbox": [
+      200.57,
+      779.0400000000001,
+      546.6728979199999,
+      815.0400000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Stroh Heidrich ",
+    "bbox": [
+      31.44,
+      602.6716,
+      135.56197604640002,
+      616.7116
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "AG",
+    "bbox": [
+      31.44,
+      586.6816,
+      51.2704206,
+      600.7216
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Gaetano-Reising-Weg 3/9 ",
+    "bbox": [
+      31.44,
+      556.0024000000001,
+      120.32168,
+      563.5624
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "41833 Eberswalde",
+    "bbox": [
+      31.44,
+      540.0424,
+      93.71172,
+      547.6024
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: (06083) 499520 ",
+    "bbox": [
+      31.44,
+      516.0424,
+      115.76168,
+      523.6024
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "PERSONAL COMPUTING ",
+    "bbox": [
+      31.44,
+      491.9416,
+      128.44259999999997,
+      499.9816
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Von Opa Tier heute nimmt denken ",
+    "bbox": [
+      31.44,
+      468.0424,
+      148.22688000000002,
+      475.6024
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "weil. Gehören müssen dir Hilfe ",
+    "bbox": [
+      31.44,
+      452.0824,
+      135.61680000000004,
+      459.6424
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Freude erst Kind. ",
+    "bbox": [
+      31.44,
+      435.9824,
+      91.04568,
+      443.5424
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betreff: Anpassung Ihres Tarifs für Mietwagen ",
+    "bbox": [
+      184.46,
+      620.1184000000001,
+      554.9237919999999,
+      639.0784
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte/r Univ.Prof. Isabell Zahn, ",
+    "bbox": [
+      184.58,
+      522.4300000000001,
+      358.24504,
+      533.47
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "wir informieren Sie darüber, dass sich die Konditionen Ihres Tarifs ",
+    "bbox": [
+      184.58,
+      499.99,
+      480.63968,
+      511.03
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefonrechnung",
+    "bbox": [
+      480.82,
+      499.99,
+      558.1552,
+      511.03
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "zum ",
+    "bbox": [
+      184.58,
+      485.47,
+      206.01968,
+      496.51
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "29.01.2025",
+    "bbox": [
+      206.09,
+      485.47,
+      256.53176,
+      496.51
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " ändern. ",
+    "bbox": [
+      256.61,
+      485.47,
+      296.18504,
+      496.51
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Neue Konditionen ab 29.01.2025: ",
+    "bbox": [
+      184.58,
+      440.47,
+      339.88504,
+      451.51
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      184.58,
+      417.0116,
+      193.42304000000001,
+      428.0516
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Monatlicher Beitrag:",
+    "bbox": [
+      196.01,
+      416.57,
+      290.31368,
+      427.60999999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "5034.88 €",
+    "bbox": [
+      292.73,
+      416.57,
+      337.04456000000005,
+      427.60999999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      184.58,
+      401.0516,
+      193.42304000000001,
+      412.0916
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Leistungsumfang:",
+    "bbox": [
+      196.01,
+      400.61,
+      276.42535999999996,
+      411.65
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " dann ",
+    "bbox": [
+      276.41,
+      400.61,
+      303.86504,
+      411.65
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      184.58,
+      385.0916,
+      193.42304000000001,
+      396.13160000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Vertragslaufzeit:",
+    "bbox": [
+      196.01,
+      384.65000000000003,
+      271.70023999999995,
+      395.69
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Unverändert bis 18.02.2025 ",
+    "bbox": [
+      271.73,
+      384.65000000000003,
+      401.20504,
+      395.69
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Diese Anpassung erfolgt aufgrund ",
+    "bbox": [
+      184.58,
+      339.53000000000003,
+      338.13536,
+      350.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mietwagen",
+    "bbox": [
+      338.23,
+      339.53000000000003,
+      390.32776,
+      350.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " und wurde gemäß ",
+    "bbox": [
+      390.31,
+      339.53000000000003,
+      476.77816,
+      350.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Schulungsgebühr",
+    "bbox": [
+      476.86,
+      339.53000000000003,
+      554.79136,
+      350.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "geprüft. Falls Sie mit den neuen Bedingungen nicht einverstanden sind, haben Sie bis ",
+    "bbox": [
+      184.58,
+      325.01,
+      565.87952,
+      336.04999999999995
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "zum   ",
+    "bbox": [
+      184.58,
+      310.61,
+      210.98504,
+      321.65
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "19.01.2025",
+    "bbox": [
+      184.58,
+      296.09000000000003,
+      235.13216,
+      307.13
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " die Möglichkeit, Ihren Vertrag zu kündigen. ",
+    "bbox": [
+      235.13,
+      296.09000000000003,
+      433.00504,
+      307.13
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Falls Sie Fragen haben, erreichen Sie uns unter ",
+    "bbox": [
+      184.58,
+      273.65,
+      395.0465599999999,
+      284.68999999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "(06083) 499520",
+    "bbox": [
+      395.11,
+      273.65,
+      465.79912,
+      284.68999999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " oder per E-Mail ",
+    "bbox": [
+      465.82,
+      273.65,
+      540.18832,
+      284.68999999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "karl-",
+    "bbox": [
+      540.22,
+      273.65,
+      560.99824,
+      284.68999999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "peterkaul@yahoo.de",
+    "bbox": [
+      184.58,
+      259.1,
+      281.31248,
+      270.14
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": ". ",
+    "bbox": [
+      281.33,
+      259.1,
+      286.58504,
+      270.14
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mit freundlichen Grüßen ",
+    "bbox": [
+      184.58,
+      236.54000000000008,
+      297.98504,
+      247.58000000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Valeria Scholtz ",
+    "bbox": [
+      184.58,
+      214.10000000000002,
+      252.62503999999998,
+      225.14
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Justitiar/in ",
+    "bbox": [
+      184.58,
+      199.58000000000004,
+      234.74504,
+      210.62
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Stroh Heidrich AG",
+    "bbox": [
+      184.58,
+      177.14,
+      266.2208,
+      188.17999999999995
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Gaetano-Reising-Weg 3/9 ",
+    "bbox": [
+      184.58,
+      162.62,
+      302.18504,
+      173.65999999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "41833 Eberswalde ",
+    "bbox": [
+      184.58,
+      148.10000000000002,
+      269.18504,
+      159.14
+    ],
+    "confidence": 1.0
+  }
+]

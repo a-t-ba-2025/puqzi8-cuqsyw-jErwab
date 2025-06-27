@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Keudel Fliegner GmbH",
+    "bbox": [
+      384.07,
+      103.68863999999996,
+      484.53652,
+      113.64864
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Günther-Nohlmans-Allee 3/5 ",
+    "bbox": [
+      384.07,
+      89.76864,
+      504.07,
+      99.72864000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "33328 Bogen ",
+    "bbox": [
+      384.07,
+      75.72864000000004,
+      440.2,
+      85.68863999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: (06880) 242478 ",
+    "bbox": [
+      384.07,
+      61.688639999999964,
+      487.15000000000003,
+      71.64864
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Internet: http://www.neureuther.de/ ",
+    "bbox": [
+      384.07,
+      47.64864,
+      528.4300000000001,
+      57.60864000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ihr ",
+    "bbox": [
+      396.31,
+      753.6184000000001,
+      418.00504,
+      766.5784
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Energieversorger ",
+    "bbox": [
+      396.31,
+      738.6184000000001,
+      515.62288,
+      751.5784
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "01.04.2025",
+    "bbox": [
+      488.98,
+      620.188,
+      542.98,
+      632.188
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betreff: Willkommen bei Keudel Fliegner GmbH ",
+    "bbox": [
+      79.224,
+      600.748,
+      333.7200000000001,
+      612.748
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "–",
+    "bbox": [
+      333.91,
+      600.748,
+      339.91,
+      612.748
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Ihre Energieversorgung beginnt!",
+    "bbox": [
+      339.91,
+      600.748,
+      511.59400000000005,
+      612.748
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte/r Jörgen Rogge B.A., ",
+    "bbox": [
+      79.224,
+      572.878,
+      247.85,
+      584.878
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "herzlich willkommen bei ",
+    "bbox": [
+      79.224,
+      545.038,
+      202.17600000000002,
+      557.038
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Keudel Fliegner GmbH",
+    "bbox": [
+      202.25,
+      545.038,
+      322.90999999999997,
+      557.038
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "! Wir freuen uns, dass Sie sich für unseren ",
+    "bbox": [
+      322.99,
+      545.038,
+      529.4620000000001,
+      557.038
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "ins-Tarif",
+    "bbox": [
+      79.224,
+      531.238,
+      124.584,
+      543.238
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " entschieden haben. Ihre zuverlässige Energieversorgung beginnt am ",
+    "bbox": [
+      124.58,
+      531.238,
+      457.3280000000001,
+      543.238
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "31.03.2025",
+    "bbox": [
+      457.54,
+      531.238,
+      511.54,
+      543.238
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": ". ",
+    "bbox": [
+      511.54,
+      531.238,
+      517.54,
+      543.238
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ihre Vertragsdetails auf einen Blick: ",
+    "bbox": [
+      79.224,
+      501.74104,
+      293.36,
+      515.3010400000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      472.27000000000004,
+      88.836,
+      484.27000000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zählernummer:",
+    "bbox": [
+      91.824,
+      472.19800000000004,
+      174.48,
+      484.19800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 62792930 ",
+    "bbox": [
+      174.5,
+      472.19800000000004,
+      228.53,
+      484.19800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      456.31,
+      88.836,
+      468.31
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Versorgungsbeginn:",
+    "bbox": [
+      91.824,
+      456.238,
+      195.84,
+      468.238
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 31.03.2025 ",
+    "bbox": [
+      195.89,
+      456.238,
+      255.89,
+      468.238
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      440.35,
+      88.836,
+      452.35
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Abschlagszahlung:",
+    "bbox": [
+      91.824,
+      440.278,
+      188.65200000000002,
+      452.278
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "7895.28 € monatlich",
+    "bbox": [
+      191.69,
+      440.278,
+      290.558,
+      452.278
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      424.37,
+      88.836,
+      436.37
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Jahresverbrauch (prognostiziert):",
+    "bbox": [
+      91.824,
+      424.298,
+      265.9080000000001,
+      436.298
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " 4764.13 kWh ",
+    "bbox": [
+      266.09,
+      424.298,
+      337.51,
+      436.298
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "✔",
+    "bbox": [
+      79.224,
+      408.29,
+      88.836,
+      420.29
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Vertragslaufzeit:",
+    "bbox": [
+      91.824,
+      408.218,
+      179.052,
+      420.218
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " endlich ",
+    "bbox": [
+      179.06,
+      408.218,
+      220.49,
+      420.218
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Nächste Schritte für Sie: ",
+    "bbox": [
+      79.224,
+      378.36104,
+      224.0,
+      391.92104
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zählerstand übermitteln:",
+    "bbox": [
+      98.664,
+      348.81800000000004,
+      228.936,
+      360.81800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Bitte teilen Sie uns bis zum ",
+    "bbox": [
+      229.01,
+      348.81800000000004,
+      366.722,
+      360.81800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "06.06.2025",
+    "bbox": [
+      366.79,
+      348.81800000000004,
+      420.79,
+      360.81800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Ihren aktuellen ",
+    "bbox": [
+      420.79,
+      348.81800000000004,
+      499.03000000000003,
+      360.81800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zählerstand mit. Dies können Sie bequem online unter ",
+    "bbox": [
+      79.224,
+      334.658,
+      344.124,
+      346.658
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "http://www.neureuther.de/",
+    "bbox": [
+      344.23,
+      334.658,
+      480.826,
+      346.658
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " oder ",
+    "bbox": [
+      480.94,
+      334.658,
+      508.216,
+      346.658
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "telefonisch unter ",
+    "bbox": [
+      79.224,
+      320.85800000000006,
+      162.38400000000001,
+      332.858
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "(06880) 242478",
+    "bbox": [
+      162.5,
+      320.85800000000006,
+      239.52800000000002,
+      332.858
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " tun. ",
+    "bbox": [
+      239.57,
+      320.85800000000006,
+      263.93,
+      332.858
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ihr Online-Kundenportal aktivieren:",
+    "bbox": [
+      98.664,
+      305.25800000000004,
+      288.596,
+      317.25800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Verwalten Sie Ihren Vertrag, Abschläge und ",
+    "bbox": [
+      288.65,
+      305.25800000000004,
+      508.514,
+      317.25800000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Rechnungen einfach unter ",
+    "bbox": [
+      79.224,
+      291.09800000000007,
+      208.104,
+      303.09800000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "http://www.neureuther.de/",
+    "bbox": [
+      208.13,
+      291.09800000000007,
+      344.726,
+      303.09800000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": ". ",
+    "bbox": [
+      344.83,
+      291.09800000000007,
+      350.83,
+      303.09800000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Energiespartipps entdecken:",
+    "bbox": [
+      98.664,
+      275.49799999999993,
+      245.616,
+      287.49799999999993
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Erfahren Sie unter ",
+    "bbox": [
+      245.69,
+      275.49799999999993,
+      339.61400000000003,
+      287.49799999999993
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "http://christoph.de/",
+    "bbox": [
+      339.67,
+      275.49799999999993,
+      438.694,
+      287.49799999999993
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": ", wie Sie Ihren ",
+    "bbox": [
+      438.79,
+      275.49799999999993,
+      511.61800000000005,
+      287.49799999999993
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Verbrauch optimieren und Energiekosten sparen können. ",
+    "bbox": [
+      79.224,
+      261.308,
+      356.11,
+      273.308
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sollten Sie Fragen haben oder Unterstützung benötigen, stehen wir Ihnen gerne unter ",
+    "bbox": [
+      79.224,
+      233.46799999999996,
+      491.30399999999986,
+      245.46799999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "(06880) ",
+    "bbox": [
+      491.5,
+      233.46799999999996,
+      532.456,
+      245.46799999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "242478",
+    "bbox": [
+      79.224,
+      219.668,
+      115.224,
+      231.668
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " oder per E-Mail unter ",
+    "bbox": [
+      115.22,
+      219.668,
+      225.476,
+      231.668
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "holstenreinhold@gmail.com",
+    "bbox": [
+      225.53,
+      219.668,
+      369.722,
+      231.668
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " zur Verfügung. ",
+    "bbox": [
+      369.91,
+      219.668,
+      449.14,
+      231.668
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wir danken Ihnen für Ihr Vertrauen und freuen uns auf eine langjährige Zusammenarbeit! ",
+    "bbox": [
+      79.224,
+      191.82799999999997,
+      514.06,
+      203.82799999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Jörgen Rogge B.A.",
+    "bbox": [
+      86.784,
+      698.668,
+      182.66400000000002,
+      710.668
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wilmsenplatz 36 ",
+    "bbox": [
+      86.784,
+      680.788,
+      171.38,
+      692.788
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "10233 Roding ",
+    "bbox": [
+      86.784,
+      662.788,
+      158.18,
+      674.788
+    ],
+    "confidence": 1.0
+  }
+]
