@@ -1,0 +1,232 @@
+[
+  {
+    "text": "Trub",
+    "bbox": [
+      3008,
+      780,
+      3214,
+      901
+    ],
+    "confidence": 0.9993003606796265
+  },
+  {
+    "text": " Schmiedeckeplatz 0/5",
+    "bbox": [
+      3003,
+      883,
+      3876,
+      1010
+    ],
+    "confidence": 0.9810107946395874
+  },
+  {
+    "text": "13422 Gotha",
+    "bbox": [
+      3010,
+      970,
+      3522,
+      1098
+    ],
+    "confidence": 0.9999082684516907
+  },
+  {
+    "text": "Telefon: 00514 998871",
+    "bbox": [
+      2996,
+      1081,
+      3898,
+      1199
+    ],
+    "confidence": 0.998358428478241
+  },
+  {
+    "text": " Siglinde Bohlander",
+    "bbox": [
+      767,
+      1446,
+      1492,
+      1557
+    ],
+    "confidence": 0.977425217628479
+  },
+  {
+    "text": "Hans-Joachim-Wagenknecht-",
+    "bbox": [
+      759,
+      1541,
+      1721,
+      1667
+    ],
+    "confidence": 0.9975939393043518
+  },
+  {
+    "text": "Gasse 443",
+    "bbox": [
+      768,
+      1644,
+      1129,
+      1747
+    ],
+    "confidence": 0.9999673366546631
+  },
+  {
+    "text": "66429 Hohenstein-Ernstthal",
+    "bbox": [
+      760,
+      1731,
+      1691,
+      1850
+    ],
+    "confidence": 0.9947640895843506
+  },
+  {
+    "text": "Telefon: (01978) 887686",
+    "bbox": [
+      760,
+      1826,
+      1588,
+      1945
+    ],
+    "confidence": 0.9991016983985901
+  },
+  {
+    "text": "05.05.2025",
+    "bbox": [
+      700,
+      2564,
+      1123,
+      2684
+    ],
+    "confidence": 0.999973475933075
+  },
+  {
+    "text": "Betreff: Bescheid über die Bearbeitung lhres Antrags auf Fischereischein",
+    "bbox": [
+      701,
+      2916,
+      3411,
+      3048
+    ],
+    "confidence": 0.9928760528564453
+  },
+  {
+    "text": "Sehr geehrte/r Siglinde Bohlander,",
+    "bbox": [
+      693,
+      3252,
+      1816,
+      3370
+    ],
+    "confidence": 0.9956109523773193
+  },
+  {
+    "text": "wir haben Ihren Antrag auf Fischereischein vom 24.05.2025 erhalten und geprüft. Nach sorgfältiger Prüfung",
+    "bbox": [
+      693,
+      3581,
+      4163,
+      3735
+    ],
+    "confidence": 0.9855198264122009
+  },
+  {
+    "text": "teilen wir Ihnen mit, dass Trub lhren Antrag bewilligt hat.",
+    "bbox": [
+      693,
+      3683,
+      2562,
+      3808
+    ],
+    "confidence": 0.9856317639350891
+  },
+  {
+    "text": "Falls zusatzliche Unterlagen erforderlich sind, bitten wir Sie, diese bis spätestens I I.05.2025 einzureichen.",
+    "bbox": [
+      686,
+      4012,
+      4104,
+      4152
+    ],
+    "confidence": 0.9813084602355957
+  },
+  {
+    "text": " Sollte Ihr Antrag bewilligt worden sein, erfolgt die Auszahlung bzw. Bearbeitung innerhalb von 8 Werktagen.",
+    "bbox": [
+      679,
+      4107,
+      4200,
+      4254
+    ],
+    "confidence": 0.9808498620986938
+  },
+  {
+    "text": "Bei Fragen stehen wir Ihnen gerne telefonisch unter 00514 998871 oder per E-Mail unter",
+    "bbox": [
+      686,
+      4443,
+      3580,
+      4568
+    ],
+    "confidence": 0.9946979284286499
+  },
+  {
+    "text": "Mit freundlichen GrüBen",
+    "bbox": [
+      671,
+      4860,
+      1499,
+      4970
+    ],
+    "confidence": 0.9744508266448975
+  },
+  {
+    "text": "Gundolf Renner",
+    "bbox": [
+      694,
+      5101,
+      1210,
+      5182
+    ],
+    "confidence": 0.9996584057807922
+  },
+  {
+    "text": "Leiter/in des Integrationsamts",
+    "bbox": [
+      664,
+      5188,
+      1661,
+      5306
+    ],
+    "confidence": 0.9973443746566772
+  },
+  {
+    "text": "Trub",
+    "bbox": [
+      679,
+      5781,
+      871,
+      5869
+    ],
+    "confidence": 0.9997198581695557
+  },
+  {
+    "text": "Schmiedeckeplatz 0/5",
+    "bbox": [
+      679,
+      5876,
+      1498,
+      5971
+    ],
+    "confidence": 0.9959104657173157
+  },
+  {
+    "text": "13422 Gotha",
+    "bbox": [
+      670,
+      5955,
+      1167,
+      6074
+    ],
+    "confidence": 0.9987283945083618
+  }
+]

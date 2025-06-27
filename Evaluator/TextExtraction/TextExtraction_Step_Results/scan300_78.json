@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Verbraucherschutzamt",
+    "bbox": [
+      3070,
+      1242,
+      4024,
+      1368
+    ],
+    "confidence": 0.9994553327560425
+  },
+  {
+    "text": " Kemal-Lange-Platz 74",
+    "bbox": [
+      3062,
+      1343,
+      3854,
+      1485
+    ],
+    "confidence": 0.9717667698860168
+  },
+  {
+    "text": "76007 Feuchtwangen",
+    "bbox": [
+      3062,
+      1468,
+      3832,
+      1587
+    ],
+    "confidence": 0.9997082948684692
+  },
+  {
+    "text": "Telefon: +49(o) 576348226",
+    "bbox": [
+      3070,
+      1578,
+      4038,
+      1704
+    ],
+    "confidence": 0.9654741883277893
+  },
+  {
+    "text": "Lili Siering",
+    "bbox": [
+      544,
+      1942,
+      962,
+      2070
+    ],
+    "confidence": 0.9990406036376953
+  },
+  {
+    "text": " Jessica-Fröhlich-Allee 38",
+    "bbox": [
+      546,
+      2068,
+      1432,
+      2178
+    ],
+    "confidence": 0.9867410659790039
+  },
+  {
+    "text": "31344 Luckenwalde",
+    "bbox": [
+      554,
+      2192,
+      1255,
+      2288
+    ],
+    "confidence": 0.9998223781585693
+  },
+  {
+    "text": "Telef0n: 0966161720",
+    "bbox": [
+      546,
+      2412,
+      1284,
+      2507
+    ],
+    "confidence": 0.9993940591812134
+  },
+  {
+    "text": "07.01.2025",
+    "bbox": [
+      537,
+      2812,
+      954,
+      2932
+    ],
+    "confidence": 0.9999710321426392
+  },
+  {
+    "text": "Betreff: Sicherheitswarnung - Aktuelle Betrugsmasche in",
+    "bbox": [
+      531,
+      3098,
+      3772,
+      3267
+    ],
+    "confidence": 0.9978853464126587
+  },
+  {
+    "text": "Feuchtwangen",
+    "bbox": [
+      545,
+      3259,
+      1374,
+      3385
+    ],
+    "confidence": 0.9997524619102478
+  },
+  {
+    "text": "Sehr geehrte/r Lili Siering.",
+    "bbox": [
+      531,
+      3390,
+      1492,
+      3531
+    ],
+    "confidence": 0.9771049618721008
+  },
+  {
+    "text": "wir möchten Sie dringend über eine aktuelle Betrugsmasche informieren, die derzeit in Feuchtwangen vermehrt",
+    "bbox": [
+      531,
+      3515,
+      4370,
+      3655
+    ],
+    "confidence": 0.9885908365249634
+  },
+  {
+    "text": " auftritt. Unser Amt hat mehrere Meldungen über falsche Amtspersonen erhalten, die Bürgerinnen und Bürger",
+    "bbox": [
+      531,
+      3625,
+      4436,
+      3772
+    ],
+    "confidence": 0.9852684140205383
+  },
+  {
+    "text": " unter einem Vorwand kontaktieren und persönliche Daten oder Geld fordern.",
+    "bbox": [
+      524,
+      3742,
+      3204,
+      3859
+    ],
+    "confidence": 0.9933843016624451
+  },
+  {
+    "text": "Wichtige Hinweise:",
+    "bbox": [
+      531,
+      3843,
+      1337,
+      3955
+    ],
+    "confidence": 0.9991285800933838
+  },
+  {
+    "text": "- Behörden fordern niemals telefonisch oder per E-Mail direkte Zahlungen an!",
+    "bbox": [
+      561,
+      3968,
+      3742,
+      4100
+    ],
+    "confidence": 0.9827405214309692
+  },
+  {
+    "text": " : Geben Sie keine personlichen Daten an unbekannte Personen weiter.",
+    "bbox": [
+      553,
+      4100,
+      3418,
+      4232
+    ],
+    "confidence": 0.9764074683189392
+  },
+  {
+    "text": ": Echte Behördenmitarbeiter können sich immer ausweisen.",
+    "bbox": [
+      561,
+      4231,
+      3027,
+      4356
+    ],
+    "confidence": 0.9614891409873962
+  },
+  {
+    "text": "Falls Sie verdächtige Anrufe oder Besuche erhalten, melden Sie diese bitte umgehend unter +49(o) 576348226",
+    "bbox": [
+      524,
+      4348,
+      4399,
+      4480
+    ],
+    "confidence": 0.9872623085975647
+  },
+  {
+    "text": " oder senden Sie eine E-Mail an cemalthies@web.de. In dringenden Fällen informieren Sie bitte die örtliche",
+    "bbox": [
+      524,
+      4465,
+      4311,
+      4590
+    ],
+    "confidence": 0.9853835701942444
+  },
+  {
+    "text": "Polizei unter 110.",
+    "bbox": [
+      531,
+      4574,
+      1138,
+      4671
+    ],
+    "confidence": 0.9993228912353516
+  },
+  {
+    "text": "Wir bitten Sie, diese Warnung auch an Angehörige und Bekannte weiterzugeben, insbesondere an ältere",
+    "bbox": [
+      516,
+      4677,
+      4089,
+      4802
+    ],
+    "confidence": 0.980762779712677
+  },
+  {
+    "text": "Menschen, die häufig Ziel solcher Betrugsmaschen sind.",
+    "bbox": [
+      524,
+      4787,
+      2458,
+      4904
+    ],
+    "confidence": 0.9855216145515442
+  },
+  {
+    "text": "Bleiben Sie wachsam und sicher!",
+    "bbox": [
+      524,
+      4896,
+      1676,
+      5006
+    ],
+    "confidence": 0.997725784778595
+  },
+  {
+    "text": " Mit freundlichen GrüBen",
+    "bbox": [
+      516,
+      5123,
+      1403,
+      5233
+    ],
+    "confidence": 0.9705257415771484
+  },
+  {
+    "text": "Dipl.-Ing. Irmi Thies B.Sc.",
+    "bbox": [
+      524,
+      5232,
+      1440,
+      5343
+    ],
+    "confidence": 0.9989593625068665
+  },
+  {
+    "text": "Leiter/in Gewerbeaufsicht",
+    "bbox": [
+      516,
+      5349,
+      1447,
+      5460
+    ],
+    "confidence": 0.9997087717056274
+  },
+  {
+    "text": "Verbraucherschutzamt",
+    "bbox": [
+      516,
+      5569,
+      1469,
+      5679
+    ],
+    "confidence": 0.9996157884597778
+  },
+  {
+    "text": "Kemal-Lange-Platz 74",
+    "bbox": [
+      522,
+      5655,
+      1301,
+      5812
+    ],
+    "confidence": 0.99736088514328
+  },
+  {
+    "text": "76007 Feuchtwangen",
+    "bbox": [
+      524,
+      5803,
+      1277,
+      5898
+    ],
+    "confidence": 0.9996978044509888
+  }
+]

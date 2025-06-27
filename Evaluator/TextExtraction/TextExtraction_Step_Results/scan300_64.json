@@ -1,0 +1,1082 @@
+[
+  {
+    "text": "Abteilung:",
+    "bbox": [
+      3033,
+      1397,
+      3397,
+      1472
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Leiter/in",
+    "bbox": [
+      3423,
+      1405,
+      3720,
+      1465
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      3744,
+      1412,
+      3860,
+      1468
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Schulverwaltung",
+    "bbox": [
+      3879,
+      1410,
+      4486,
+      1497
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Löchelplatz",
+    "bbox": [
+      3964,
+      1513,
+      4356,
+      1588
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "4/1",
+    "bbox": [
+      4375,
+      1522,
+      4472,
+      1580
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "03555",
+    "bbox": [
+      3673,
+      1611,
+      3879,
+      1668
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Schrobenhausen",
+    "bbox": [
+      3898,
+      1613,
+      4476,
+      1679
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Milena",
+    "bbox": [
+      770,
+      2146,
+      1029,
+      2211
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Warmer",
+    "bbox": [
+      1051,
+      2151,
+      1372,
+      2216
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Löchelplatz",
+    "bbox": [
+      769,
+      2254,
+      1227,
+      2335
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "4/1",
+    "bbox": [
+      1247,
+      2264,
+      1362,
+      2324
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "03555",
+    "bbox": [
+      765,
+      2364,
+      991,
+      2428
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Schrobenhausen",
+    "bbox": [
+      1014,
+      2365,
+      1688,
+      2439
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "04.04.2025",
+    "bbox": [
+      761,
+      2583,
+      1178,
+      2648
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Betreff:",
+    "bbox": [
+      761,
+      2953,
+      1050,
+      3016
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Erinnerung",
+    "bbox": [
+      1077,
+      2958,
+      1508,
+      3038
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "—-",
+    "bbox": [
+      1525,
+      2996,
+      1570,
+      3008
+    ],
+    "confidence": 37.0
+  },
+  {
+    "text": "Fehlende",
+    "bbox": [
+      1591,
+      2965,
+      1952,
+      3029
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Unterlagen",
+    "bbox": [
+      1978,
+      2970,
+      2412,
+      3049
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "für",
+    "bbox": [
+      2435,
+      2978,
+      2547,
+      3036
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Vorgangsnummer",
+    "bbox": [
+      2565,
+      2978,
+      3273,
+      3056
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "r-82891134",
+    "bbox": [
+      3294,
+      2991,
+      3726,
+      3052
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Sehr",
+    "bbox": [
+      754,
+      3131,
+      926,
+      3196
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "geehrte/r",
+    "bbox": [
+      946,
+      3137,
+      1289,
+      3211
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Milena",
+    "bbox": [
+      1313,
+      3140,
+      1554,
+      3205
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Warmer,",
+    "bbox": [
+      1580,
+      3144,
+      1901,
+      3219
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "leider",
+    "bbox": [
+      756,
+      3313,
+      964,
+      3376
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "konnten",
+    "bbox": [
+      988,
+      3317,
+      1286,
+      3381
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wir",
+    "bbox": [
+      1309,
+      3320,
+      1422,
+      3383
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Ihren",
+    "bbox": [
+      1447,
+      3322,
+      1630,
+      3386
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Antrag",
+    "bbox": [
+      1653,
+      3326,
+      1900,
+      3406
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "auf",
+    "bbox": [
+      1920,
+      3331,
+      2039,
+      3392
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Fünf",
+    "bbox": [
+      2065,
+      3331,
+      2236,
+      3395
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Wohnung",
+    "bbox": [
+      2254,
+      3333,
+      2637,
+      3414
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "drehen",
+    "bbox": [
+      2654,
+      3339,
+      2928,
+      3403
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "damit",
+    "bbox": [
+      2956,
+      3344,
+      3181,
+      3406
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sieben",
+    "bbox": [
+      3204,
+      3346,
+      3463,
+      3411
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sind",
+    "bbox": [
+      3490,
+      3351,
+      3652,
+      3412
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "klettern.",
+    "bbox": [
+      3679,
+      3353,
+      4010,
+      3417
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "nicht",
+    "bbox": [
+      4040,
+      3358,
+      4226,
+      3420
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "weiterbearbeiten,",
+    "bbox": [
+      749,
+      3430,
+      1410,
+      3511
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "da",
+    "bbox": [
+      1438,
+      3440,
+      1524,
+      3502
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "uns",
+    "bbox": [
+      1553,
+      3457,
+      1684,
+      3505
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "folgende",
+    "bbox": [
+      1704,
+      3444,
+      2030,
+      3520
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Unterlagen",
+    "bbox": [
+      2057,
+      3449,
+      2464,
+      3526
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "fehlen:",
+    "bbox": [
+      2486,
+      3454,
+      2743,
+      3517
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "e",
+    "bbox": [
+      893,
+      3639,
+      921,
+      3666
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "Kopie",
+    "bbox": [
+      1038,
+      3618,
+      1243,
+      3695
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "des",
+    "bbox": [
+      1267,
+      3620,
+      1398,
+      3682
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Personalausweises",
+    "bbox": [
+      1426,
+      3622,
+      2148,
+      3692
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "e",
+    "bbox": [
+      891,
+      3819,
+      919,
+      3847
+    ],
+    "confidence": 81.0
+  },
+  {
+    "text": "Nachweis",
+    "bbox": [
+      1036,
+      3798,
+      1402,
+      3862
+    ],
+    "confidence": 71.0
+  },
+  {
+    "text": "über",
+    "bbox": [
+      1429,
+      3804,
+      1597,
+      3865
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wirklich",
+    "bbox": [
+      1615,
+      3806,
+      1902,
+      3868
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "e",
+    "bbox": [
+      889,
+      3999,
+      918,
+      4027
+    ],
+    "confidence": 52.0
+  },
+  {
+    "text": "Bestätigung",
+    "bbox": [
+      1035,
+      3978,
+      1476,
+      4062
+    ],
+    "confidence": 72.0
+  },
+  {
+    "text": "von",
+    "bbox": [
+      1493,
+      4000,
+      1624,
+      4047
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Junken",
+    "bbox": [
+      1647,
+      3986,
+      1905,
+      4050
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Häring",
+    "bbox": [
+      1933,
+      3990,
+      2176,
+      4069
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "GmbH",
+    "bbox": [
+      2198,
+      3992,
+      2436,
+      4057
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Wir",
+    "bbox": [
+      739,
+      4154,
+      868,
+      4217
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "bitten",
+    "bbox": [
+      890,
+      4155,
+      1100,
+      4220
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Sie,",
+    "bbox": [
+      1125,
+      4159,
+      1259,
+      4231
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "die",
+    "bbox": [
+      1286,
+      4161,
+      1394,
+      4223
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "fehlenden",
+    "bbox": [
+      1418,
+      4164,
+      1793,
+      4227
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Dokumente",
+    "bbox": [
+      1822,
+      4168,
+      2256,
+      4232
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "bis",
+    "bbox": [
+      2283,
+      4172,
+      2386,
+      4234
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "spätestens",
+    "bbox": [
+      2411,
+      4175,
+      2823,
+      4249
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "19.02.2025",
+    "bbox": [
+      2854,
+      4181,
+      3272,
+      4242
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "nachzureichen.",
+    "bbox": [
+      3297,
+      4184,
+      3872,
+      4249
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "Andernfalls",
+    "bbox": [
+      3894,
+      4185,
+      4324,
+      4270
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "müssen",
+    "bbox": [
+      744,
+      4273,
+      1035,
+      4334
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "wir",
+    "bbox": [
+      1059,
+      4275,
+      1172,
+      4335
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Ihren",
+    "bbox": [
+      1195,
+      4276,
+      1379,
+      4338
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Antrag",
+    "bbox": [
+      1401,
+      4279,
+      1650,
+      4356
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "leider",
+    "bbox": [
+      1672,
+      4282,
+      1882,
+      4343
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "ablehnen.",
+    "bbox": [
+      1902,
+      4285,
+      2272,
+      4347
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Für",
+    "bbox": [
+      742,
+      4448,
+      860,
+      4510
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Rückfragen",
+    "bbox": [
+      884,
+      4450,
+      1302,
+      4528
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "stehen",
+    "bbox": [
+      1327,
+      4456,
+      1580,
+      4518
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wir",
+    "bbox": [
+      1603,
+      4458,
+      1715,
+      4518
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Ihnen",
+    "bbox": [
+      1741,
+      4460,
+      1941,
+      4522
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "gerne",
+    "bbox": [
+      1967,
+      4472,
+      2173,
+      4538
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "telefonisch",
+    "bbox": [
+      2195,
+      4465,
+      2613,
+      4528
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "unter",
+    "bbox": [
+      2640,
+      4474,
+      2836,
+      4530
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "(00912)",
+    "bbox": [
+      2859,
+      4470,
+      3134,
+      4549
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "281533",
+    "bbox": [
+      3159,
+      4475,
+      3434,
+      4536
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "oder",
+    "bbox": [
+      3459,
+      4477,
+      3628,
+      4538
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "per",
+    "bbox": [
+      3651,
+      4492,
+      3770,
+      4554
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "E-Mail",
+    "bbox": [
+      3795,
+      4480,
+      4028,
+      4542
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "unter",
+    "bbox": [
+      4052,
+      4489,
+      4247,
+      4544
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "lothar76@yahoo.de",
+    "bbox": [
+      740,
+      4566,
+      1478,
+      4644
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "zur",
+    "bbox": [
+      1501,
+      4588,
+      1616,
+      4634
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Verfügung.",
+    "bbox": [
+      1635,
+      4576,
+      2036,
+      4654
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Mit",
+    "bbox": [
+      740,
+      4744,
+      850,
+      4806
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "freundlichen",
+    "bbox": [
+      869,
+      4746,
+      1344,
+      4813
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Grüßen",
+    "bbox": [
+      1371,
+      4751,
+      1644,
+      4816
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Dipl.-Ing.",
+    "bbox": [
+      738,
+      4927,
+      1072,
+      5007
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Thaddäus",
+    "bbox": [
+      1096,
+      4932,
+      1464,
+      4997
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Paffrath",
+    "bbox": [
+      1492,
+      4936,
+      1783,
+      5000
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "MBA.",
+    "bbox": [
+      1812,
+      4939,
+      1998,
+      5002
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Abteilungsleiter/in",
+    "bbox": [
+      730,
+      5046,
+      1418,
+      5125
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "+49(0)9658",
+    "bbox": [
+      734,
+      5161,
+      1188,
+      5237
+    ],
+    "confidence": 62.0
+  },
+  {
+    "text": "189842",
+    "bbox": [
+      1206,
+      5167,
+      1434,
+      5226
+    ],
+    "confidence": 62.0
+  },
+  {
+    "text": "https://hoffmann.com/",
+    "bbox": [
+      734,
+      5574,
+      1599,
+      5651
+    ],
+    "confidence": 88.0
+  },
+  {
+    "text": "|",
+    "bbox": [
+      1626,
+      5581,
+      1635,
+      5656
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "lothar76@yahoo.de",
+    "bbox": [
+      1665,
+      5582,
+      2403,
+      5658
+    ],
+    "confidence": 91.0
+  }
+]
