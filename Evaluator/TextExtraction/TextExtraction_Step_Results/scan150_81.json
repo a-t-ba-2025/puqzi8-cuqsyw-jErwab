@@ -1,0 +1,1132 @@
+[
+  {
+    "text": "Wasserversorger",
+    "bbox": [
+      2992,
+      1029,
+      3676,
+      1110
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Hermann-Ruppersberger-Ring",
+    "bbox": [
+      2995,
+      1141,
+      4054,
+      1226
+    ],
+    "confidence": 83.0
+  },
+  {
+    "text": "36",
+    "bbox": [
+      4074,
+      1158,
+      4158,
+      1226
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "49381",
+    "bbox": [
+      2991,
+      1248,
+      3196,
+      1319
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Saulgau",
+    "bbox": [
+      3220,
+      1247,
+      3489,
+      1327
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Telefon:",
+    "bbox": [
+      2988,
+      1355,
+      3264,
+      1420
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "0833626763",
+    "bbox": [
+      3293,
+      1363,
+      3720,
+      1441
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Gitta",
+    "bbox": [
+      471,
+      1733,
+      639,
+      1794
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "Vollbrecht",
+    "bbox": [
+      657,
+      1733,
+      1015,
+      1802
+    ],
+    "confidence": 59.0
+  },
+  {
+    "text": "Gundolf-Aumann-Platz",
+    "bbox": [
+      470,
+      1846,
+      1271,
+      1915
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "882",
+    "bbox": [
+      1293,
+      1859,
+      1424,
+      1918
+    ],
+    "confidence": 94.0
+  },
+  {
+    "text": "30182",
+    "bbox": [
+      467,
+      1959,
+      671,
+      2027
+    ],
+    "confidence": 87.0
+  },
+  {
+    "text": "Eichstätt",
+    "bbox": [
+      695,
+      1959,
+      1002,
+      2022
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Telefon:",
+    "bbox": [
+      463,
+      2176,
+      737,
+      2245
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "+49(0)6574",
+    "bbox": [
+      768,
+      2184,
+      1174,
+      2263
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "05163",
+    "bbox": [
+      1195,
+      2192,
+      1397,
+      2264
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "06.06.2025",
+    "bbox": [
+      462,
+      2602,
+      873,
+      2674
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Betreff:",
+    "bbox": [
+      459,
+      2820,
+      757,
+      2892
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Vorübergehende",
+    "bbox": [
+      789,
+      2825,
+      1453,
+      2916
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Verkehrseinschränkungen",
+    "bbox": [
+      1481,
+      2833,
+      2529,
+      2928
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      2561,
+      2844,
+      2629,
+      2909
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Saulgau",
+    "bbox": [
+      2661,
+      2847,
+      2972,
+      2932
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Sehr",
+    "bbox": [
+      459,
+      3036,
+      627,
+      3109
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "geehrte/r",
+    "bbox": [
+      648,
+      3041,
+      978,
+      3129
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Gitta",
+    "bbox": [
+      1002,
+      3044,
+      1188,
+      3114
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "Vollbrecht,",
+    "bbox": [
+      1215,
+      3045,
+      1626,
+      3130
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "wir",
+    "bbox": [
+      450,
+      3258,
+      575,
+      3326
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "möchten",
+    "bbox": [
+      603,
+      3260,
+      913,
+      3330
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Sie",
+    "bbox": [
+      947,
+      3262,
+      1058,
+      3331
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "darüber",
+    "bbox": [
+      1087,
+      3263,
+      1368,
+      3335
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "informieren,",
+    "bbox": [
+      1400,
+      3266,
+      1851,
+      3350
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "dass",
+    "bbox": [
+      1880,
+      3270,
+      2037,
+      3339
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "es",
+    "bbox": [
+      2065,
+      3294,
+      2137,
+      3342
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "aufgrund",
+    "bbox": [
+      2165,
+      3274,
+      2495,
+      3363
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "von",
+    "bbox": [
+      2523,
+      3298,
+      2657,
+      3346
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Computer",
+    "bbox": [
+      2689,
+      3278,
+      3095,
+      3367
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      3123,
+      3282,
+      3188,
+      3350
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "der",
+    "bbox": [
+      3216,
+      3282,
+      3333,
+      3350
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Zeit",
+    "bbox": [
+      3357,
+      3286,
+      3506,
+      3355
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "vom",
+    "bbox": [
+      3530,
+      3307,
+      3691,
+      3355
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "16.02.2025",
+    "bbox": [
+      3724,
+      3290,
+      4134,
+      3359
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "bis",
+    "bbox": [
+      4162,
+      3293,
+      4267,
+      3363
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "26.02.2025",
+    "bbox": [
+      452,
+      3366,
+      865,
+      3438
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      894,
+      3391,
+      977,
+      3439
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "Verkehrseinschränkungen",
+    "bbox": [
+      1006,
+      3371,
+      1972,
+      3467
+    ],
+    "confidence": 92.0
+  },
+  {
+    "text": "in",
+    "bbox": [
+      2005,
+      3380,
+      2068,
+      3447
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Saulgau",
+    "bbox": [
+      2098,
+      3383,
+      2391,
+      3471
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "kommen",
+    "bbox": [
+      2423,
+      3384,
+      2740,
+      3455
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wird.",
+    "bbox": [
+      2770,
+      3387,
+      2954,
+      3456
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Betroffene",
+    "bbox": [
+      454,
+      3588,
+      970,
+      3676
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Straßen:",
+    "bbox": [
+      1006,
+      3593,
+      1403,
+      3677
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "°",
+    "bbox": [
+      589,
+      3886,
+      623,
+      3922
+    ],
+    "confidence": 26.0
+  },
+  {
+    "text": "Freudenbergerallee",
+    "bbox": [
+      728,
+      3869,
+      1505,
+      3958
+    ],
+    "confidence": 85.0
+  },
+  {
+    "text": "—",
+    "bbox": [
+      1526,
+      3910,
+      1578,
+      3918
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "gesperrt",
+    "bbox": [
+      1602,
+      3886,
+      1899,
+      3962
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "für",
+    "bbox": [
+      1924,
+      3874,
+      2033,
+      3942
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "den",
+    "bbox": [
+      2057,
+      3877,
+      2185,
+      3946
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Durchgangsverkehr",
+    "bbox": [
+      2217,
+      3878,
+      2947,
+      3966
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "se",
+    "bbox": [
+      588,
+      4003,
+      623,
+      4035
+    ],
+    "confidence": 22.0
+  },
+  {
+    "text": "Renuterplatz",
+    "bbox": [
+      725,
+      3982,
+      1191,
+      4067
+    ],
+    "confidence": 71.0
+  },
+  {
+    "text": "—",
+    "bbox": [
+      1215,
+      4022,
+      1267,
+      4031
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "nur",
+    "bbox": [
+      1291,
+      4007,
+      1413,
+      4051
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "einspurig",
+    "bbox": [
+      1437,
+      3986,
+      1783,
+      4075
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "befahrbar",
+    "bbox": [
+      1811,
+      3990,
+      2161,
+      4059
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "e",
+    "bbox": [
+      587,
+      4115,
+      620,
+      4149
+    ],
+    "confidence": 77.0
+  },
+  {
+    "text": "Hofmannstr.",
+    "bbox": [
+      728,
+      4096,
+      1232,
+      4167
+    ],
+    "confidence": 89.0
+  },
+  {
+    "text": "—",
+    "bbox": [
+      1256,
+      4139,
+      1307,
+      4148
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Umleitung",
+    "bbox": [
+      1331,
+      4100,
+      1723,
+      4188
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "über",
+    "bbox": [
+      1751,
+      4103,
+      1915,
+      4172
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "unser",
+    "bbox": [
+      1940,
+      4127,
+      2137,
+      4173
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Wir",
+    "bbox": [
+      445,
+      4307,
+      587,
+      4376
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "bitten",
+    "bbox": [
+      615,
+      4308,
+      821,
+      4377
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "um",
+    "bbox": [
+      849,
+      4332,
+      961,
+      4380
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Ihr",
+    "bbox": [
+      991,
+      4312,
+      1098,
+      4380
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Verständnis",
+    "bbox": [
+      1123,
+      4313,
+      1561,
+      4384
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "und",
+    "bbox": [
+      1593,
+      4317,
+      1723,
+      4384
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "empfehlen",
+    "bbox": [
+      1754,
+      4320,
+      2141,
+      4404
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Ihnen,",
+    "bbox": [
+      2170,
+      4320,
+      2399,
+      4404
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "alternative",
+    "bbox": [
+      2427,
+      4324,
+      2814,
+      4393
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Routen",
+    "bbox": [
+      2842,
+      4328,
+      3108,
+      4393
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "zu",
+    "bbox": [
+      3132,
+      4348,
+      3217,
+      4396
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "nutzen.",
+    "bbox": [
+      3248,
+      4336,
+      3510,
+      4397
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Bei",
+    "bbox": [
+      3542,
+      4331,
+      3667,
+      4397
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "weiteren",
+    "bbox": [
+      3692,
+      4332,
+      4009,
+      4401
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Fragen",
+    "bbox": [
+      4037,
+      4336,
+      4291,
+      4421
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "wenden",
+    "bbox": [
+      442,
+      4417,
+      729,
+      4486
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Sie",
+    "bbox": [
+      760,
+      4418,
+      872,
+      4489
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "sich",
+    "bbox": [
+      901,
+      4420,
+      1044,
+      4489
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "bitte",
+    "bbox": [
+      1072,
+      4421,
+      1235,
+      4489
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "an",
+    "bbox": [
+      1263,
+      4445,
+      1343,
+      4490
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "unsere",
+    "bbox": [
+      1373,
+      4445,
+      1610,
+      4493
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Servicestelle",
+    "bbox": [
+      1642,
+      4428,
+      2109,
+      4497
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "unter",
+    "bbox": [
+      2137,
+      4441,
+      2329,
+      4497
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "0833626763",
+    "bbox": [
+      2354,
+      4432,
+      2809,
+      4501
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "oder",
+    "bbox": [
+      2842,
+      4437,
+      3003,
+      4501
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "per",
+    "bbox": [
+      3030,
+      4457,
+      3147,
+      4521
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "E-Mail",
+    "bbox": [
+      3169,
+      4437,
+      3430,
+      4504
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "an",
+    "bbox": [
+      3461,
+      4457,
+      3542,
+      4505
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "bartholomaeus?77@aol.de.",
+    "bbox": [
+      444,
+      4525,
+      1412,
+      4618
+    ],
+    "confidence": 20.0
+  },
+  {
+    "text": "Mit",
+    "bbox": [
+      445,
+      4738,
+      575,
+      4806
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "freundlichen",
+    "bbox": [
+      604,
+      4738,
+      1066,
+      4810
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Grüßen",
+    "bbox": [
+      1095,
+      4742,
+      1365,
+      4811
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Frau",
+    "bbox": [
+      442,
+      4956,
+      608,
+      5024
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Kathrin",
+    "bbox": [
+      636,
+      4956,
+      914,
+      5024
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Vollbrecht",
+    "bbox": [
+      943,
+      4959,
+      1340,
+      5028
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "B.Sc.",
+    "bbox": [
+      1365,
+      4963,
+      1558,
+      5028
+    ],
+    "confidence": 86.0
+  },
+  {
+    "text": "Leiter/in",
+    "bbox": [
+      441,
+      5061,
+      757,
+      5132
+    ],
+    "confidence": 95.0
+  },
+  {
+    "text": "Wasserwirtschaft",
+    "bbox": [
+      788,
+      5065,
+      1429,
+      5137
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "Wasserversorger",
+    "bbox": [
+      439,
+      5285,
+      1115,
+      5374
+    ],
+    "confidence": 90.0
+  },
+  {
+    "text": "Hermann-Ruppersberger-Ring",
+    "bbox": [
+      444,
+      5394,
+      1575,
+      5487
+    ],
+    "confidence": 91.0
+  },
+  {
+    "text": "36",
+    "bbox": [
+      1602,
+      5398,
+      1691,
+      5467
+    ],
+    "confidence": 96.0
+  },
+  {
+    "text": "49381",
+    "bbox": [
+      439,
+      5503,
+      660,
+      5571
+    ],
+    "confidence": 93.0
+  },
+  {
+    "text": "Saulgau",
+    "bbox": [
+      700,
+      5503,
+      993,
+      5591
+    ],
+    "confidence": 96.0
+  }
+]

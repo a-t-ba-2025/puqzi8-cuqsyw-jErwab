@@ -1,0 +1,322 @@
+[
+  {
+    "text": "lhr",
+    "bbox": [
+      3270,
+      826,
+      3403,
+      914
+    ],
+    "confidence": 0.8203747272491455
+  },
+  {
+    "text": "Energieversorger",
+    "bbox": [
+      3254,
+      927,
+      4186,
+      1083
+    ],
+    "confidence": 0.999646782875061
+  },
+  {
+    "text": " Jörgen Rogge B.A.",
+    "bbox": [
+      767,
+      1205,
+      1551,
+      1338
+    ],
+    "confidence": 0.9851967692375183
+  },
+  {
+    "text": "Wilmsenplatz 36",
+    "bbox": [
+      774,
+      1351,
+      1448,
+      1485
+    ],
+    "confidence": 0.9995887875556946
+  },
+  {
+    "text": "10233 Roding",
+    "bbox": [
+      772,
+      1481,
+      1339,
+      1632
+    ],
+    "confidence": 0.9998500347137451
+  },
+  {
+    "text": "01.04.2025",
+    "bbox": [
+      3970,
+      1899,
+      4423,
+      2018
+    ],
+    "confidence": 0.999981701374054
+  },
+  {
+    "text": "Betreff: Willkommen bei Keudel Flicgner GmbH - Ihre Energicversorgung beginnt!",
+    "bbox": [
+      693,
+      1994,
+      4171,
+      2186
+    ],
+    "confidence": 0.9894885420799255
+  },
+  {
+    "text": "Sehr geehrte/r Jörgen Rogge B.A.,",
+    "bbox": [
+      700,
+      2221,
+      2038,
+      2361
+    ],
+    "confidence": 0.9664829969406128
+  },
+  {
+    "text": "herzlich willkommen bei Keudel Fliegner GmbH! Wir freuen uns, dass Sie sich für unseren",
+    "bbox": [
+      693,
+      2440,
+      4282,
+      2624
+    ],
+    "confidence": 0.9907170534133911
+  },
+  {
+    "text": " ins-Tarif entschieden haben. Ihre zuverlässige Energieversorgung beginnt am 31.03.2025.",
+    "bbox": [
+      678,
+      2557,
+      4178,
+      2741
+    ],
+    "confidence": 0.989284336566925
+  },
+  {
+    "text": "Ihre Vertragsdetails auf einen Blick:",
+    "bbox": [
+      693,
+      2791,
+      2377,
+      2931
+    ],
+    "confidence": 0.9990679025650024
+  },
+  {
+    "text": "V Zählernummer: 62792930",
+    "bbox": [
+      678,
+      3025,
+      1876,
+      3173
+    ],
+    "confidence": 0.9673107266426086
+  },
+  {
+    "text": "V Versorgungsbeginn: 31.03.2025",
+    "bbox": [
+      671,
+      3156,
+      2090,
+      3312
+    ],
+    "confidence": 0.9935933947563171
+  },
+  {
+    "text": "V Abschlagszahlung: 7895.28 £ monatlich",
+    "bbox": [
+      671,
+      3288,
+      2385,
+      3435
+    ],
+    "confidence": 0.9820905923843384
+  },
+  {
+    "text": "V Jahresverbrauch (prognostiziert): 4764.13 kWh",
+    "bbox": [
+      678,
+      3420,
+      2724,
+      3567
+    ],
+    "confidence": 0.9885594248771667
+  },
+  {
+    "text": "V Vertragslaufzeit: endlich",
+    "bbox": [
+      671,
+      3544,
+      1802,
+      3692
+    ],
+    "confidence": 0.9643632173538208
+  },
+  {
+    "text": "Nachste Schritte für Sie:",
+    "bbox": [
+      671,
+      3793,
+      1809,
+      3910
+    ],
+    "confidence": 0.9403319358825684
+  },
+  {
+    "text": " Zählerstand übermitteln: Bitte teilen Sie uns bis zum 06.06.2025 Ihren aktuellen",
+    "bbox": [
+      708,
+      4041,
+      4001,
+      4188
+    ],
+    "confidence": 0.9809203743934631
+  },
+  {
+    "text": "Zählerstand mit. Dies können Sie bequem online unter http://www.neureuther.de/ oder",
+    "bbox": [
+      664,
+      4143,
+      4090,
+      4320
+    ],
+    "confidence": 0.9825600981712341
+  },
+  {
+    "text": "telefonisch unter (06880) 242478 tun.",
+    "bbox": [
+      664,
+      4260,
+      2134,
+      4393
+    ],
+    "confidence": 0.9940191507339478
+  },
+  {
+    "text": " Ihr Online-Kundenportal aktivieren: Verwalten Sie Ihren Vertrag, Abschläge und",
+    "bbox": [
+      693,
+      4377,
+      4090,
+      4546
+    ],
+    "confidence": 0.9728487133979797
+  },
+  {
+    "text": "Rechnungen einfach unter http://www.ncureuther.de/.",
+    "bbox": [
+      664,
+      4501,
+      2820,
+      4634
+    ],
+    "confidence": 0.9900692105293274
+  },
+  {
+    "text": " Energiespartipps cntdccken: Erfahren Sic unter http://christopl.de/, wie Sie Ihren",
+    "bbox": [
+      686,
+      4618,
+      4112,
+      4780
+    ],
+    "confidence": 0.9850573539733887
+  },
+  {
+    "text": "Verbrauch optimieren und Energiekosten sparen können.",
+    "bbox": [
+      664,
+      4728,
+      2857,
+      4882
+    ],
+    "confidence": 0.997259795665741
+  },
+  {
+    "text": "Sollten Sie Fragen haben oder Unterstutzung benötigen, stehen wir Ihnen gerne unter (06880)",
+    "bbox": [
+      664,
+      4962,
+      4259,
+      5109
+    ],
+    "confidence": 0.9791666269302368
+  },
+  {
+    "text": "242478 oder per E-Mail unter holstenreinhold@gmail.com zur Verfigung.",
+    "bbox": [
+      649,
+      5064,
+      3610,
+      5233
+    ],
+    "confidence": 0.9953737258911133
+  },
+  {
+    "text": "Wir danken Ihnen für Ihr Vertrauen und freuen uns auf eine langjahrige Zusammenarbeit!",
+    "bbox": [
+      656,
+      5298,
+      4112,
+      5445
+    ],
+    "confidence": 0.9828286170959473
+  },
+  {
+    "text": "Kcudel Fliegner GmbH",
+    "bbox": [
+      3078,
+      6044,
+      3897,
+      6139
+    ],
+    "confidence": 0.9682694673538208
+  },
+  {
+    "text": "Günther-Noh1mans-Allee 3/5",
+    "bbox": [
+      3070,
+      6146,
+      4038,
+      6256
+    ],
+    "confidence": 0.9726530313491821
+  },
+  {
+    "text": "33328 Bogen",
+    "bbox": [
+      3077,
+      6255,
+      3537,
+      6367
+    ],
+    "confidence": 0.9984843730926514
+  },
+  {
+    "text": "Telefon: (06880) 242478",
+    "bbox": [
+      3077,
+      6365,
+      3898,
+      6476
+    ],
+    "confidence": 0.9605312943458557
+  },
+  {
+    "text": "Internet: http://www.neureuther.de/",
+    "bbox": [
+      3070,
+      6482,
+      4230,
+      6592
+    ],
+    "confidence": 0.997654914855957
+  }
+]

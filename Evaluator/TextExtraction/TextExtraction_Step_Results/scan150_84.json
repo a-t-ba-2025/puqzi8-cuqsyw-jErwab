@@ -1,0 +1,252 @@
+[
+  {
+    "text": "MALZER GMBH & CO. KG",
+    "bbox": [
+      486,
+      891,
+      1935,
+      1046
+    ],
+    "confidence": 0.9675054550170898
+  },
+  {
+    "text": "VERSICHERUNG",
+    "bbox": [
+      479,
+      1161,
+      1433,
+      1294
+    ],
+    "confidence": 0.9993153214454651
+  },
+  {
+    "text": "Romuald-Schafer-Weg 9/3",
+    "bbox": [
+      472,
+      1403,
+      1506,
+      1521
+    ],
+    "confidence": 0.9797351956367493
+  },
+  {
+    "text": "38511 Stalfurt",
+    "bbox": [
+      464,
+      1563,
+      1064,
+      1690
+    ],
+    "confidence": 0.9538598656654358
+  },
+  {
+    "text": "Katerina Steuer B.Eng.",
+    "bbox": [
+      456,
+      1891,
+      1397,
+      2040
+    ],
+    "confidence": 0.9994959235191345
+  },
+  {
+    "text": "Georgine-Junck-Weg 04",
+    "bbox": [
+      457,
+      2075,
+      1410,
+      2193
+    ],
+    "confidence": 0.99951171875
+  },
+  {
+    "text": "07574 Fulda",
+    "bbox": [
+      456,
+      2191,
+      961,
+      2311
+    ],
+    "confidence": 0.9989044070243835
+  },
+  {
+    "text": "BETREFF: BESTATIGUNG DER AUSZAHLUNG IHRER VERSICHERUNGSLEISTUNG",
+    "bbox": [
+      450,
+      2594,
+      4016,
+      2763
+    ],
+    "confidence": 0.9968622326850891
+  },
+  {
+    "text": "(VORGANGSNUMMER: V-23984434)",
+    "bbox": [
+      457,
+      2755,
+      2016,
+      2880
+    ],
+    "confidence": 0.9963172078132629
+  },
+  {
+    "text": "13.03.2025",
+    "bbox": [
+      3639,
+      2865,
+      4082,
+      2967
+    ],
+    "confidence": 0.9999165534973145
+  },
+  {
+    "text": "Sehr geehrte/r Katerina Steuer B.Eng.,",
+    "bbox": [
+      449,
+      3164,
+      1935,
+      3319
+    ],
+    "confidence": 0.9886746406555176
+  },
+  {
+    "text": "wir freuen uns, lhnen mitzuteilen, dass Ihr Versicherungsfall Notizbuch erfolgreich bearbeitet wurde.",
+    "bbox": [
+      435,
+      3376,
+      4252,
+      3523
+    ],
+    "confidence": 0.97421795129776
+  },
+  {
+    "text": "Die Auszahlung lhrer Versicherungsleistung in Höhe von 7731.30 @ wurde am 09.05.2025 auf lhr",
+    "bbox": [
+      442,
+      3493,
+      4126,
+      3640
+    ],
+    "confidence": 0.983476459980011
+  },
+  {
+    "text": "hinterlegtes Konto mit der IBAN DE06309415857479929316 veranlasst.",
+    "bbox": [
+      435,
+      3610,
+      3174,
+      3750
+    ],
+    "confidence": 0.9955161213874817
+  },
+  {
+    "text": " Zusammenfassung der Abwicklung:",
+    "bbox": [
+      428,
+      3807,
+      1927,
+      3932
+    ],
+    "confidence": 0.9844376444816589
+  },
+  {
+    "text": "V Versicherungsnummer: 23984434",
+    "bbox": [
+      435,
+      4019,
+      1912,
+      4144
+    ],
+    "confidence": 0.9925371408462524
+  },
+  {
+    "text": "V Schadensart: treffen",
+    "bbox": [
+      435,
+      4151,
+      1359,
+      4269
+    ],
+    "confidence": 0.9978616833686829
+  },
+  {
+    "text": "V Schadensh8he: 7731.30 €",
+    "bbox": [
+      435,
+      4289,
+      1595,
+      4415
+    ],
+    "confidence": 0.9822205901145935
+  },
+  {
+    "text": "V Auszahlungsdatum: 09.05.2025",
+    "bbox": [
+      435,
+      4428,
+      1809,
+      4546
+    ],
+    "confidence": 0.9876993894577026
+  },
+  {
+    "text": "Mail wheinz@googlemail.com zur Verfügung.",
+    "bbox": [
+      420,
+      4743,
+      2229,
+      4882
+    ],
+    "confidence": 0.9956932067871094
+  },
+  {
+    "text": "Mit freundlichen Grüßen",
+    "bbox": [
+      420,
+      4947,
+      1366,
+      5058
+    ],
+    "confidence": 0.9571357369422913
+  },
+  {
+    "text": "Dr. Theresia Scholtz",
+    "bbox": [
+      420,
+      5144,
+      1270,
+      5255
+    ],
+    "confidence": 0.9985407590866089
+  },
+  {
+    "text": "Mälzer GmbH & Co. KG Versicherung",
+    "bbox": [
+      413,
+      5232,
+      1971,
+      5372
+    ],
+    "confidence": 0.9785472750663757
+  },
+  {
+    "text": "Romuald-Schäfer-Weg 9/3",
+    "bbox": [
+      420,
+      5342,
+      1462,
+      5460
+    ],
+    "confidence": 0.9700656533241272
+  },
+  {
+    "text": "38511 Stalfurt",
+    "bbox": [
+      420,
+      5436,
+      1027,
+      5555
+    ],
+    "confidence": 0.9687731862068176
+  }
+]
