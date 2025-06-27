@@ -1,0 +1,472 @@
+[
+  {
+    "text": "Amtsgericht Strausberg",
+    "bbox": [
+      70.824,
+      760.042,
+      167.124,
+      769.042
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Urteil vom 25.03.2025",
+    "bbox": [
+      70.824,
+      748.55272,
+      146.5608,
+      756.5927200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Aktenzeichen: 12 C 482/25",
+    "bbox": [
+      70.824,
+      737.1527199999999,
+      162.63276,
+      745.19272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Im Namen des Volkes",
+    "bbox": [
+      70.824,
+      717.83272,
+      145.12164,
+      725.8727200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Urteil",
+    "bbox": [
+      70.824,
+      693.6759999999999,
+      101.328,
+      705.6759999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "In dem Rechtsstreit",
+    "bbox": [
+      70.824,
+      673.55272,
+      137.82132000000001,
+      681.5927200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "der Kohl GmbH, vertreten durch Thies Meister-Dietz, Vitali-Nerger-Gasse 0/6, 53296 Strausberg",
+    "bbox": [
+      70.824,
+      662.2727199999999,
+      395.74100000000004,
+      670.31272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Klägerin –",
+    "bbox": [
+      70.824,
+      650.99272,
+      109.31840000000001,
+      659.03272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "gegen",
+    "bbox": [
+      70.824,
+      631.67272,
+      91.33404,
+      639.7127200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "die Wilms, vertreten durch Univ.Prof. Sinaida Keudel MBA., Magret-Scheuermann-Ring 07, 17026 Stade",
+    "bbox": [
+      70.824,
+      612.35272,
+      422.7886,
+      620.39272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Beklagte –",
+    "bbox": [
+      70.824,
+      601.07272,
+      111.3584,
+      609.1127200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "wegen Forderung aus Werkvertrag",
+    "bbox": [
+      70.824,
+      581.72272,
+      187.17888,
+      589.7627200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "hat das Amtsgericht Strausberg durch die Richterin Janos Koch B.Sc. am 25.03.2025 aufgrund der mündlichen Verhandlung vom ",
+    "bbox": [
+      70.824,
+      562.4027199999999,
+      509.54267999999996,
+      570.44272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "11.03.2025 für Recht erkannt:",
+    "bbox": [
+      70.824,
+      551.12272,
+      172.84356000000002,
+      559.16272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Tenor",
+    "bbox": [
+      70.824,
+      529.46128,
+      95.71404000000001,
+      539.42128
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "1.",
+    "bbox": [
+      88.824,
+      509.60272,
+      95.4434,
+      517.64272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Beklagte wird verurteilt, an die Klägerin 33.31 € Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem ",
+    "bbox": [
+      106.82,
+      509.60272,
+      483.1402399999999,
+      517.64272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Basiszinssatz seit dem 24.05.2025 zu zahlen.",
+    "bbox": [
+      106.82,
+      498.32271999999995,
+      261.25231999999994,
+      506.36271999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "2.",
+    "bbox": [
+      88.824,
+      479.00271999999995,
+      95.4434,
+      487.04272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Beklagte trägt die Kosten des Rechtsstreits.",
+    "bbox": [
+      106.82,
+      479.00271999999995,
+      268.37576000000007,
+      487.04272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "3.",
+    "bbox": [
+      88.824,
+      459.68271999999996,
+      95.4434,
+      467.72272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Das Urteil ist vorläufig vollstreckbar.",
+    "bbox": [
+      106.82,
+      459.68271999999996,
+      230.12948,
+      467.72272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Tatbestand",
+    "bbox": [
+      70.824,
+      436.75672000000003,
+      126.47663999999997,
+      447.79672
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Klägerin macht gegen die Beklagte Ansprüche aus einem Werkvertrag geltend, den die Parteien am 12.04.2025 im Rahmen eines ",
+    "bbox": [
+      70.824,
+      424.74271999999996,
+      523.85212,
+      432.78272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Projekts zur digitalen Umsetzung von Sterbeurkunde geschlossen hatten. Gegenstand des Vertrages war die Lieferung und ",
+    "bbox": [
+      70.824,
+      413.46272,
+      489.13715999999994,
+      421.50272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Integration eines IT-Systems zur Verwaltung interner Vorgänge bei der Beklagten.",
+    "bbox": [
+      70.824,
+      402.18271999999996,
+      345.46807999999993,
+      410.22272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Parteien vereinbarten eine Vergütung in Höhe von 33.31 € Euro. Die Klägerin erbrachte sämtliche vereinbarten Leistungen bis ",
+    "bbox": [
+      70.824,
+      382.86271999999997,
+      511.12876,
+      390.90272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "zum 17.03.2025. Die Beklagte verweigerte die Abnahme der Leistung mit der Begründung, es lägen funktionale Mängel vor. Eine ",
+    "bbox": [
+      70.824,
+      371.58272,
+      506.3829600000001,
+      379.62272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zahlung erfolgte nicht. Die Klägerin forderte daraufhin mit Schreiben vom 30.01.2025 unter Fristsetzung zur Zahlung bis zum ",
+    "bbox": [
+      70.824,
+      360.18271999999996,
+      495.7359599999998,
+      368.22272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "16.01.2025 auf, was fruchtlos blieb.",
+    "bbox": [
+      70.824,
+      348.90272,
+      193.36164000000002,
+      356.94272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Klägerin beantragt:",
+    "bbox": [
+      70.824,
+      329.58272,
+      149.01299999999998,
+      337.62272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– die Beklagte zu verurteilen, an sie 33.31 € Euro nebst Zinsen sowie vorgerichtliche Mahnkosten in Höhe von 692.65 € Euro zu ",
+    "bbox": [
+      70.824,
+      318.30272,
+      501.00132000000025,
+      326.34272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "zahlen.",
+    "bbox": [
+      70.824,
+      307.02272000000005,
+      96.02136,
+      315.06272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Beklagte beantragt, die Klage abzuweisen. Sie behauptet, das gelieferte System sei nicht mit den bestehenden Strukturen ",
+    "bbox": [
+      70.824,
+      287.70272,
+      500.3127599999997,
+      295.7427200000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "kompatibel gewesen und habe mehrfach zum Ausfall interner Prozesse geführt. Die Klägerin habe sich zudem geweigert, telefonisch ",
+    "bbox": [
+      70.824,
+      276.4227199999999,
+      523.74316,
+      284.46272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "erreichbare Ansprechpartner bereitzustellen. Verwiesen wird auf eine E-Mail-Korrespondenz vom 09.01.2025 an therrmann@web.de ",
+    "bbox": [
+      70.824,
+      264.99271999999996,
+      525.2107599999999,
+      273.03272000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "sowie mehrere erfolglose Anrufe bei +49(0)9606 67257.",
+    "bbox": [
+      70.824,
+      253.71272,
+      259.7800799999999,
+      261.75272000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Entscheidungsgründe",
+    "bbox": [
+      70.824,
+      231.93128000000002,
+      169.55748,
+      241.89127999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Klage ist in vollem Umfang begründet. Zwischen den Parteien bestand ein wirksamer Werkvertrag im Sinne der §§ 631 ff. BGB. Die ",
+    "bbox": [
+      70.824,
+      220.23271999999997,
+      526.12912,
+      228.27272000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Klägerin hat durch Vorlage des Abnahmeprotokolls (Anlage K3) sowie mehrerer technischer Berichte (Anlagen K4–K6) belegt, dass ",
+    "bbox": [
+      70.824,
+      208.95272,
+      515.33212,
+      216.99271999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "die vereinbarte Leistung vollständig und mangelfrei erbracht wurde.",
+    "bbox": [
+      70.824,
+      197.67272000000003,
+      301.28255999999993,
+      205.71272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Beklagte ist ihrer sekundären Darlegungslast zu behaupteten Mängeln nicht nachgekommen. Pauschale Behauptungen ohne ",
+    "bbox": [
+      70.824,
+      178.35271999999998,
+      512.71044,
+      186.39271999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "technische Nachweise genügen nicht. Auch die behauptete Nichterreichbarkeit der Ansprechpartner wurde nicht substantiiert ",
+    "bbox": [
+      70.824,
+      167.07272,
+      504.75084000000015,
+      175.11271999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "belegt. Die E-Mail an therrmann@web.de vom 09.01.2025 wurde laut Logdatei des Mailservers zwar empfangen, blieb jedoch ",
+    "bbox": [
+      70.824,
+      155.67272000000003,
+      499.07456,
+      163.71272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "inhaltlich unbeantwortet. Ein Pflichtverstoß ist daraus nicht abzuleiten.",
+    "bbox": [
+      70.824,
+      144.39271999999994,
+      313.77672,
+      152.43272000000002
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Zinsforderung folgt aus §§ 286, 288 Abs. 1 BGB. Die vorgerichtlichen Mahnkosten sind in der geltend gemachten Höhe nicht zu ",
+    "bbox": [
+      70.824,
+      125.07272,
+      515.57152,
+      133.11271999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "beanstanden.",
+    "bbox": [
+      70.824,
+      113.79272000000003,
+      118.67004,
+      121.83272
+    ],
+    "confidence": 1.0
+  }
+]

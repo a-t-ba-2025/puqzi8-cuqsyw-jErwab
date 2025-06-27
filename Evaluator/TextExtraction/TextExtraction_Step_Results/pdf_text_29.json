@@ -1,0 +1,442 @@
+[
+  {
+    "text": "Rahmenvertrag zur Erbringung von IT-Dienstleistungen",
+    "bbox": [
+      70.824,
+      752.7484000000001,
+      492.15508,
+      768.7084
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Dieser Rahmenvertrag wird geschlossen zwischen Hölzenbecher GmbH & Co. KG, mit Geschäftssitz ",
+    "bbox": [
+      70.824,
+      730.2484000000001,
+      519.9702000000001,
+      740.2084
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "in der Hans Josef-Bender-Gasse 46, 62835 Griesbach Rottal, Iran, vertreten durch Ante Weitzel B.A., ",
+    "bbox": [
+      70.824,
+      716.9284,
+      521.93608,
+      726.8883999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "im Folgenden „Auftraggeber“ genannt,",
+    "bbox": [
+      70.824,
+      703.6084000000001,
+      240.13404000000006,
+      713.5684
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "und Käster GmbH & Co. KGaA, ansässig in der Michail-Noack-Straße 256, 01181 Strasburg, vertreten ",
+    "bbox": [
+      70.824,
+      690.2884,
+      525.664,
+      700.2484
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "durch Ewa Walter, im Folgenden „Auftragnehmer“ genannt.",
+    "bbox": [
+      70.824,
+      676.9684,
+      331.9951199999999,
+      686.9283999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "1. Vertragsgegenstand",
+    "bbox": [
+      70.824,
+      654.02848,
+      195.69252000000003,
+      663.98848
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Der Auftragnehmer verpflichtet sich, auf Abruf des Auftraggebers IT-Dienstleistungen zu erbringen. ",
+    "bbox": [
+      70.824,
+      639.4084,
+      508.64716000000004,
+      649.3684
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Hierzu zählen insbesondere, aber nicht ausschließlich:",
+    "bbox": [
+      70.824,
+      626.0884,
+      312.4037999999999,
+      636.0483999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Entwicklung und Anpassung von Softwarelösungen,",
+    "bbox": [
+      70.824,
+      612.7684,
+      308.49276,
+      622.7284
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– IT-Support und Fehleranalyse,",
+    "bbox": [
+      70.824,
+      599.4184,
+      213.56076000000004,
+      609.3783999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Systemadministration, Monitoring und Wartung,",
+    "bbox": [
+      70.824,
+      586.0984000000001,
+      289.1803199999999,
+      596.0584
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– IT-Beratung im Zusammenhang mit Erbschein,",
+    "bbox": [
+      70.824,
+      572.7784,
+      285.73091999999997,
+      582.7384
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Begleitung von Zertifizierungsprozessen nach Vorgaben des Leiter/in Gewerbeaufsicht.",
+    "bbox": [
+      70.824,
+      559.4584,
+      464.65559999999994,
+      569.4183999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die konkreten Leistungen werden in separaten Einzelabrufen gemäß den Bedingungen dieses ",
+    "bbox": [
+      70.824,
+      538.0984000000001,
+      490.59815999999984,
+      548.0584
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Rahmenvertrages beauftragt. Jeder Abruf erhält eine eigene Leistungsbeschreibung, Zeitplanung und ",
+    "bbox": [
+      70.824,
+      524.7784,
+      522.3805199999996,
+      534.7384
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Budgetvorgabe.",
+    "bbox": [
+      70.824,
+      511.4583999999999,
+      141.25116,
+      521.4183999999999
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "2. Vertragslaufzeit",
+    "bbox": [
+      70.824,
+      488.39848,
+      171.99768000000003,
+      498.35848
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Der Vertrag tritt mit Unterzeichnung in Kraft und gilt zunächst bis zum 12.01.2025. Er verlängert sich ",
+    "bbox": [
+      70.824,
+      473.7784,
+      515.54796,
+      483.7384
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "automatisch jeweils um ein weiteres Jahr, sofern keine Partei mit einer Frist von drei Monaten zum ",
+    "bbox": [
+      70.824,
+      460.4584,
+      508.2472799999998,
+      470.4184
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Laufzeitende schriftlich kündigt. Das Recht zur außerordentlichen Kündigung aus wichtigem Grund ",
+    "bbox": [
+      70.824,
+      447.1384,
+      509.66204,
+      457.0984
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "bleibt unberührt.",
+    "bbox": [
+      70.824,
+      433.79839999999996,
+      142.90452,
+      443.7584
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "3. Vergütung",
+    "bbox": [
+      70.824,
+      410.73848000000004,
+      140.42448,
+      420.69848
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Abrechnung erfolgt nach Aufwand auf Stundenbasis. Der Stundensatz beträgt:",
+    "bbox": [
+      70.824,
+      396.11839999999995,
+      434.60303999999996,
+      406.0784
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Entwicklerleistungen: 952.71 € Euro",
+    "bbox": [
+      70.824,
+      382.79839999999996,
+      238.6134,
+      392.7584
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Support- und Administrationsleistungen: 177.25 € Euro",
+    "bbox": [
+      70.824,
+      369.47839999999997,
+      321.34243999999995,
+      379.4384
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "– Beratung: 601.16 € Euro",
+    "bbox": [
+      70.824,
+      356.1584,
+      187.98672000000002,
+      366.1184
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zahlungen sind binnen 14 Tagen nach Rechnungseingang auf das Konto des Auftragnehmers (IBAN: ",
+    "bbox": [
+      70.824,
+      334.91839999999996,
+      520.55784,
+      344.8784
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "DE74481662240209615394, BIC: OGYVDETHFFV) zu leisten. Projektpauschalen können im ",
+    "bbox": [
+      70.824,
+      321.59839999999997,
+      486.15600000000006,
+      331.5584
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Einzelfall gesondert vereinbart werden. Sämtliche Preise verstehen sich zzgl. gesetzlicher ",
+    "bbox": [
+      70.824,
+      308.27840000000003,
+      470.89972000000006,
+      318.23840000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Umsatzsteuer.",
+    "bbox": [
+      70.824,
+      294.9584,
+      134.63772,
+      304.9184
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "4. Mitwirkungspflichten",
+    "bbox": [
+      70.824,
+      271.86848,
+      199.78608000000006,
+      281.82848
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Der Auftraggeber verpflichtet sich, alle zur Durchführung der Leistungen erforderlichen Informationen ",
+    "bbox": [
+      70.824,
+      257.24839999999995,
+      518.8945199999996,
+      267.2084
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "und Zugänge bereitzustellen. Dazu zählen u. a. administrative Zugänge zu Testsystemen, ",
+    "bbox": [
+      70.824,
+      243.9284,
+      468.49692,
+      253.88840000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ansprechpartnerlisten, sowie dokumentierte Anforderungen. Ansprechpartner für operative ",
+    "bbox": [
+      70.824,
+      230.60839999999996,
+      473.81968,
+      240.5684
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Abstimmungen ist auf Seiten des Auftraggebers Patrizia Keudel, erreichbar unter +49 (0) 9355 903744 ",
+    "bbox": [
+      70.824,
+      217.28840000000002,
+      526.4840399999996,
+      227.24840000000006
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "/ eberhardthelmut@yahoo.de. Auf Seiten des Auftragnehmers übernimmt Ewa Walter die Koordination ",
+    "bbox": [
+      70.824,
+      203.96839999999997,
+      524.9003999999996,
+      213.9284
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "(06856 09503 / groettnersteven@hotmail.de).",
+    "bbox": [
+      70.824,
+      190.64840000000004,
+      272.55080000000004,
+      200.60839999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "5. Vertraulichkeit und Datenschutz",
+    "bbox": [
+      70.824,
+      167.58848,
+      260.56199999999995,
+      177.54848000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Beide Parteien verpflichten sich, sämtliche im Rahmen der Zusammenarbeit erhaltenen Informationen ",
+    "bbox": [
+      70.824,
+      152.96839999999997,
+      523.9541999999998,
+      162.9284
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "streng vertraulich zu behandeln. Die Speicherung und Verarbeitung personenbezogener Daten erfolgt ",
+    "bbox": [
+      70.824,
+      139.64840000000004,
+      522.8785199999998,
+      149.60839999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "ausschließlich im Rahmen des vereinbarten Zwecks und unter Einhaltung der geltenden ",
+    "bbox": [
+      70.824,
+      126.32839999999999,
+      463.2094000000001,
+      136.28840000000002
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Datenschutzbestimmungen. Die Übermittlung sensibler Daten erfolgt ausschließlich über gesicherte ",
+    "bbox": [
+      70.824,
+      113.00840000000005,
+      514.5519599999999,
+      122.96839999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Kanäle. Ein gemeinsames Datenschutzkonzept ist Bestandteil dieses Vertrags (Anlage 2).",
+    "bbox": [
+      70.824,
+      99.66840000000002,
+      468.28776000000005,
+      109.62839999999994
+    ],
+    "confidence": 1.0
+  }
+]

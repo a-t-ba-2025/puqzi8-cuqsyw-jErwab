@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Landrat/Landrätin",
+    "bbox": [
+      70.824,
+      756.436,
+      169.368,
+      768.436
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Burkhard-Gutknecht-Platz 3/7",
+    "bbox": [
+      70.824,
+      739.396,
+      225.40399999999997,
+      751.396
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "26068 Reutlingen",
+    "bbox": [
+      70.824,
+      722.476,
+      160.65599999999998,
+      734.476
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "11.03.2025",
+    "bbox": [
+      70.824,
+      697.516,
+      128.904,
+      709.516
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ing. Angelina Löchel",
+    "bbox": [
+      415.03,
+      756.436,
+      524.578,
+      768.436
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ehlert Geisler KG",
+    "bbox": [
+      437.35,
+      739.396,
+      524.542,
+      751.396
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Edeltraut-Riehl-Weg 89",
+    "bbox": [
+      405.55,
+      722.476,
+      524.548,
+      734.476
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "93169 Lemgo",
+    "bbox": [
+      455.14,
+      705.436,
+      524.488,
+      717.436
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betrifft: Entscheidung über Ihren Antrag auf Sterbeurkunde – ",
+    "bbox": [
+      70.824,
+      642.75928,
+      510.45988000000006,
+      658.71928
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Ablehnung",
+    "bbox": [
+      70.824,
+      620.07928,
+      148.91628,
+      636.0392800000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte*r Ing. Angelina Löchel,",
+    "bbox": [
+      70.824,
+      594.286,
+      255.09599999999998,
+      606.286
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "vielen Dank für Ihren Antrag vom 16.06.2025 auf Sterbeurkunde. Nach eingehender ",
+    "bbox": [
+      70.824,
+      569.326,
+      498.744,
+      581.326
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Prüfung durch das Landrat/Landrätin müssen wir Ihnen leider mitteilen, dass Ihrem ",
+    "bbox": [
+      70.824,
+      552.286,
+      499.26000000000005,
+      564.286
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Antrag ",
+    "bbox": [
+      70.824,
+      535.366,
+      106.608,
+      547.366
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "nicht stattgegeben",
+    "bbox": [
+      106.58,
+      535.366,
+      208.604,
+      547.366
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " werden kann.",
+    "bbox": [
+      208.73,
+      535.366,
+      280.682,
+      547.366
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Ablehnung erfolgt auf Grundlage von § 8 Abs. 2 der Verordnung über Sterbeurkunde. ",
+    "bbox": [
+      70.824,
+      510.40599999999995,
+      522.1560000000002,
+      522.406
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Die Prüfung ergab, dass mindestens eines der folgenden Kriterien nicht erfüllt wurde:",
+    "bbox": [
+      70.824,
+      493.486,
+      505.63200000000006,
+      505.486
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      88.824,
+      469.63864,
+      93.40559999999999,
+      479.59864000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Fehlende Nachweise zur finanziellen Tragfähigkeit (z.",
+    "bbox": [
+      106.82,
+      468.406,
+      377.1559999999999,
+      480.406
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "B. aktueller ",
+    "bbox": [
+      379.75,
+      468.406,
+      440.506,
+      480.406
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Jahresabschluss)",
+    "bbox": [
+      106.82,
+      451.486,
+      196.124,
+      463.486
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      88.824,
+      435.77864,
+      93.40559999999999,
+      445.73864000000003
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Unvollständige Unterlagen gemäß Einreichungsmerkblatt vom 16.05.2025",
+    "bbox": [
+      106.82,
+      434.546,
+      485.708,
+      446.546
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      88.824,
+      418.73864,
+      93.40559999999999,
+      428.69864
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Keine ausreichende Darlegung des Zwecks von Sterbeurkunde",
+    "bbox": [
+      106.82,
+      417.506,
+      426.84800000000007,
+      429.506
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Bitte beachten Sie, dass mit der Ablehnung keine finanziellen Leistungen verbunden ",
+    "bbox": [
+      70.824,
+      400.586,
+      503.4600000000002,
+      412.586
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "sind. Eine Auszahlung, etwa in Höhe von 970.89 €, kann daher nicht erfolgen.",
+    "bbox": [
+      70.824,
+      383.546,
+      465.38400000000007,
+      395.546
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sollten Sie mit dieser Entscheidung nicht einverstanden sein, steht es Ihnen frei, binnen ",
+    "bbox": [
+      70.824,
+      358.586,
+      522.8760000000002,
+      370.586
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "eines Monats nach Zustellung Widerspruch einzulegen. Der Widerspruch ist schriftlich ",
+    "bbox": [
+      70.824,
+      341.666,
+      517.1040000000002,
+      353.666
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "an folgende Adresse zu richten:",
+    "bbox": [
+      70.824,
+      324.746,
+      231.996,
+      336.746
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Landrat/Landrätin",
+    "bbox": [
+      70.824,
+      299.78599999999994,
+      169.368,
+      311.78599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Widerspruchsstelle",
+    "bbox": [
+      70.824,
+      282.746,
+      171.45600000000002,
+      294.746
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Burkhard-Gutknecht-Platz 3/7",
+    "bbox": [
+      70.824,
+      265.79599999999994,
+      225.40399999999997,
+      277.79599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "26068 Reutlingen",
+    "bbox": [
+      70.824,
+      248.75599999999997,
+      160.65599999999998,
+      260.756
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Alternativ können Sie Ihren Widerspruch auch per Fax an +49(0)4302 927719 oder per E-",
+    "bbox": [
+      70.824,
+      223.79599999999994,
+      521.5,
+      235.79599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mail an carstenwolf-ruediger@hotmail.de senden. Wir empfehlen jedoch, den ",
+    "bbox": [
+      70.824,
+      206.87599999999998,
+      472.76000000000016,
+      218.87599999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Widerspruch in Schriftform mit Originalunterschrift einzureichen. Weitere Informationen ",
+    "bbox": [
+      70.824,
+      189.95600000000002,
+      525.9720000000001,
+      201.95600000000002
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "finden Sie unter https://www.speer.com/.",
+    "bbox": [
+      70.824,
+      172.91600000000005,
+      283.448,
+      184.91600000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Für Rückfragen steht Ihnen Sandy Jäntsch unter der Telefonnummer 0878846972 gerne ",
+    "bbox": [
+      70.824,
+      147.95600000000002,
+      519.0360000000003,
+      159.95600000000002
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "zur Verfügung.",
+    "bbox": [
+      70.824,
+      131.03599999999994,
+      144.78,
+      143.03599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mit freundlichen Grüßen",
+    "bbox": [
+      70.824,
+      106.05600000000004,
+      196.21199999999996,
+      118.05600000000004
+    ],
+    "confidence": 1.0
+  }
+]

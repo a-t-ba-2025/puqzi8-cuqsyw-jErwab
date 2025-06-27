@@ -1,0 +1,392 @@
+[
+  {
+    "text": "Betreff: Zahlungserinnerung für Rechnung  ",
+    "bbox": [
+      216.05,
+      678.67,
+      502.66696,
+      694.63
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "r-221680 ",
+    "bbox": [
+      216.05,
+      650.98,
+      263.162,
+      662.98
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte/r Sylvester Gotthard, ",
+    "bbox": [
+      216.05,
+      535.75,
+      387.262,
+      547.75
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "unsere Unterlagen zeigen, dass der Betrag in Höhe von      ",
+    "bbox": [
+      216.05,
+      508.99,
+      499.73199999999997,
+      520.99
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "1908.65 €",
+    "bbox": [
+      216.05,
+      492.07,
+      264.57800000000003,
+      504.07
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " für die Rechnung ",
+    "bbox": [
+      264.65,
+      492.07,
+      352.97,
+      504.07
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "r-221680",
+    "bbox": [
+      353.11,
+      492.07,
+      397.546,
+      504.07
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " vom ",
+    "bbox": [
+      397.51,
+      492.07,
+      424.318,
+      504.07
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "12.04.2025",
+    "bbox": [
+      424.27,
+      492.07,
+      479.27799999999996,
+      504.07
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "bisher nicht beglichen wurde. ",
+    "bbox": [
+      216.05,
+      475.27,
+      363.022,
+      487.27
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wir bitten Sie, den offenen Betrag bis spätestens                 ",
+    "bbox": [
+      216.05,
+      448.39,
+      500.572,
+      460.39
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "15.03.2025",
+    "bbox": [
+      216.05,
+      431.57,
+      271.142,
+      443.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " auf das folgende Konto zu überweisen: ",
+    "bbox": [
+      271.25,
+      431.57,
+      466.012,
+      443.57
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Empfänger:",
+    "bbox": [
+      216.05,
+      404.69,
+      273.56600000000003,
+      416.69
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Vollbrecht Bachmann KG ",
+    "bbox": [
+      273.65,
+      404.69,
+      400.342,
+      416.69
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "IBAN:",
+    "bbox": [
+      216.05,
+      387.89,
+      244.526,
+      399.89
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " DE44369125088014297902 ",
+    "bbox": [
+      244.49,
+      387.89,
+      384.86199999999997,
+      399.89
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "BIC:",
+    "bbox": [
+      216.05,
+      370.97,
+      235.67000000000002,
+      382.97
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " ZJJFDE9W ",
+    "bbox": [
+      235.73,
+      370.97,
+      289.80199999999996,
+      382.97
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Verwendungszweck:",
+    "bbox": [
+      216.05,
+      354.17,
+      318.494,
+      366.17
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " r-27689759 ",
+    "bbox": [
+      318.67,
+      354.17,
+      380.542,
+      366.17
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sollte der Betrag nicht fristgerecht eingehen, müssen wir ",
+    "bbox": [
+      216.05,
+      327.2900000000001,
+      495.722,
+      339.29
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mahngebühren in Höhe von ",
+    "bbox": [
+      216.05,
+      310.49,
+      355.682,
+      322.49
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "2734.54 €",
+    "bbox": [
+      355.87,
+      310.49,
+      404.29,
+      322.49
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " erheben. ",
+    "bbox": [
+      404.35,
+      310.49,
+      453.772,
+      322.49
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Falls Sie die Zahlung bereits vorgenommen haben, ",
+    "bbox": [
+      216.05,
+      283.61,
+      463.49,
+      295.61
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "betrachten Sie dieses Schreiben bitte als gegenstandslos. ",
+    "bbox": [
+      216.05,
+      266.78,
+      496.372,
+      278.78
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mit freundlichen Grüßen ",
+    "bbox": [
+      216.05,
+      239.89999999999998,
+      339.86199999999997,
+      251.89999999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Jolanthe Lübs-Trub ",
+    "bbox": [
+      216.05,
+      213.01999999999998,
+      311.402,
+      225.01999999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Polizeipräsident/in ",
+    "bbox": [
+      216.05,
+      196.22000000000003,
+      310.202,
+      208.22000000000003
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "0101117681 ",
+    "bbox": [
+      216.05,
+      179.30000000000007,
+      279.602,
+      191.30000000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Polizeipräsident/in",
+    "bbox": [
+      109.22,
+      685.81,
+      187.81436000000002,
+      695.77
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Henschelweg 89 ",
+    "bbox": [
+      121.58,
+      673.6899999999999,
+      190.22096,
+      683.65
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "10955 Bayreuth ",
+    "bbox": [
+      123.26,
+      661.45,
+      190.22096,
+      671.4100000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon 0101117681 ",
+    "bbox": [
+      87.624,
+      613.18,
+      190.682,
+      625.18
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Fax 0101117681 ",
+    "bbox": [
+      107.9,
+      596.35,
+      190.682,
+      608.35
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "WWW ",
+    "bbox": [
+      155.9,
+      579.43,
+      190.65199713799998,
+      591.43
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "https://www.barkholz.com/ ",
+    "bbox": [
+      50.88,
+      562.63,
+      190.682,
+      574.63
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "E-Mail urs75@web.de ",
+    "bbox": [
+      79.944,
+      545.83,
+      190.682,
+      557.83
+    ],
+    "confidence": 1.0
+  }
+]

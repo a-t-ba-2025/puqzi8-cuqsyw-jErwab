@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Ochsenfurt ",
+    "bbox": [
+      359.47,
+      753.613,
+      414.73,
+      762.613
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Steven-Gunpf-Ring 1/3 ",
+    "bbox": [
+      359.47,
+      741.493,
+      471.28000000000003,
+      750.493
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "13203 Ochsenfurt ",
+    "bbox": [
+      359.47,
+      729.373,
+      447.52,
+      738.373
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: +49(0)9526 600301 ",
+    "bbox": [
+      359.47,
+      717.133,
+      495.04,
+      726.133
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Janina Siering MBA.",
+    "bbox": [
+      77.784,
+      666.0892,
+      170.5116,
+      676.0492
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sorgatzallee 5/9 ",
+    "bbox": [
+      77.784,
+      654.4492,
+      144.50888,
+      664.4092
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "40572 Donaueschingen ",
+    "bbox": [
+      77.784,
+      642.8092,
+      174.86888,
+      652.7692000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Telefon: 0392549639 ",
+    "bbox": [
+      77.784,
+      631.2892,
+      166.34888,
+      641.2492000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "25.02.2025 ",
+    "bbox": [
+      72.024,
+      538.0192,
+      124.34888,
+      547.9792
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betreff: Aufforderung zur Vorlage fehlender Unterlagen für Duldung",
+    "bbox": [
+      72.024,
+      510.53920000000005,
+      391.4412000000001,
+      520.4992000000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte/r Janina Siering MBA., ",
+    "bbox": [
+      72.024,
+      487.1392,
+      216.65887999999998,
+      497.0992
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "wir haben Ihren Antrag auf ",
+    "bbox": [
+      72.024,
+      463.7392,
+      183.65568000000002,
+      473.69919999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Duldung",
+    "bbox": [
+      183.74,
+      463.7392,
+      223.17164000000002,
+      473.69919999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " vom ",
+    "bbox": [
+      223.25,
+      463.7392,
+      246.3986,
+      473.69919999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "15.03.2025",
+    "bbox": [
+      246.41,
+      463.7392,
+      295.98092,
+      473.69919999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " erhalten. Leider fehlen uns noch einige erforderliche ",
+    "bbox": [
+      296.09,
+      463.7392,
+      513.70712,
+      473.69919999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Unterlagen, um die Bearbeitung abschließen zu können. ",
+    "bbox": [
+      72.024,
+      450.5392,
+      299.21888,
+      460.4992
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Bitte reichen Sie die folgenden Dokumente bis spätestens ",
+    "bbox": [
+      72.024,
+      427.11920000000003,
+      307.8568799999999,
+      437.0792
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "03.03.2025",
+    "bbox": [
+      307.97,
+      427.11920000000003,
+      357.54092,
+      437.0792
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " bei uns ein: ",
+    "bbox": [
+      357.67,
+      427.11920000000003,
+      408.67888000000005,
+      437.0792
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      90.024,
+      403.13864,
+      94.6056,
+      413.09864000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Toilettenpapier",
+    "bbox": [
+      108.02,
+      402.99920000000003,
+      181.03676000000002,
+      412.9592
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      90.024,
+      379.01864,
+      94.6056,
+      388.97864000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Kugelschreiber",
+    "bbox": [
+      108.02,
+      378.8792,
+      178.16827999999998,
+      388.8392
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "•",
+    "bbox": [
+      90.024,
+      354.89864,
+      94.6056,
+      364.85864000000004
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Nachweis von Eberth Spieß GmbH",
+    "bbox": [
+      108.02,
+      354.7592,
+      270.75643999999994,
+      364.7192
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sollten die Unterlagen nicht fristgerecht eingehen, kann dies zur Ablehnung Ihres Antrags führen. Falls Sie die ",
+    "bbox": [
+      72.024,
+      331.3592,
+      516.3894000000006,
+      341.31919999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "erforderlichen Dokumente bereits eingereicht haben, betrachten Sie dieses Schreiben bitte als gegenstandslos. ",
+    "bbox": [
+      72.024,
+      318.15919999999994,
+      521.86888,
+      328.1192
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Für Rückfragen stehen wir Ihnen unter +49(0)9526 600301 oder per E-Mail unter trudelhendriks@yahoo.de ",
+    "bbox": [
+      72.024,
+      294.7592000000001,
+      514.13752,
+      304.7192
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "zur Verfügung. ",
+    "bbox": [
+      72.024,
+      281.55920000000003,
+      133.70888,
+      291.51920000000007
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mit freundlichen Grüßen ",
+    "bbox": [
+      72.024,
+      258.12919999999997,
+      174.74887999999999,
+      268.0892
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Anne-Rose Beckmann B.Eng. ",
+    "bbox": [
+      72.024,
+      234.7292,
+      191.09888,
+      244.68920000000003
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Justitiar/in ",
+    "bbox": [
+      72.024,
+      221.52920000000006,
+      115.46888,
+      231.48919999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Austermühle Wilms AG & Co. OHG ",
+    "bbox": [
+      72.024,
+      173.28920000000005,
+      246.05888,
+      183.24919999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Steven-Gunpf-Ring 1/3 ",
+    "bbox": [
+      72.024,
+      161.64919999999995,
+      179.54888,
+      171.6092
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "13203 Ochsenfurt ",
+    "bbox": [
+      72.024,
+      150.00920000000008,
+      157.70888,
+      159.9692
+    ],
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Datenschutzbeauftragte/r",
+    "bbox": [
+      70.824,
+      756.436,
+      212.688,
+      768.436
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Claire-Schwital-Platz 46",
+    "bbox": [
+      70.824,
+      739.396,
+      194.912,
+      751.396
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "69584 Ludwigslust",
+    "bbox": [
+      70.824,
+      722.476,
+      166.968,
+      734.476
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "10.04.2025",
+    "bbox": [
+      70.824,
+      672.556,
+      128.904,
+      684.556
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Erhard Kitzmann",
+    "bbox": [
+      434.11,
+      731.476,
+      524.542,
+      743.476
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Hauffer Riehl OHG mbH",
+    "bbox": [
+      400.63,
+      714.436,
+      524.5060000000001,
+      726.436
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Kadegasse 999",
+    "bbox": [
+      446.98,
+      697.516,
+      524.5360000000001,
+      709.516
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "10984 Lichtenfels",
+    "bbox": [
+      432.79,
+      680.476,
+      524.482,
+      692.476
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Betrifft: Zahlungserinnerung – ausstehende Zahlung im ",
+    "bbox": [
+      70.824,
+      625.71928,
+      470.1566000000001,
+      641.6792800000001
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Rahmen des Gewerbeanmeldung",
+    "bbox": [
+      70.824,
+      603.15928,
+      311.85192000000006,
+      619.11928
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sehr geehrte*r Erhard Kitzmann,",
+    "bbox": [
+      70.824,
+      577.246,
+      236.80799999999996,
+      589.246
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "trotz unserer vorherigen Mitteilung vom  ist bislang ",
+    "bbox": [
+      70.824,
+      552.286,
+      331.30799999999994,
+      564.286
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "keine Zahlung des offenen Betrags ",
+    "bbox": [
+      331.39,
+      552.286,
+      520.306,
+      564.286
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "in Höhe von 725.60 €",
+    "bbox": [
+      70.824,
+      535.366,
+      181.57199999999997,
+      547.366
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " auf unserem Konto eingegangen. Es handelt sich um die ",
+    "bbox": [
+      181.58,
+      535.366,
+      473.8759999999999,
+      547.366
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Bearbeitungsgebühr im Rahmen Ihres Antrags auf Gewerbeanmeldung.",
+    "bbox": [
+      70.824,
+      518.446,
+      436.5480000000001,
+      530.446
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wir möchten Sie hiermit letztmalig auffordern, den ausstehenden Betrag bis spätestens  ",
+    "bbox": [
+      70.824,
+      493.486,
+      525.192,
+      505.486
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "auf das untenstehende Konto zu überweisen:",
+    "bbox": [
+      70.824,
+      476.44599999999997,
+      303.264,
+      488.44599999999997
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Empfänger:",
+    "bbox": [
+      70.824,
+      451.486,
+      133.54799999999997,
+      463.486
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Datenschutzbeauftragte/r",
+    "bbox": [
+      133.58,
+      451.486,
+      269.40799999999996,
+      463.486
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "IBAN:",
+    "bbox": [
+      70.824,
+      434.546,
+      101.30399999999999,
+      446.546
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " DE50090967105630894343",
+    "bbox": [
+      101.3,
+      434.546,
+      246.67999999999998,
+      446.546
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "BIC:",
+    "bbox": [
+      70.824,
+      417.506,
+      93.82799999999999,
+      429.506
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " QGZXDEOU4OS",
+    "bbox": [
+      93.864,
+      417.506,
+      179.98799999999997,
+      429.506
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Verwendungszweck:",
+    "bbox": [
+      70.824,
+      400.586,
+      182.244,
+      412.586
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": " Gewerbeanmeldung / Erhard Kitzmann",
+    "bbox": [
+      182.3,
+      400.586,
+      384.11600000000004,
+      412.586
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Sollte bis zum genannten Termin kein Zahlungseingang erfolgen, sehen wir uns ",
+    "bbox": [
+      70.824,
+      375.626,
+      475.512,
+      387.626
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "gezwungen, das Verfahren an die Vollstreckungsbehörde weiterzuleiten. In diesem Fall ",
+    "bbox": [
+      70.824,
+      358.586,
+      515.8200000000002,
+      370.586
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "entstehen zusätzliche Kosten, für die Sie vollumfänglich aufkommen müssen.",
+    "bbox": [
+      70.824,
+      341.666,
+      469.28400000000016,
+      353.666
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Falls Sie die Zahlung inzwischen bereits vorgenommen haben, betrachten Sie dieses ",
+    "bbox": [
+      70.824,
+      316.706,
+      505.7280000000001,
+      328.706
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Schreiben bitte als gegenstandslos. Sollte Ihnen die fristgerechte Zahlung aktuell nicht ",
+    "bbox": [
+      70.824,
+      299.78599999999994,
+      516.792,
+      311.78599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "möglich sein, setzen Sie sich bitte umgehend mit uns in Verbindung, um eine ",
+    "bbox": [
+      70.824,
+      282.746,
+      466.6800000000001,
+      294.746
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "einvernehmliche Lösung zu finden. Ansprechpartnerin ist Birger Trubin, erreichbar unter ",
+    "bbox": [
+      70.824,
+      265.79599999999994,
+      522.6800000000001,
+      277.79599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "03434 23619 oder per E-Mail an faustanja@gmx.de.",
+    "bbox": [
+      70.824,
+      248.75599999999997,
+      335.49800000000005,
+      260.756
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Für allgemeine Informationen zu Ihrem Antrag und dem Mahnverfahren besuchen Sie ",
+    "bbox": [
+      70.824,
+      223.79599999999994,
+      508.7520000000002,
+      235.79599999999994
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "bitte https://taesche.org/.",
+    "bbox": [
+      70.824,
+      206.87599999999998,
+      202.85999999999999,
+      218.87599999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Wir bitten um Ihr Verständnis, dass wir aus verwaltungstechnischen Gründen keine ",
+    "bbox": [
+      70.824,
+      181.91600000000005,
+      499.3800000000001,
+      193.91600000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "weiteren Erinnerungen versenden werden.",
+    "bbox": [
+      70.824,
+      164.87599999999998,
+      287.46000000000004,
+      176.87599999999998
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Mit freundlichen Grüßen",
+    "bbox": [
+      70.824,
+      139.91600000000005,
+      196.21199999999996,
+      151.91600000000005
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Birger Trubin",
+    "bbox": [
+      70.824,
+      114.95600000000002,
+      135.26399999999998,
+      126.95600000000002
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Zentrale Kassenstelle",
+    "bbox": [
+      70.824,
+      98.01599999999996,
+      181.536,
+      110.01599999999996
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Datenschutzbeauftragte/r",
+    "bbox": [
+      70.824,
+      81.096,
+      204.37199999999999,
+      93.096
+    ],
+    "confidence": 1.0
+  }
+]
