@@ -1,0 +1,529 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "VERSICHERUNG",
+            "bbox": [
+              450,
+              819,
+              1410,
+              921
+            ],
+            "confidence": 0.9964054226875305
+          }
+        ]
+      ],
+      "bbox": [
+        450,
+        819,
+        1410,
+        921
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "MALZER GMBH & CO.KG",
+            "bbox": [
+              450,
+              512,
+              1919,
+              614
+            ],
+            "confidence": 0.9739994406700134
+          }
+        ]
+      ],
+      "bbox": [
+        450,
+        512,
+        1919,
+        614
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "wir freuen uns, Ihnen mitzuteilen, dass Ihr Versicherungsfall Notizbuch erfolgreich bearbeitet wurde",
+            "bbox": [
+              435,
+              3296,
+              4392,
+              3391
+            ],
+            "confidence": 0.9900422692298889
+          }
+        ],
+        [
+          {
+            "text": "Die Auszahlung lhrer Versicherungsleistung in Höhe von 7731.30 € wurde am 09.05.2025 auf lhr",
+            "bbox": [
+              435,
+              3428,
+              4266,
+              3530
+            ],
+            "confidence": 0.9845936894416809
+          }
+        ],
+        [
+          {
+            "text": "hinterlegtes Konto mit der IBAN DE06309415857479929316 veranlasst.",
+            "bbox": [
+              421,
+              3544,
+              3285,
+              3676
+            ],
+            "confidence": 0.998123288154602
+          }
+        ]
+      ],
+      "bbox": [
+        421,
+        3296,
+        4392,
+        3676
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen Grüßen",
+            "bbox": [
+              435,
+              5079,
+              1395,
+              5174
+            ],
+            "confidence": 0.9684152007102966
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5079,
+        1395,
+        5174
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sollten Sie weitere Fragen haben, steht lhnen unser Kundenservice unter 0207597181 oder per E",
+            "bbox": [
+              435,
+              4721,
+              4310,
+              4816
+            ],
+            "confidence": 0.990627646446228
+          }
+        ],
+        [
+          {
+            "text": "Mail wheinz@googlemail.com zur Verfügung.",
+            "bbox": [
+              428,
+              4845,
+              2288,
+              4963
+            ],
+            "confidence": 0.9958269000053406
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        4721,
+        4310,
+        4963
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Romuald-Schafer-Weg 9/3",
+            "bbox": [
+              435,
+              1074,
+              1491,
+              1177
+            ],
+            "confidence": 0.978258490562439
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        1074,
+        1491,
+        1177
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Georgine-Junck-Weg 04",
+            "bbox": [
+              435,
+              1819,
+              1410,
+              1937
+            ],
+            "confidence": 0.9927515387535095
+          }
+        ],
+        [
+          {
+            "text": "07574 Fulda",
+            "bbox": [
+              427,
+              1950,
+              946,
+              2077
+            ],
+            "confidence": 0.9949241280555725
+          }
+        ]
+      ],
+      "bbox": [
+        427,
+        1819,
+        1410,
+        2077
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Dr. Theresia Scholtz",
+            "bbox": [
+              443,
+              5306,
+              1299,
+              5401
+            ],
+            "confidence": 0.9748236536979675
+          }
+        ],
+        [
+          {
+            "text": "Mälzer GmbH & Co. KG Versicherung",
+            "bbox": [
+              420,
+              5393,
+              2023,
+              5525
+            ],
+            "confidence": 0.9789336323738098
+          }
+        ],
+        [
+          {
+            "text": "Romuald-Schäfer-Weg 9/3",
+            "bbox": [
+              435,
+              5525,
+              1506,
+              5627
+            ],
+            "confidence": 0.9832183122634888
+          }
+        ],
+        [
+          {
+            "text": "38511 Stalfurt",
+            "bbox": [
+              435,
+              5642,
+              1041,
+              5737
+            ],
+            "confidence": 0.9746628999710083
+          }
+        ]
+      ],
+      "bbox": [
+        420,
+        5306,
+        2023,
+        5737
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Georgine-Junck-Weg 04",
+            "bbox": [
+              435,
+              1819,
+              1410,
+              1937
+            ],
+            "confidence": 0.9927515387535095
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        1819,
+        1410,
+        1937
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Schadenshöhe: 7731.30 €",
+            "bbox": [
+              443,
+              4334,
+              1624,
+              4429
+            ],
+            "confidence": 0.9685401916503906
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        4334,
+        1624,
+        4429
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Auszahlungsdatum: 09.05.2025",
+            "bbox": [
+              435,
+              4487,
+              1860,
+              4590
+            ],
+            "confidence": 0.9956452250480652
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        4487,
+        1860,
+        4590
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte/r Katerina Steuer B.Eng.,",
+            "bbox": [
+              428,
+              3062,
+              1964,
+              3179
+            ],
+            "confidence": 0.997705340385437
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        3062,
+        1964,
+        3179
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "38511 Stal3furt",
+            "bbox": [
+              428,
+              1272,
+              1041,
+              1367
+            ],
+            "confidence": 0.9489568471908569
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1272,
+        1041,
+        1367
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Versicherungsnummer: 23984434",
+            "bbox": [
+              428,
+              4005,
+              1971,
+              4137
+            ],
+            "confidence": 0.9965018033981323
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        4005,
+        1971,
+        4137
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Schadensart: treffen",
+            "bbox": [
+              443,
+              4173,
+              1388,
+              4275
+            ],
+            "confidence": 0.9954061508178711
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        4173,
+        1388,
+        4275
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Katerina Steuer B.Eng.",
+            "bbox": [
+              428,
+              1637,
+              1395,
+              1747
+            ],
+            "confidence": 0.9791713356971741
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1637,
+        1395,
+        1747
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Romuald-Schäfer-Weg 9/3",
+            "bbox": [
+              435,
+              5525,
+              1506,
+              5627
+            ],
+            "confidence": 0.9832183122634888
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5525,
+        1506,
+        5627
+      ]
+    }
+  ],
+  "Title": [
+    {
+      "rows": [
+        [
+          {
+            "text": "BETREFF: BESTATIGUNG DER AUSZAHLUNG IHRER VERSICHERUNGSLEISTUNG",
+            "bbox": [
+              450,
+              2434,
+              4133,
+              2529
+            ],
+            "confidence": 0.9976925849914551
+          }
+        ],
+        [
+          {
+            "text": "(VORGANGSNUMMER: V-23984434",
+            "bbox": [
+              443,
+              2602,
+              2045,
+              2704
+            ],
+            "confidence": 0.9985177516937256
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        2434,
+        4133,
+        2704
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "text": "13.03.2025",
+      "bbox": [
+        3764,
+        2682,
+        4207,
+        2763
+      ],
+      "confidence": 0.9996877908706665
+    },
+    {
+      "text": "Zusammenfassung der Abwicklung:",
+      "bbox": [
+        428,
+        3778,
+        1956,
+        3896
+      ],
+      "confidence": 0.9883155226707458
+    }
+  ]
+}

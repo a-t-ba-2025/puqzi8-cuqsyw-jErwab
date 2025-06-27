@@ -1,0 +1,768 @@
+{
+  "Table": [],
+  "Caption": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Ihr",
+            "bbox": [
+              3299,
+              621,
+              3440,
+              716
+            ],
+            "confidence": 0.8298450112342834
+          }
+        ],
+        [
+          {
+            "text": "Energieversorger",
+            "bbox": [
+              3291,
+              745,
+              4259,
+              863
+            ],
+            "confidence": 0.9998030662536621
+          }
+        ]
+      ],
+      "bbox": [
+        3291,
+        621,
+        4259,
+        863
+      ]
+    }
+  ],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "01.04.2025",
+            "bbox": [
+              4074,
+              1754,
+              4517,
+              1834
+            ],
+            "confidence": 0.999903678894043
+          }
+        ]
+      ],
+      "bbox": [
+        4074,
+        1754,
+        4517,
+        1834
+      ]
+    }
+  ],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Ihre Vertragsdetails auf einen Blick:",
+            "bbox": [
+              657,
+              2726,
+              2406,
+              2828
+            ],
+            "confidence": 0.9991855025291443
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        2726,
+        2406,
+        2828
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Keudel Fliegner GmbH",
+            "bbox": [
+              3189,
+              6059,
+              4037,
+              6154
+            ],
+            "confidence": 0.9990946650505066
+          }
+        ]
+      ],
+      "bbox": [
+        3189,
+        6059,
+        4037,
+        6154
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Nachste Schritte für Sie:",
+            "bbox": [
+              657,
+              3756,
+              1838,
+              3851
+            ],
+            "confidence": 0.9821878671646118
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        3756,
+        1838,
+        3851
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "herzlich willkommen bei Keudel Fliegner GmbH! Wir freuen uns, dass Sie sich fur unseren",
+            "bbox": [
+              650,
+              2375,
+              4384,
+              2470
+            ],
+            "confidence": 0.9930227994918823
+          }
+        ],
+        [
+          {
+            "text": " ins-Tarif entschieden haben. Ihre zuverlässige Energieversorgung beginnt am 31.03.2025.",
+            "bbox": [
+              635,
+              2470,
+              4288,
+              2602
+            ],
+            "confidence": 0.9841457605361938
+          }
+        ]
+      ],
+      "bbox": [
+        635,
+        2375,
+        4384,
+        2602
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sollten Sie Fragen haben oder Unterstützung benötigen, stehen wir Ihnen gerne unter (06880)",
+            "bbox": [
+              649,
+              4962,
+              4407,
+              5072
+            ],
+            "confidence": 0.9930469989776611
+          }
+        ],
+        [
+          {
+            "text": "242478 oder per E-Mail unter holstenreinhold@gmail.com zur Verfugung.",
+            "bbox": [
+              642,
+              5064,
+              3720,
+              5204
+            ],
+            "confidence": 0.9936708211898804
+          }
+        ]
+      ],
+      "bbox": [
+        642,
+        4962,
+        4407,
+        5204
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Zählerstand übermitteln: Bitte teilen Sie uns bis zum 06.06.2025 Ihren aktuellen",
+            "bbox": [
+              686,
+              4005,
+              4141,
+              4100
+            ],
+            "confidence": 0.9876574277877808
+          }
+        ],
+        [
+          {
+            "text": "Zählerstand mit. Dies können Sie bequem online unter http://www.neureuther.de/ oder",
+            "bbox": [
+              649,
+              4115,
+              4207,
+              4224
+            ],
+            "confidence": 0.9745054841041565
+          }
+        ],
+        [
+          {
+            "text": "telefonisch unter (06880) 242478 tun.",
+            "bbox": [
+              650,
+              4246,
+              2177,
+              4341
+            ],
+            "confidence": 0.9771486520767212
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        4005,
+        4207,
+        4341
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Ihr Online-Kundenportal aktivieren: Verwalten Sie Ihren Vertrag, Abschläge und",
+            "bbox": [
+              686,
+              4370,
+              4215,
+              4473
+            ],
+            "confidence": 0.985197126865387
+          }
+        ],
+        [
+          {
+            "text": "Rechnungen einfach unter http://www.neureuther.de/.",
+            "bbox": [
+              649,
+              4480,
+              2893,
+              4590
+            ],
+            "confidence": 0.9948453903198242
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        4370,
+        4215,
+        4590
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wir danken Ihnen für Ihr Vertrauen und freuen uns auf eine langjährige Zusammenarbeit!",
+            "bbox": [
+              649,
+              5306,
+              4252,
+              5416
+            ],
+            "confidence": 0.9800358414649963
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        5306,
+        4252,
+        5416
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Keudel Fliegner GmbH",
+            "bbox": [
+              3189,
+              6059,
+              4037,
+              6154
+            ],
+            "confidence": 0.9990946650505066
+          }
+        ],
+        [
+          {
+            "text": "Günther-Nohlmans-Allee 3/5",
+            "bbox": [
+              3189,
+              6176,
+              4185,
+              6271
+            ],
+            "confidence": 0.9969457387924194
+          }
+        ],
+        [
+          {
+            "text": "33328 Bogen",
+            "bbox": [
+              3179,
+              6269,
+              3655,
+              6397
+            ],
+            "confidence": 0.999654233455658
+          }
+        ],
+        [
+          {
+            "text": "Telefon: (06880) 242478",
+            "bbox": [
+              3196,
+              6409,
+              4045,
+              6504
+            ],
+            "confidence": 0.9998005628585815
+          }
+        ],
+        [
+          {
+            "text": "Internet: http://www.neureuther.de/",
+            "bbox": [
+              3189,
+              6526,
+              4384,
+              6621
+            ],
+            "confidence": 0.999573826789856
+          }
+        ]
+      ],
+      "bbox": [
+        3179,
+        6059,
+        4384,
+        6621
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "_Energiespartipps entdecken: Erfahren Sie unter http://christoph.de/, wie Sie Ihren",
+            "bbox": [
+              686,
+              4612,
+              4229,
+              4714
+            ],
+            "confidence": 0.986723005771637
+          }
+        ],
+        [
+          {
+            "text": "Verbrauch optimieren und Energiekosten sparen können.",
+            "bbox": [
+              657,
+              4743,
+              2938,
+              4838
+            ],
+            "confidence": 0.9960840344429016
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        4612,
+        4229,
+        4838
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte/r Jörgen Rogge B.A.,",
+            "bbox": [
+              657,
+              2141,
+              2037,
+              2244
+            ],
+            "confidence": 0.9957864880561829
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        2141,
+        2037,
+        2244
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Zahlernummer: 62792930",
+            "bbox": [
+              657,
+              2974,
+              1882,
+              3077
+            ],
+            "confidence": 0.971828281879425
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        2974,
+        1882,
+        3077
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Jörgen Rogge B.A",
+            "bbox": [
+              723,
+              1082,
+              1513,
+              1184
+            ],
+            "confidence": 0.9438779354095459
+          }
+        ],
+        [
+          {
+            "text": "Wilmsenplatz 36",
+            "bbox": [
+              715,
+              1227,
+              1411,
+              1353
+            ],
+            "confidence": 0.9996490478515625
+          }
+        ],
+        [
+          {
+            "text": "10233 Roding",
+            "bbox": [
+              722,
+              1365,
+              1301,
+              1500
+            ],
+            "confidence": 0.9998804926872253
+          }
+        ]
+      ],
+      "bbox": [
+        715,
+        1082,
+        1513,
+        1500
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon: (06880) 242478",
+            "bbox": [
+              3196,
+              6409,
+              4045,
+              6504
+            ],
+            "confidence": 0.9998005628585815
+          }
+        ]
+      ],
+      "bbox": [
+        3196,
+        6409,
+        4045,
+        6504
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wilmsenplatz 36",
+            "bbox": [
+              715,
+              1227,
+              1411,
+              1353
+            ],
+            "confidence": 0.9996490478515625
+          }
+        ]
+      ],
+      "bbox": [
+        715,
+        1227,
+        1411,
+        1353
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "10233 Roding",
+            "bbox": [
+              722,
+              1365,
+              1301,
+              1500
+            ],
+            "confidence": 0.9998804926872253
+          }
+        ]
+      ],
+      "bbox": [
+        722,
+        1365,
+        1301,
+        1500
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Internet: http://www.neureuther.de/",
+            "bbox": [
+              3189,
+              6526,
+              4384,
+              6621
+            ],
+            "confidence": 0.999573826789856
+          }
+        ]
+      ],
+      "bbox": [
+        3189,
+        6526,
+        4384,
+        6621
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Jörgen Rogge B.A",
+            "bbox": [
+              723,
+              1082,
+              1513,
+              1184
+            ],
+            "confidence": 0.9438779354095459
+          }
+        ]
+      ],
+      "bbox": [
+        723,
+        1082,
+        1513,
+        1184
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wilmsenplatz 36",
+            "bbox": [
+              715,
+              1227,
+              1411,
+              1353
+            ],
+            "confidence": 0.9996490478515625
+          }
+        ],
+        [
+          {
+            "text": "10233 Roding",
+            "bbox": [
+              722,
+              1365,
+              1301,
+              1500
+            ],
+            "confidence": 0.9998804926872253
+          }
+        ]
+      ],
+      "bbox": [
+        715,
+        1227,
+        1411,
+        1500
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Abschlagszahlung: 7895.28 £ monatlich",
+            "bbox": [
+              657,
+              3245,
+              2428,
+              3347
+            ],
+            "confidence": 0.9872985482215881
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        3245,
+        2428,
+        3347
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Jahresverbrauch (prognostiziert): 4764.13 kWh",
+            "bbox": [
+              649,
+              3369,
+              2783,
+              3479
+            ],
+            "confidence": 0.9974966049194336
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        3369,
+        2783,
+        3479
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Versorgungsbeginn: 31.03.2025",
+            "bbox": [
+              657,
+              3113,
+              2111,
+              3216
+            ],
+            "confidence": 0.9904977083206177
+          }
+        ]
+      ],
+      "bbox": [
+        657,
+        3113,
+        2111,
+        3216
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "V Vertragslaufzeit: endlich",
+            "bbox": [
+              649,
+              3500,
+              1816,
+              3611
+            ],
+            "confidence": 0.9880326390266418
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        3500,
+        1816,
+        3611
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Günther-Nohlmans-Allee 3/5",
+            "bbox": [
+              3189,
+              6176,
+              4185,
+              6271
+            ],
+            "confidence": 0.9969457387924194
+          }
+        ]
+      ],
+      "bbox": [
+        3189,
+        6176,
+        4185,
+        6271
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Betreff: Willkommen bei Keudel Fliegner GmbH - Ihre Energieversorgung beginnt!",
+      "bbox": [
+        657,
+        1900,
+        4259,
+        2010
+      ],
+      "confidence": 0.9854554533958435
+    }
+  ]
+}

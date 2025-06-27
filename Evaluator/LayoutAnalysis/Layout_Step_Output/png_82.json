@@ -1,0 +1,839 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": " Geplante Bauprojekte",
+            "bbox": [
+              650,
+              4560,
+              1675,
+              4663
+            ],
+            "confidence": 0.9799811244010925
+          }
+        ]
+      ],
+      "bbox": [
+        650,
+        4560,
+        1675,
+        4663
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Neugestaltung des Stadtparks",
+            "bbox": [
+              731,
+              4297,
+              1993,
+              4400
+            ],
+            "confidence": 0.9998094439506531
+          }
+        ]
+      ],
+      "bbox": [
+        731,
+        4297,
+        1993,
+        4400
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Verkehrsberuhigung in Dehmelweg",
+            "bbox": [
+              649,
+              4407,
+              2244,
+              4546
+            ],
+            "confidence": 0.9979442954063416
+          }
+        ]
+      ],
+      "bbox": [
+        649,
+        4407,
+        2244,
+        4546
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": ". Fragen und Anregungen der Bürger",
+            "bbox": [
+              598,
+              4692,
+              2266,
+              4794
+            ],
+            "confidence": 0.9759908318519592
+          }
+        ]
+      ],
+      "bbox": [
+        598,
+        4692,
+        2266,
+        4794
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Jugendamt",
+            "bbox": [
+              435,
+              5912,
+              908,
+              6015
+            ],
+            "confidence": 0.9996867775917053
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5912,
+        908,
+        6015
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Jugendamt",
+            "bbox": [
+              3056,
+              607,
+              3535,
+              709
+            ],
+            "confidence": 0.9997842311859131
+          }
+        ]
+      ],
+      "bbox": [
+        3056,
+        607,
+        3535,
+        709
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": ". Fragen und Anregungen der Bürger",
+            "bbox": [
+              598,
+              4692,
+              2266,
+              4794
+            ],
+            "confidence": 0.9759908318519592
+          }
+        ]
+      ],
+      "bbox": [
+        598,
+        4692,
+        2266,
+        4794
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Wir freuen uns auf Ihre Teilnahme! Bitte geben Sie uns eine kurze Rückmeldung unter",
+            "bbox": [
+              443,
+              4926,
+              3816,
+              5036
+            ],
+            "confidence": 0.9937742352485657
+          }
+        ],
+        [
+          {
+            "text": "florianmueller@web.de oder +49 (0) 4544 187707, falls Sie teilnehmen möchten.",
+            "bbox": [
+              443,
+              5057,
+              3602,
+              5160
+            ],
+            "confidence": 0.9898552894592285
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        4926,
+        3816,
+        5160
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "wir laden Sie herzlich zur nächsten Bürgerversammlung ein, um über wichtige Themen in",
+            "bbox": [
+              435,
+              3172,
+              4008,
+              3267
+            ],
+            "confidence": 0.9865952730178833
+          }
+        ],
+        [
+          {
+            "text": "Ueckermünde zu informieren und mit Ihnen ins Gespräch zu kommen.",
+            "bbox": [
+              428,
+              3281,
+              3218,
+              3391
+            ],
+            "confidence": 0.9819018840789795
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        3172,
+        4008,
+        3391
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Henkallee 865",
+            "bbox": [
+              3056,
+              731,
+              3595,
+              833
+            ],
+            "confidence": 0.9999107718467712
+          }
+        ],
+        [
+          {
+            "text": "43043 Ueckermünde",
+            "bbox": [
+              3048,
+              847,
+              3824,
+              965
+            ],
+            "confidence": 0.9930226802825928
+          }
+        ],
+        [
+          {
+            "text": "Telefon: +49 (o) 4544 187707",
+            "bbox": [
+              3048,
+              971,
+              4127,
+              1089
+            ],
+            "confidence": 0.9849976301193237
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        731,
+        4127,
+        1089
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte/r Dr. Sylvana Mosemann,",
+            "bbox": [
+              428,
+              2901,
+              1964,
+              3041
+            ],
+            "confidence": 0.9962303638458252
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        2901,
+        1964,
+        3041
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Dr. Sylvana Mosemann",
+            "bbox": [
+              428,
+              1439,
+              1277,
+              1550
+            ],
+            "confidence": 0.9811515808105469
+          }
+        ],
+        [
+          {
+            "text": "Cäcilie-Kallert-Allee 612",
+            "bbox": [
+              428,
+              1564,
+              1307,
+              1674
+            ],
+            "confidence": 0.970797061920166
+          }
+        ],
+        [
+          {
+            "text": "84758 Fl8ha",
+            "bbox": [
+              435,
+              1710,
+              886,
+              1791
+            ],
+            "confidence": 0.9611190557479858
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1439,
+        1307,
+        1791
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon: (05131) 46468",
+            "bbox": [
+              428,
+              1951,
+              1277,
+              2054
+            ],
+            "confidence": 0.978850781917572
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1951,
+        1277,
+        2054
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              435,
+              5291,
+              1402,
+              5394
+            ],
+            "confidence": 0.9854340553283691
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5291,
+        1402,
+        5394
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Datum: 12.06.2025",
+            "bbox": [
+              435,
+              3537,
+              1225,
+              3632
+            ],
+            "confidence": 0.9999159574508667
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        3537,
+        1225,
+        3632
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Jugendamt",
+            "bbox": [
+              435,
+              5912,
+              908,
+              6015
+            ],
+            "confidence": 0.9996867775917053
+          }
+        ],
+        [
+          {
+            "text": "Henkallee 865",
+            "bbox": [
+              435,
+              6037,
+              996,
+              6139
+            ],
+            "confidence": 0.9998756647109985
+          }
+        ],
+        [
+          {
+            "text": "43043 Ueckermünde",
+            "bbox": [
+              435,
+              6154,
+              1255,
+              6256
+            ],
+            "confidence": 0.9964776635169983
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5912,
+        1255,
+        6256
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Ort: Jörn-Boucsein-Allee 16, 55430 Wolgast",
+            "bbox": [
+              435,
+              3661,
+              2214,
+              3764
+            ],
+            "confidence": 0.9884763360023499
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        3661,
+        2214,
+        3764
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Leiter/in Katasteramt",
+            "bbox": [
+              427,
+              5656,
+              1270,
+              5774
+            ],
+            "confidence": 0.9835659265518188
+          }
+        ]
+      ],
+      "bbox": [
+        427,
+        5656,
+        1270,
+        5774
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Ort: Jörn-Boucsein-Allee 16, 55430 Wolgast",
+            "bbox": [
+              435,
+              3661,
+              2214,
+              3764
+            ],
+            "confidence": 0.9884763360023499
+          }
+        ],
+        [
+          {
+            "text": "Uhrzeit: 13:00 Uhr",
+            "bbox": [
+              435,
+              3778,
+              1210,
+              3881
+            ],
+            "confidence": 0.999627947807312
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        3661,
+        2214,
+        3881
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "43043 Ueckermünde",
+            "bbox": [
+              435,
+              6154,
+              1255,
+              6256
+            ],
+            "confidence": 0.9964776635169983
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        6154,
+        1255,
+        6256
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Uhrzeit: 13:00 Uhr",
+            "bbox": [
+              435,
+              3778,
+              1210,
+              3881
+            ],
+            "confidence": 0.999627947807312
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        3778,
+        1210,
+        3881
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "84758 Fl8ha",
+            "bbox": [
+              435,
+              1710,
+              886,
+              1791
+            ],
+            "confidence": 0.9611190557479858
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        1710,
+        886,
+        1791
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon: +49 (o) 4544 187707",
+            "bbox": [
+              3048,
+              971,
+              4127,
+              1089
+            ],
+            "confidence": 0.9849976301193237
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        971,
+        4127,
+        1089
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Themen der Versammlung:",
+            "bbox": [
+              428,
+              4012,
+              1728,
+              4152
+            ],
+            "confidence": 0.9997701048851013
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        4012,
+        1728,
+        4152
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Juliane Baum-Stadelmann",
+            "bbox": [
+              435,
+              5539,
+              1454,
+              5650
+            ],
+            "confidence": 0.9986118674278259
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5539,
+        1454,
+        5650
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "43043 Ueckermünde",
+            "bbox": [
+              3048,
+              847,
+              3824,
+              965
+            ],
+            "confidence": 0.9930226802825928
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        847,
+        3824,
+        965
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Cäcilie-Kallert-Allee 612",
+            "bbox": [
+              428,
+              1564,
+              1307,
+              1674
+            ],
+            "confidence": 0.970797061920166
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1564,
+        1307,
+        1674
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "11.02.2025",
+            "bbox": [
+              435,
+              2426,
+              886,
+              2529
+            ],
+            "confidence": 0.9999843835830688
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        2426,
+        886,
+        2529
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Henkallee 865",
+            "bbox": [
+              435,
+              6037,
+              996,
+              6139
+            ],
+            "confidence": 0.9998756647109985
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        6037,
+        996,
+        6139
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Henkallee 865",
+            "bbox": [
+              3056,
+              731,
+              3595,
+              833
+            ],
+            "confidence": 0.9999107718467712
+          }
+        ]
+      ],
+      "bbox": [
+        3056,
+        731,
+        3595,
+        833
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Leiter/in Katasteramt",
+            "bbox": [
+              427,
+              5656,
+              1270,
+              5774
+            ],
+            "confidence": 0.9835659265518188
+          }
+        ]
+      ],
+      "bbox": [
+        427,
+        5656,
+        1270,
+        5774
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Dr. Sylvana Mosemann",
+            "bbox": [
+              428,
+              1439,
+              1277,
+              1550
+            ],
+            "confidence": 0.9811515808105469
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1439,
+        1277,
+        1550
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Betreff: Einladung zur Bürgerversammlung in Ueckermünde",
+      "bbox": [
+        435,
+        2667,
+        2982,
+        2777
+      ],
+      "confidence": 0.9969218373298645
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": "1.",
+            "bbox": [
+              738,
+              2697,
+              812,
+              2755
+            ],
+            "confidence": 0.9998043775558472
+          },
+          {
+            "text": " Die Beklagte wird verurteilt, an die Klägerin 33.31 £ Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem",
+            "bbox": [
+              864,
+              2682,
+              4008,
+              2755
+            ],
+            "confidence": 0.9827613234519958
+          }
+        ],
+        [
+          {
+            "text": "Basiszinssatz seit dem 24.05.2025 zu zahlen.",
+            "bbox": [
+              878,
+              2777,
+              2170,
+              2850
+            ],
+            "confidence": 0.9987059235572815
+          }
+        ]
+      ],
+      "bbox": [
+        738,
+        2682,
+        4008,
+        2850
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "2.",
+            "bbox": [
+              731,
+              2953,
+              805,
+              3011
+            ],
+            "confidence": 0.9999943375587463
+          },
+          {
+            "text": " Die Beklagte trägt die Kosten des Rechtsstreits.",
+            "bbox": [
+              856,
+              2945,
+              2236,
+              3018
+            ],
+            "confidence": 0.9822433590888977
+          }
+        ]
+      ],
+      "bbox": [
+        731,
+        2945,
+        2236,
+        3018
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "3.",
+            "bbox": [
+              731,
+              3113,
+              812,
+              3172
+            ],
+            "confidence": 0.9999924302101135
+          },
+          {
+            "text": " Das Urteil ist vorläufig vollstreckbar.",
+            "bbox": [
+              856,
+              3106,
+              1919,
+              3179
+            ],
+            "confidence": 0.9688776135444641
+          }
+        ]
+      ],
+      "bbox": [
+        731,
+        3106,
+        1919,
+        3179
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Tatbestand",
+            "bbox": [
+              590,
+              3281,
+              1063,
+              3362
+            ],
+            "confidence": 0.9998224377632141
+          }
+        ]
+      ],
+      "bbox": [
+        590,
+        3281,
+        1063,
+        3362
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Entscheidungsgründe",
+            "bbox": [
+              583,
+              4977,
+              1418,
+              5080
+            ],
+            "confidence": 0.9869864583015442
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        4977,
+        1418,
+        5080
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Urteil",
+            "bbox": [
+              576,
+              1125,
+              864,
+              1228
+            ],
+            "confidence": 0.9989945888519287
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        1125,
+        864,
+        1228
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Tenor",
+            "bbox": [
+              574,
+              2505,
+              814,
+              2604
+            ],
+            "confidence": 0.9999227523803711
+          }
+        ]
+      ],
+      "bbox": [
+        574,
+        2505,
+        814,
+        2604
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Klägerin beantragt:",
+            "bbox": [
+              575,
+              4180,
+              1240,
+              4268
+            ],
+            "confidence": 0.9826053380966187
+          }
+        ]
+      ],
+      "bbox": [
+        575,
+        4180,
+        1240,
+        4268
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Amtsgericht Strausberg",
+            "bbox": [
+              575,
+              577,
+              1410,
+              688
+            ],
+            "confidence": 0.999647319316864
+          }
+        ]
+      ],
+      "bbox": [
+        575,
+        577,
+        1410,
+        688
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Klage ist in vollem Umfang begründet. Zwischen den Parteien bestand ein wirksamer Werkvertrag im Sinne der ss 631 f. BGB. Die",
+            "bbox": [
+              590,
+              5094,
+              4362,
+              5167
+            ],
+            "confidence": 0.9825533032417297
+          }
+        ],
+        [
+          {
+            "text": " Klágerin hat durch Vorlage des Abnahmeprotokolls (Anlage K3) sowie mehrerer technischer Berichte (Anlagen K4-K6) belegt, dass",
+            "bbox": [
+              576,
+              5189,
+              4288,
+              5284
+            ],
+            "confidence": 0.9873706698417664
+          }
+        ],
+        [
+          {
+            "text": "die vereinbarte Leistung vollständig und mangelfrei erbracht wurde.",
+            "bbox": [
+              583,
+              5291,
+              2517,
+              5364
+            ],
+            "confidence": 0.9936045408248901
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        5094,
+        4362,
+        5364
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Die Beklagte beantragt, die Klage abzuweisen. Sie behauptet, das gelieferte System sei nicht mit den bestehenden Strukturen",
+            "bbox": [
+              568,
+              4524,
+              4163,
+              4626
+            ],
+            "confidence": 0.988740086555481
+          }
+        ],
+        [
+          {
+            "text": "kompatibel gewesen und habe mehrfach zum Ausfall interner Prozesse geführt. Die Klägerin habe sich zudem geweigert, telefonisch",
+            "bbox": [
+              583,
+              4626,
+              4362,
+              4721
+            ],
+            "confidence": 0.9817782640457153
+          }
+        ],
+        [
+          {
+            "text": "erreichbare Ansprechpartner bereitzustellen. Verwiesen wird auf eine E-Mail-Korrespondenz vom 09.01.2025 an therrmann@web.de",
+            "bbox": [
+              583,
+              4728,
+              4370,
+              4802
+            ],
+            "confidence": 0.9977469444274902
+          }
+        ],
+        [
+          {
+            "text": "sowie mehrere erfolglose Anrufe bei +49(0)9606 67257.",
+            "bbox": [
+              590,
+              4824,
+              2170,
+              4897
+            ],
+            "confidence": 0.9955592155456543
+          }
+        ]
+      ],
+      "bbox": [
+        568,
+        4524,
+        4370,
+        4897
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Beklagte ist ihrer sekundären Darlegungslast zu behaupteten Mängeln nicht nachgekommen. Pauschale Behauptungen ohne",
+            "bbox": [
+              590,
+              5452,
+              4259,
+              5525
+            ],
+            "confidence": 0.9896291494369507
+          }
+        ],
+        [
+          {
+            "text": "belegt. Die E-Mail an therrmann@web.de vom 09.01.2025 wurde laut Logdatei des Mailservers zwar empfangen, blieb jedoch",
+            "bbox": [
+              590,
+              5642,
+              4148,
+              5715
+            ],
+            "confidence": 0.990371823310852
+          }
+        ],
+        [
+          {
+            "text": "inhaltlich unbeantwortet. Ein PflichtverstoB ist daraus nicht abzuleiten.",
+            "bbox": [
+              583,
+              5737,
+              2613,
+              5810
+            ],
+            "confidence": 0.9953925609588623
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        5452,
+        4259,
+        5810
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Parteien vereinbarten eine Vergütung in Höhe von 33.31 £ Euro. Die Klägerin erbrachte sämtliche vereinbarten Leistungen bis",
+            "bbox": [
+              583,
+              3749,
+              4244,
+              3822
+            ],
+            "confidence": 0.9814059734344482
+          }
+        ],
+        [
+          {
+            "text": "zum 17.03.2025. Die Beklagte verweigerte die Abnahme der Leistung mit der Begründung, es lägen funktionale Mängel vor. Eine",
+            "bbox": [
+              590,
+              3844,
+              4207,
+              3917
+            ],
+            "confidence": 0.9881773591041565
+          }
+        ],
+        [
+          {
+            "text": "16.01.2025 auf, was fruchtlos blieb.",
+            "bbox": [
+              576,
+              4020,
+              1616,
+              4115
+            ],
+            "confidence": 0.986786961555481
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        3749,
+        4244,
+        4115
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Zinsforderung folgt aus ss 286, 288 Abs. 1 BGB. Die vorgerichtlichen Mahnkosten sind in der geltend gemachten Höhe nicht zu",
+            "bbox": [
+              576,
+              5891,
+              4288,
+              5986
+            ],
+            "confidence": 0.9818124175071716
+          }
+        ],
+        [
+          {
+            "text": "beanstanden.",
+            "bbox": [
+              583,
+              5993,
+              989,
+              6066
+            ],
+            "confidence": 0.9997509121894836
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        5891,
+        4288,
+        6066
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Klägerin macht gegen die Beklagte Ansprüche aus einem Werkvertrag geltend, den die Parteien am 12.04.2025 im Rahmen eines",
+            "bbox": [
+              576,
+              3391,
+              4355,
+              3486
+            ],
+            "confidence": 0.9864333271980286
+          }
+        ],
+        [
+          {
+            "text": "Projekts zur digitalen Umsetzung von Sterbeurkunde geschlossen hatten. Gegenstand des Vertrages war die Lieferung und",
+            "bbox": [
+              590,
+              3493,
+              4067,
+              3566
+            ],
+            "confidence": 0.994273841381073
+          }
+        ],
+        [
+          {
+            "text": " Integration eines IT-Systems zur Verwaltung interner Vorgänge bei der Beklagten.",
+            "bbox": [
+              568,
+              3574,
+              2886,
+              3676
+            ],
+            "confidence": 0.9873827695846558
+          }
+        ]
+      ],
+      "bbox": [
+        568,
+        3391,
+        4355,
+        3676
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " die Beklagte zu verurteilen, an sie 33.31 € Euro nebst Zinsen sowie vorgerichtliche Mahnkosten in Höhe von 692.65 £ Euro zu",
+            "bbox": [
+              598,
+              4290,
+              4163,
+              4363
+            ],
+            "confidence": 0.9844977259635925
+          }
+        ],
+        [
+          {
+            "text": "zahlen.",
+            "bbox": [
+              583,
+              4378,
+              812,
+              4451
+            ],
+            "confidence": 0.9997129440307617
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        4290,
+        4163,
+        4451
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " hat das Amtsgericht Strausberg durch die Richterin Janos Koch B.Sc. am 25.03.2025 aufgrund der mündlichen Verhandlung vom",
+            "bbox": [
+              576,
+              2244,
+              4244,
+              2339
+            ],
+            "confidence": 0.9900713562965393
+          }
+        ],
+        [
+          {
+            "text": "11.03.2025 für Recht erkannt:",
+            "bbox": [
+              576,
+              2339,
+              1432,
+              2412
+            ],
+            "confidence": 0.9745160341262817
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        2244,
+        4244,
+        2412
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Im Namen des Volkes",
+            "bbox": [
+              576,
+              943,
+              1225,
+              1038
+            ],
+            "confidence": 0.9984896779060364
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        943,
+        1225,
+        1038
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "wegen Forderung aus Werkvertrag",
+            "bbox": [
+              576,
+              2083,
+              1572,
+              2178
+            ],
+            "confidence": 0.9954075813293457
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        2083,
+        1572,
+        2178
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Aktenzeichen: 12 C 482/25",
+            "bbox": [
+              583,
+              797,
+              1365,
+              870
+            ],
+            "confidence": 0.9997714757919312
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        797,
+        1365,
+        870
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "- Klägerin -",
+            "bbox": [
+              590,
+              1513,
+              908,
+              1593
+            ],
+            "confidence": 0.8560482859611511
+          }
+        ]
+      ],
+      "bbox": [
+        590,
+        1513,
+        908,
+        1593
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Urteil vom 25.03.2025",
+            "bbox": [
+              583,
+              702,
+              1225,
+              775
+            ],
+            "confidence": 0.9993669390678406
+          }
+        ],
+        [
+          {
+            "text": "Aktenzeichen: 12 C 482/25",
+            "bbox": [
+              583,
+              797,
+              1365,
+              870
+            ],
+            "confidence": 0.9997714757919312
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        702,
+        1365,
+        870
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "die Wilms, vertreten durch Univ.Prof. Sinaida Keudel MBA., Magret-Scheuermann-Ring 07, 17026 Stade",
+            "bbox": [
+              583,
+              1834,
+              3521,
+              1907
+            ],
+            "confidence": 0.9924134016036987
+          }
+        ],
+        [
+          {
+            "text": "- Beklagte -",
+            "bbox": [
+              574,
+              1913,
+              931,
+              2011
+            ],
+            "confidence": 0.9535614848136902
+          }
+        ]
+      ],
+      "bbox": [
+        574,
+        1834,
+        3521,
+        2011
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "- Beklagte -",
+            "bbox": [
+              574,
+              1913,
+              931,
+              2011
+            ],
+            "confidence": 0.9535614848136902
+          }
+        ]
+      ],
+      "bbox": [
+        574,
+        1913,
+        931,
+        2011
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "die Wilms, vertreten durch Univ.Prof. Sinaida Keudel MBA., Magret-Scheuermann-Ring 07, 17026 Stade",
+            "bbox": [
+              583,
+              1834,
+              3521,
+              1907
+            ],
+            "confidence": 0.9924134016036987
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        1834,
+        3521,
+        1907
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "der Kohl GmbH, vertreten durch Thies Meister-Dietz, Vitali-Nerger-Gasse 0/6, 53296 Strausberg",
+            "bbox": [
+              576,
+              1403,
+              3314,
+              1506
+            ],
+            "confidence": 0.9976654052734375
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        1403,
+        3314,
+        1506
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Urteil vom 25.03.2025",
+            "bbox": [
+              583,
+              702,
+              1225,
+              775
+            ],
+            "confidence": 0.9993669390678406
+          }
+        ]
+      ],
+      "bbox": [
+        583,
+        702,
+        1225,
+        775
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " hat das Amtsgericht Strausberg durch die Richterin Janos Koch B.Sc. am 25.03.2025 aufgrund der mündlichen Verhandlung vom",
+            "bbox": [
+              576,
+              2244,
+              4244,
+              2339
+            ],
+            "confidence": 0.9900713562965393
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        2244,
+        4244,
+        2339
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "In dem Rechtsstreit",
+            "bbox": [
+              576,
+              1316,
+              1159,
+              1411
+            ],
+            "confidence": 0.9984853863716125
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        1316,
+        1159,
+        1411
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "11.03.2025 für Recht erkannt:",
+            "bbox": [
+              576,
+              2339,
+              1432,
+              2412
+            ],
+            "confidence": 0.9745160341262817
+          }
+        ]
+      ],
+      "bbox": [
+        576,
+        2339,
+        1432,
+        2412
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "gegen",
+      "bbox": [
+        573,
+        1664,
+        763,
+        1771
+      ],
+      "confidence": 0.9986689686775208
+    }
+  ]
+}

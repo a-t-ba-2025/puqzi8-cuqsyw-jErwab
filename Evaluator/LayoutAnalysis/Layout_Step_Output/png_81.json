@@ -1,0 +1,641 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": " Freudenbergerallee - gesperrt für den Durchgangsverkehr",
+            "bbox": [
+              686,
+              3851,
+              3048,
+              3954
+            ],
+            "confidence": 0.9945343732833862
+          }
+        ]
+      ],
+      "bbox": [
+        686,
+        3851,
+        3048,
+        3954
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Reuterplatz - nur einspurig befahrbar",
+            "bbox": [
+              620,
+              3976,
+              2229,
+              4071
+            ],
+            "confidence": 0.9820094108581543
+          }
+        ]
+      ],
+      "bbox": [
+        620,
+        3976,
+        2229,
+        4071
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Hofmannstr. - Umleitung über unser",
+            "bbox": [
+              701,
+              4107,
+              2207,
+              4210
+            ],
+            "confidence": 0.9890198707580566
+          }
+        ]
+      ],
+      "bbox": [
+        701,
+        4107,
+        2207,
+        4210
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Betroffene Straßen:",
+            "bbox": [
+              443,
+              3545,
+              1439,
+              3647
+            ],
+            "confidence": 0.9745094180107117
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        3545,
+        1439,
+        3647
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wasserversorger",
+            "bbox": [
+              3048,
+              599,
+              3787,
+              717
+            ],
+            "confidence": 0.9998435378074646
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        599,
+        3787,
+        717
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Wir bitten um Ihr Verständnis und empfehlen Ihnen, alternative Routen zu nutzen. Bei weiteren Fragen",
+            "bbox": [
+              435,
+              4348,
+              4458,
+              4458
+            ],
+            "confidence": 0.9855570793151855
+          }
+        ],
+        [
+          {
+            "text": "wenden Sie sich bitte an unsere Servicestelle unter 0833626763 oder per E-Mail an",
+            "bbox": [
+              428,
+              4473,
+              3683,
+              4582
+            ],
+            "confidence": 0.9914875626564026
+          }
+        ],
+        [
+          {
+            "text": "bartholomaeus77@aol.de",
+            "bbox": [
+              428,
+              4597,
+              1439,
+              4692
+            ],
+            "confidence": 0.9985363483428955
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        4348,
+        4458,
+        4692
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "wir möchten Sie darüber informieren, dass es aufgrund von Computer in der Zeit vom 16.02.2025 bis",
+            "bbox": [
+              435,
+              3172,
+              4429,
+              3267
+            ],
+            "confidence": 0.9828329086303711
+          }
+        ],
+        [
+          {
+            "text": "26.02.2025 zu Verkehrseinschränkungen in Saulgau kommen wird.",
+            "bbox": [
+              428,
+              3281,
+              3048,
+              3391
+            ],
+            "confidence": 0.9912311434745789
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        3172,
+        4429,
+        3391
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              443,
+              4845,
+              1410,
+              4940
+            ],
+            "confidence": 0.9683322906494141
+          }
+        ]
+      ],
+      "bbox": [
+        443,
+        4845,
+        1410,
+        4940
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte/r Gitta Vollbrecht,",
+            "bbox": [
+              435,
+              2923,
+              1661,
+              3026
+            ],
+            "confidence": 0.9951134324073792
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        2923,
+        1661,
+        3026
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telef0n: +49(0)6574 05163",
+            "bbox": [
+              420,
+              1944,
+              1417,
+              2061
+            ],
+            "confidence": 0.9848487377166748
+          }
+        ]
+      ],
+      "bbox": [
+        420,
+        1944,
+        1417,
+        2061
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Frau Kathrin Vollbrecht B.Sc",
+            "bbox": [
+              435,
+              5087,
+              1594,
+              5182
+            ],
+            "confidence": 0.9986410140991211
+          }
+        ],
+        [
+          {
+            "text": "Leiter/in Wasserwirtschaft",
+            "bbox": [
+              435,
+              5218,
+              1476,
+              5313
+            ],
+            "confidence": 0.9995524883270264
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5087,
+        1594,
+        5313
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Hermann-Ruppersberger-Ring 36",
+            "bbox": [
+              3048,
+              723,
+              4289,
+              841
+            ],
+            "confidence": 0.996565580368042
+          }
+        ],
+        [
+          {
+            "text": "49381 Saulgau",
+            "bbox": [
+              3056,
+              862,
+              3595,
+              965
+            ],
+            "confidence": 0.9995396137237549
+          }
+        ],
+        [
+          {
+            "text": "Telefon: 0833626763",
+            "bbox": [
+              3048,
+              971,
+              3839,
+              1090
+            ],
+            "confidence": 0.9980549216270447
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        723,
+        4289,
+        1090
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Gitta Vollbrecht",
+            "bbox": [
+              435,
+              1447,
+              1019,
+              1542
+            ],
+            "confidence": 0.9997364282608032
+          }
+        ],
+        [
+          {
+            "text": "Gundolf-Aumann-Platz 882",
+            "bbox": [
+              428,
+              1564,
+              1440,
+              1674
+            ],
+            "confidence": 0.9997274279594421
+          }
+        ],
+        [
+          {
+            "text": "39182 Eichstatt",
+            "bbox": [
+              420,
+              1695,
+              1004,
+              1806
+            ],
+            "confidence": 0.969427227973938
+          }
+        ]
+      ],
+      "bbox": [
+        420,
+        1447,
+        1440,
+        1806
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Hermann-Ruppersberger-Ring 36",
+            "bbox": [
+              3048,
+              723,
+              4289,
+              841
+            ],
+            "confidence": 0.996565580368042
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        723,
+        4289,
+        841
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Gitta Vollbrecht",
+            "bbox": [
+              435,
+              1447,
+              1019,
+              1542
+            ],
+            "confidence": 0.9997364282608032
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        1447,
+        1019,
+        1542
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Hermann-Ruppersberger-Ring 36",
+            "bbox": [
+              435,
+              5584,
+              1749,
+              5686
+            ],
+            "confidence": 0.9997162222862244
+          }
+        ],
+        [
+          {
+            "text": "49381 Saulgau",
+            "bbox": [
+              434,
+              5692,
+              1027,
+              5818
+            ],
+            "confidence": 0.999821126461029
+          }
+        ]
+      ],
+      "bbox": [
+        434,
+        5584,
+        1749,
+        5818
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "49381 Saulgau",
+            "bbox": [
+              3056,
+              862,
+              3595,
+              965
+            ],
+            "confidence": 0.9995396137237549
+          }
+        ]
+      ],
+      "bbox": [
+        3056,
+        862,
+        3595,
+        965
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "06.06.2025",
+            "bbox": [
+              435,
+              2419,
+              886,
+              2521
+            ],
+            "confidence": 0.9999796152114868
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        2419,
+        886,
+        2521
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wasserversorger",
+            "bbox": [
+              435,
+              5451,
+              1145,
+              5570
+            ],
+            "confidence": 0.9911035895347595
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5451,
+        1145,
+        5570
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon: 0833626763",
+            "bbox": [
+              3048,
+              971,
+              3839,
+              1090
+            ],
+            "confidence": 0.9980549216270447
+          }
+        ]
+      ],
+      "bbox": [
+        3048,
+        971,
+        3839,
+        1090
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "39182 Eichstatt",
+            "bbox": [
+              420,
+              1695,
+              1004,
+              1806
+            ],
+            "confidence": 0.969427227973938
+          }
+        ]
+      ],
+      "bbox": [
+        420,
+        1695,
+        1004,
+        1806
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Gundolf-Aumann-Platz 882",
+            "bbox": [
+              428,
+              1564,
+              1440,
+              1674
+            ],
+            "confidence": 0.9997274279594421
+          }
+        ]
+      ],
+      "bbox": [
+        428,
+        1564,
+        1440,
+        1674
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Hermann-Ruppersberger-Ring 36",
+            "bbox": [
+              435,
+              5584,
+              1749,
+              5686
+            ],
+            "confidence": 0.9997162222862244
+          }
+        ]
+      ],
+      "bbox": [
+        435,
+        5584,
+        1749,
+        5686
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "Betreff: Vorübergehende Verkehrseinschränkungen in Saulgau",
+      "bbox": [
+        435,
+        2667,
+        3063,
+        2777
+      ],
+      "confidence": 0.9909055233001709
+    }
+  ]
+}
