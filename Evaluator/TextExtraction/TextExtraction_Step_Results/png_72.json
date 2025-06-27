@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Trub",
+    "bbox": [
+      2982,
+      643,
+      3174,
+      731
+    ],
+    "confidence": 0.9994652271270752
+  },
+  {
+    "text": "Schmiedeckeplatz 0/5",
+    "bbox": [
+      2975,
+      745,
+      3875,
+      840
+    ],
+    "confidence": 0.9984442591667175
+  },
+  {
+    "text": "13422 Gotha",
+    "bbox": [
+      2989,
+      855,
+      3499,
+      935
+    ],
+    "confidence": 0.998731255531311
+  },
+  {
+    "text": "Telefon: 00514 998871",
+    "bbox": [
+      2975,
+      950,
+      3897,
+      1045
+    ],
+    "confidence": 0.9995836615562439
+  },
+  {
+    "text": "Siglinde Bohlander",
+    "bbox": [
+      642,
+      1374,
+      1380,
+      1469
+    ],
+    "confidence": 0.9991288781166077
+  },
+  {
+    "text": "Hans-Joachim-Wagenknecht-",
+    "bbox": [
+      635,
+      1469,
+      1631,
+      1564
+    ],
+    "confidence": 0.9987859129905701
+  },
+  {
+    "text": "Gasse 443",
+    "bbox": [
+      642,
+      1564,
+      1011,
+      1666
+    ],
+    "confidence": 0.9998326897621155
+  },
+  {
+    "text": "66429 Hohenstein-Ernstthal",
+    "bbox": [
+      642,
+      1666,
+      1609,
+      1761
+    ],
+    "confidence": 0.9996108412742615
+  },
+  {
+    "text": "Telefon: (01978) 887686",
+    "bbox": [
+      642,
+      1761,
+      1491,
+      1856
+    ],
+    "confidence": 0.9997299909591675
+  },
+  {
+    "text": "05.05.2025",
+    "bbox": [
+      598,
+      2536,
+      1011,
+      2616
+    ],
+    "confidence": 0.9999667406082153
+  },
+  {
+    "text": "Betreff: Bescheid über die Bearbeitung lhres Antrags auf Fischereischein",
+    "bbox": [
+      605,
+      2894,
+      3410,
+      2967
+    ],
+    "confidence": 0.9909989833831787
+  },
+  {
+    "text": "Sehr geehrte/r Siglinde Bohlander,",
+    "bbox": [
+      590,
+      3230,
+      1757,
+      3325
+    ],
+    "confidence": 0.9947162866592407
+  },
+  {
+    "text": "wir haben Ihren Antrag auf Fischereischein vom 24.05.2025 erhalten und geprüft. Nach sorgfältiger Prüfung",
+    "bbox": [
+      583,
+      3559,
+      4215,
+      3676
+    ],
+    "confidence": 0.9873291850090027
+  },
+  {
+    "text": "teilen wir Ihnen mit, dass Trub Ihren Antrag bewilligt hat.",
+    "bbox": [
+      590,
+      3676,
+      2539,
+      3771
+    ],
+    "confidence": 0.9844308495521545
+  },
+  {
+    "text": "Falls zusätzliche Unterlagen erforderlich sind, bitten wir Sie, diese bis spätestens I I.05.2025 einzureichen.",
+    "bbox": [
+      590,
+      4020,
+      4155,
+      4115
+    ],
+    "confidence": 0.9846127033233643
+  },
+  {
+    "text": "Sollte Ihr Antrag bewilligt worden sein, erfolgt die Auszahlung bzw. Bearbeitung innerhalb von 8 Werktagen.",
+    "bbox": [
+      598,
+      4115,
+      4251,
+      4210
+    ],
+    "confidence": 0.9915753602981567
+  },
+  {
+    "text": "Bei Fragen stehen wir lhnen gerne telefonisch unter 00514 99887I oder per E-Mail unter",
+    "bbox": [
+      598,
+      4465,
+      3609,
+      4560
+    ],
+    "confidence": 0.9843024611473083
+  },
+  {
+    "text": " denise85@googlemail.com zur Verfügung.",
+    "bbox": [
+      583,
+      4553,
+      2023,
+      4663
+    ],
+    "confidence": 0.9893391132354736
+  },
+  {
+    "text": "Mit freundlichen GrüBen",
+    "bbox": [
+      583,
+      4904,
+      1432,
+      5006
+    ],
+    "confidence": 0.9922391772270203
+  },
+  {
+    "text": "Gundolf Renner",
+    "bbox": [
+      598,
+      5145,
+      1137,
+      5225
+    ],
+    "confidence": 0.9994574785232544
+  },
+  {
+    "text": "Leiter/in des Integrationsamts",
+    "bbox": [
+      575,
+      5240,
+      1610,
+      5350
+    ],
+    "confidence": 0.9992717504501343
+  },
+  {
+    "text": "Trub",
+    "bbox": [
+      598,
+      5854,
+      805,
+      5949
+    ],
+    "confidence": 0.9995870590209961
+  },
+  {
+    "text": "Schmiedeckeplatz 0/5",
+    "bbox": [
+      583,
+      5934,
+      1447,
+      6044
+    ],
+    "confidence": 0.9961231350898743
+  },
+  {
+    "text": "I 3422 Gotha",
+    "bbox": [
+      597,
+      6028,
+      1101,
+      6147
+    ],
+    "confidence": 0.9597538113594055
+  }
+]
