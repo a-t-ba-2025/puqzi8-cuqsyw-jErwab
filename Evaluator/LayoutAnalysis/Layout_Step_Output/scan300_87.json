@@ -1,0 +1,2188 @@
+{
+  "Table": [],
+  "Caption": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Ihr",
+            "bbox": [
+              3345,
+              792,
+              3474,
+              870
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Energieversorger",
+            "bbox": [
+              3341,
+              912,
+              4248,
+              1024
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        3341,
+        792,
+        4248,
+        1024
+      ]
+    }
+  ],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Sollten",
+            "bbox": [
+              770,
+              4944,
+              1033,
+              5016
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              1063,
+              4946,
+              1179,
+              5017
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Fragen",
+            "bbox": [
+              1207,
+              4950,
+              1466,
+              5039
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "haben",
+            "bbox": [
+              1494,
+              4949,
+              1718,
+              5020
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              1748,
+              4951,
+              1915,
+              5022
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Unterstützung",
+            "bbox": [
+              1940,
+              4956,
+              2480,
+              5045
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "benötigen,",
+            "bbox": [
+              2505,
+              4957,
+              2900,
+              5047
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "stehen",
+            "bbox": [
+              2933,
+              4959,
+              3170,
+              5028
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "wir",
+            "bbox": [
+              3197,
+              4961,
+              3324,
+              5029
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihnen",
+            "bbox": [
+              3351,
+              4961,
+              3561,
+              5031
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "gerne",
+            "bbox": [
+              3590,
+              4985,
+              3798,
+              5052
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              3826,
+              4975,
+              4021,
+              5033
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "(06880)",
+            "bbox": [
+              4050,
+              4967,
+              4345,
+              5055
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "242478",
+            "bbox": [
+              764,
+              5058,
+              1046,
+              5126
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              1076,
+              5058,
+              1244,
+              5127
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "per",
+            "bbox": [
+              1266,
+              5081,
+              1389,
+              5151
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "E-Mail",
+            "bbox": [
+              1416,
+              5061,
+              1679,
+              5130
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              1710,
+              5072,
+              1904,
+              5132
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "holstenreinhold@gmail.com",
+            "bbox": [
+              1932,
+              5066,
+              3072,
+              5158
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              3103,
+              5092,
+              3224,
+              5140
+            ],
+            "confidence": 97.0
+          },
+          {
+            "text": "Verfügung.",
+            "bbox": [
+              3249,
+              5070,
+              3679,
+              5162
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        764,
+        4944,
+        4345,
+        5162
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "herzlich",
+            "bbox": [
+              789,
+              2442,
+              1092,
+              2514
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "willkommen",
+            "bbox": [
+              1119,
+              2448,
+              1599,
+              2521
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bei",
+            "bbox": [
+              1627,
+              2454,
+              1736,
+              2522
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Keudel",
+            "bbox": [
+              1769,
+              2457,
+              2058,
+              2526
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Fliegner",
+            "bbox": [
+              2084,
+              2462,
+              2423,
+              2548
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "GmbH!",
+            "bbox": [
+              2451,
+              2466,
+              2752,
+              2535
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Wir",
+            "bbox": [
+              2789,
+              2468,
+              2934,
+              2536
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "freuen",
+            "bbox": [
+              2959,
+              2468,
+              3196,
+              2540
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "uns,",
+            "bbox": [
+              3226,
+              2494,
+              3375,
+              2554
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "dass",
+            "bbox": [
+              3406,
+              2475,
+              3565,
+              2544
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              3598,
+              2476,
+              3712,
+              2546
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              3744,
+              2478,
+              3889,
+              2548
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              3919,
+              2480,
+              4029,
+              2548
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unseren",
+            "bbox": [
+              4054,
+              2504,
+              4345,
+              2552
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "ins-Tarif",
+            "bbox": [
+              790,
+              2552,
+              1156,
+              2623
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "entschieden",
+            "bbox": [
+              1173,
+              2558,
+              1620,
+              2630
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "haben.",
+            "bbox": [
+              1647,
+              2562,
+              1892,
+              2633
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Ihre",
+            "bbox": [
+              1925,
+              2565,
+              2072,
+              2635
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zuverlässige",
+            "bbox": [
+              2099,
+              2570,
+              2568,
+              2659
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Energieversorgung",
+            "bbox": [
+              2596,
+              2575,
+              3319,
+              2668
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "beginnt",
+            "bbox": [
+              3346,
+              2582,
+              3630,
+              2670
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "am",
+            "bbox": [
+              3658,
+              2607,
+              3770,
+              2654
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "31.03.2025.",
+            "bbox": [
+              3798,
+              2589,
+              4246,
+              2660
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        789,
+        2442,
+        4345,
+        2670
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "©",
+            "bbox": [
+              813,
+              4034,
+              858,
+              4078
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "Zählerstand",
+            "bbox": [
+              928,
+              4026,
+              1420,
+              4099
+            ],
+            "confidence": 84.0
+          },
+          {
+            "text": "übermitteln:",
+            "bbox": [
+              1454,
+              4032,
+              1955,
+              4104
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Bitte",
+            "bbox": [
+              1988,
+              4034,
+              2170,
+              4106
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "teilen",
+            "bbox": [
+              2198,
+              4036,
+              2406,
+              4107
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              2439,
+              4038,
+              2554,
+              4109
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "uns",
+            "bbox": [
+              2581,
+              4062,
+              2710,
+              4110
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bis",
+            "bbox": [
+              2738,
+              4041,
+              2845,
+              4111
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zum",
+            "bbox": [
+              2872,
+              4065,
+              3031,
+              4111
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "06.06.2025",
+            "bbox": [
+              3063,
+              4045,
+              3486,
+              4116
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihren",
+            "bbox": [
+              3517,
+              4047,
+              3712,
+              4117
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "aktuellen",
+            "bbox": [
+              3741,
+              4049,
+              4086,
+              4121
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Zählerstand",
+            "bbox": [
+              770,
+              4138,
+              1217,
+              4210
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "mit.",
+            "bbox": [
+              1245,
+              4142,
+              1389,
+              4212
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Dies",
+            "bbox": [
+              1420,
+              4143,
+              1591,
+              4214
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "können",
+            "bbox": [
+              1620,
+              4145,
+              1898,
+              4216
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              1929,
+              4147,
+              2042,
+              4218
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bequem",
+            "bbox": [
+              2071,
+              4148,
+              2368,
+              4240
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "online",
+            "bbox": [
+              2398,
+              4152,
+              2631,
+              4222
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              2661,
+              4164,
+              2856,
+              4224
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "http://www.neureuther.de/",
+            "bbox": [
+              2884,
+              4157,
+              3969,
+              4247
+            ],
+            "confidence": 85.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3993,
+              4164,
+              4161,
+              4235
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "telefonisch",
+            "bbox": [
+              768,
+              4248,
+              1185,
+              4321
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              1213,
+              4263,
+              1407,
+              4323
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "(06880)",
+            "bbox": [
+              1435,
+              4256,
+              1731,
+              4345
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "242478",
+            "bbox": [
+              1759,
+              4258,
+              2042,
+              4328
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "tun.",
+            "bbox": [
+              2070,
+              4269,
+              2211,
+              4330
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        768,
+        4026,
+        4161,
+        4345
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "©",
+            "bbox": [
+              811,
+              4386,
+              855,
+              4429
+            ],
+            "confidence": 43.0
+          },
+          {
+            "text": "Ihr",
+            "bbox": [
+              924,
+              4378,
+              1056,
+              4446
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Online-Kundenportal",
+            "bbox": [
+              1083,
+              4378,
+              1964,
+              4472
+            ],
+            "confidence": 66.0
+          },
+          {
+            "text": "aktivieren:",
+            "bbox": [
+              1992,
+              4387,
+              2427,
+              4458
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Verwalten",
+            "bbox": [
+              2462,
+              4390,
+              2855,
+              4460
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              2888,
+              4392,
+              3001,
+              4462
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihren",
+            "bbox": [
+              3030,
+              4392,
+              3225,
+              4462
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Vertrag,",
+            "bbox": [
+              3253,
+              4396,
+              3562,
+              4485
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Abschläge",
+            "bbox": [
+              3592,
+              4397,
+              3992,
+              4488
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              4019,
+              4401,
+              4159,
+              4470
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Rechnungen",
+            "bbox": [
+              768,
+              4490,
+              1242,
+              4582
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "einfach",
+            "bbox": [
+              1270,
+              4493,
+              1545,
+              4564
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              1574,
+              4506,
+              1769,
+              4566
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "http:/www.neureuther.de/.",
+            "bbox": [
+              1797,
+              4500,
+              2900,
+              4588
+            ],
+            "confidence": 65.0
+          }
+        ]
+      ],
+      "bbox": [
+        768,
+        4378,
+        4159,
+        4588
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Keudel",
+            "bbox": [
+              3189,
+              6014,
+              3428,
+              6070
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Fliezner",
+            "bbox": [
+              3450,
+              6014,
+              3732,
+              6086
+            ],
+            "confidence": 45.0
+          },
+          {
+            "text": "GmbH",
+            "bbox": [
+              3754,
+              6015,
+              3984,
+              6072
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Günther-Nohlmans-Allee",
+            "bbox": [
+              3189,
+              6122,
+              3999,
+              6182
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "3/5",
+            "bbox": [
+              4023,
+              6124,
+              4116,
+              6183
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "33328",
+            "bbox": [
+              3190,
+              6235,
+              3382,
+              6294
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bogen",
+            "bbox": [
+              3406,
+              6237,
+              3611,
+              6310
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Telefon:",
+            "bbox": [
+              3189,
+              6347,
+              3451,
+              6407
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "(06880)",
+            "bbox": [
+              3478,
+              6348,
+              3727,
+              6418
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "242478",
+            "bbox": [
+              3750,
+              6350,
+              3983,
+              6408
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Internet:",
+            "bbox": [
+              3188,
+              6461,
+              3452,
+              6519
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "http://www.neureuther.de/",
+            "bbox": [
+              3478,
+              6458,
+              4317,
+              6535
+            ],
+            "confidence": 91.0
+          }
+        ]
+      ],
+      "bbox": [
+        3188,
+        6014,
+        4317,
+        6535
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wir",
+            "bbox": [
+              765,
+              5282,
+              912,
+              5352
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "danken",
+            "bbox": [
+              937,
+              5282,
+              1207,
+              5355
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihnen",
+            "bbox": [
+              1236,
+              5284,
+              1449,
+              5356
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1478,
+              5286,
+              1588,
+              5358
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihr",
+            "bbox": [
+              1615,
+              5287,
+              1721,
+              5358
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Vertrauen",
+            "bbox": [
+              1747,
+              5290,
+              2126,
+              5360
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2153,
+              5290,
+              2293,
+              5362
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "freuen",
+            "bbox": [
+              2321,
+              5290,
+              2560,
+              5362
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "uns",
+            "bbox": [
+              2588,
+              5316,
+              2716,
+              5364
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              2745,
+              5293,
+              2874,
+              5364
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "eine",
+            "bbox": [
+              2892,
+              5294,
+              3043,
+              5364
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "langjährige",
+            "bbox": [
+              3075,
+              5294,
+              3498,
+              5386
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zusammenarbeit!",
+            "bbox": [
+              3525,
+              5299,
+              4189,
+              5370
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        765,
+        5282,
+        4189,
+        5386
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "©",
+            "bbox": [
+              809,
+              4624,
+              853,
+              4664
+            ],
+            "confidence": 79.0
+          },
+          {
+            "text": "Energiespartipps",
+            "bbox": [
+              921,
+              4617,
+              1619,
+              4704
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "entdecken:",
+            "bbox": [
+              1649,
+              4624,
+              2082,
+              4687
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Erfahren",
+            "bbox": [
+              2118,
+              4624,
+              2446,
+              4690
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              2478,
+              4626,
+              2591,
+              4690
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unter",
+            "bbox": [
+              2620,
+              4638,
+              2816,
+              4692
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "http://christoph.de/,",
+            "bbox": [
+              2843,
+              4631,
+              3648,
+              4716
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "wie",
+            "bbox": [
+              3676,
+              4634,
+              3812,
+              4698
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sie",
+            "bbox": [
+              3842,
+              4636,
+              3956,
+              4699
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ihren",
+            "bbox": [
+              3986,
+              4636,
+              4181,
+              4702
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Verbrauch",
+            "bbox": [
+              766,
+              4722,
+              1166,
+              4792
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "optimieren",
+            "bbox": [
+              1193,
+              4726,
+              1602,
+              4814
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1630,
+              4728,
+              1771,
+              4798
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Energiekosten",
+            "bbox": [
+              1798,
+              4730,
+              2340,
+              4819
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sparen",
+            "bbox": [
+              2370,
+              4756,
+              2613,
+              4822
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "können.",
+            "bbox": [
+              2640,
+              4734,
+              2939,
+              4806
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        766,
+        4617,
+        4181,
+        4822
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Internet:",
+            "bbox": [
+              3188,
+              6461,
+              3452,
+              6519
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "http://www.neureuther.de/",
+            "bbox": [
+              3478,
+              6458,
+              4317,
+              6535
+            ],
+            "confidence": 91.0
+          }
+        ]
+      ],
+      "bbox": [
+        3188,
+        6458,
+        4317,
+        6535
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr",
+            "bbox": [
+              796,
+              2221,
+              967,
+              2292
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "geehrte/r",
+            "bbox": [
+              991,
+              2224,
+              1328,
+              2312
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "Jörgen",
+            "bbox": [
+              1392,
+              2234,
+              1603,
+              2319
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Rogge",
+            "bbox": [
+              1632,
+              2233,
+              1878,
+              2323
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "B.A.,",
+            "bbox": [
+              1906,
+              2237,
+              2104,
+              2321
+            ],
+            "confidence": 64.0
+          }
+        ]
+      ],
+      "bbox": [
+        796,
+        2221,
+        2104,
+        2323
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "33328",
+            "bbox": [
+              3190,
+              6235,
+              3382,
+              6294
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bogen",
+            "bbox": [
+              3406,
+              6237,
+              3611,
+              6310
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        3190,
+        6235,
+        3611,
+        6310
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Jörgen",
+            "bbox": [
+              866,
+              1202,
+              1141,
+              1292
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Rogge",
+            "bbox": [
+              1172,
+              1207,
+              1423,
+              1298
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "B.A.",
+            "bbox": [
+              1450,
+              1212,
+              1625,
+              1281
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "Wilmsenplatz",
+            "bbox": [
+              867,
+              1345,
+              1392,
+              1438
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "36",
+            "bbox": [
+              1420,
+              1355,
+              1510,
+              1424
+            ],
+            "confidence": 97.0
+          }
+        ],
+        [
+          {
+            "text": "10233",
+            "bbox": [
+              872,
+              1489,
+              1093,
+              1562
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Roding",
+            "bbox": [
+              1126,
+              1493,
+              1404,
+              1586
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        866,
+        1202,
+        1625,
+        1586
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Nächste",
+            "bbox": [
+              774,
+              3776,
+              1134,
+              3856
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Schritte",
+            "bbox": [
+              1168,
+              3780,
+              1526,
+              3859
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              1558,
+              3784,
+              1699,
+              3859
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Sie:",
+            "bbox": [
+              1730,
+              3786,
+              1888,
+              3862
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        774,
+        3776,
+        1888,
+        3862
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Günther-Nohlmans-Allee",
+            "bbox": [
+              3189,
+              6122,
+              3999,
+              6182
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "3/5",
+            "bbox": [
+              4023,
+              6124,
+              4116,
+              6183
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        3189,
+        6122,
+        4116,
+        6183
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Jörgen",
+            "bbox": [
+              866,
+              1202,
+              1141,
+              1292
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Rogge",
+            "bbox": [
+              1172,
+              1207,
+              1423,
+              1298
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "B.A.",
+            "bbox": [
+              1450,
+              1212,
+              1625,
+              1281
+            ],
+            "confidence": 91.0
+          }
+        ]
+      ],
+      "bbox": [
+        866,
+        1202,
+        1625,
+        1298
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "JY",
+            "bbox": [
+              785,
+              3026,
+              854,
+              3098
+            ],
+            "confidence": 43.0
+          },
+          {
+            "text": "Zählernummer:",
+            "bbox": [
+              883,
+              3033,
+              1531,
+              3106
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "62792930",
+            "bbox": [
+              1566,
+              3040,
+              1942,
+              3110
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        785,
+        3026,
+        1942,
+        3110
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Wilmsenplatz",
+            "bbox": [
+              867,
+              1345,
+              1392,
+              1438
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "36",
+            "bbox": [
+              1420,
+              1355,
+              1510,
+              1424
+            ],
+            "confidence": 97.0
+          }
+        ]
+      ],
+      "bbox": [
+        867,
+        1345,
+        1510,
+        1438
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Telefon:",
+            "bbox": [
+              3189,
+              6347,
+              3451,
+              6407
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "(06880)",
+            "bbox": [
+              3478,
+              6348,
+              3727,
+              6418
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "242478",
+            "bbox": [
+              3750,
+              6350,
+              3983,
+              6408
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        3189,
+        6347,
+        3983,
+        6418
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "01.04.2025",
+      "bbox": [
+        4060,
+        1882,
+        4484,
+        1956
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Betreff:",
+      "bbox": [
+        795,
+        1993,
+        1103,
+        2067
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Willkommen",
+      "bbox": [
+        1136,
+        1998,
+        1663,
+        2073
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "bei",
+      "bbox": [
+        1693,
+        2008,
+        1809,
+        2076
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Keudel",
+      "bbox": [
+        1837,
+        2010,
+        2126,
+        2080
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Fliegner",
+      "bbox": [
+        2152,
+        2013,
+        2491,
+        2104
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "GmbH",
+      "bbox": [
+        2518,
+        2018,
+        2794,
+        2089
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "—",
+      "bbox": [
+        2819,
+        2064,
+        2871,
+        2071
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Ihre",
+      "bbox": [
+        2895,
+        2023,
+        3066,
+        2093
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Energieversorgung",
+      "bbox": [
+        3092,
+        2025,
+        3870,
+        2125
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "beginnt!",
+      "bbox": [
+        3899,
+        2037,
+        4228,
+        2128
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Ihre",
+      "bbox": [
+        786,
+        2779,
+        978,
+        2856
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Vertragsdetails",
+      "bbox": [
+        1010,
+        2782,
+        1707,
+        2884
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "auf",
+      "bbox": [
+        1742,
+        2792,
+        1898,
+        2868
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "einen",
+      "bbox": [
+        1918,
+        2792,
+        2156,
+        2871
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Blick:",
+      "bbox": [
+        2189,
+        2796,
+        2452,
+        2874
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Y",
+      "bbox": [
+        784,
+        3155,
+        852,
+        3230
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Versorgungsbeginn:",
+      "bbox": [
+        882,
+        3161,
+        1700,
+        3259
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "31.03.2025",
+      "bbox": [
+        1735,
+        3171,
+        2155,
+        3245
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "JY",
+      "bbox": [
+        782,
+        3285,
+        850,
+        3358
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Abschlagszahlung:",
+      "bbox": [
+        879,
+        3292,
+        1641,
+        3388
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "7895.28",
+      "bbox": [
+        1679,
+        3300,
+        1978,
+        3370
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "€",
+      "bbox": [
+        2006,
+        3304,
+        2053,
+        3372
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "monatlich",
+      "bbox": [
+        2080,
+        3305,
+        2457,
+        3375
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "J",
+      "bbox": [
+        780,
+        3413,
+        850,
+        3488
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Jahresverbrauch",
+      "bbox": [
+        877,
+        3420,
+        1567,
+        3495
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "(prognostiziert):",
+      "bbox": [
+        1598,
+        3429,
+        2255,
+        3520
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "4764.13",
+      "bbox": [
+        2290,
+        3436,
+        2592,
+        3506
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "kWh",
+      "bbox": [
+        2625,
+        3436,
+        2807,
+        3506
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "JY",
+      "bbox": [
+        780,
+        3544,
+        848,
+        3616
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Vertragslaufzeit:",
+      "bbox": [
+        877,
+        3550,
+        1562,
+        3642
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "endlich",
+      "bbox": [
+        1598,
+        3556,
+        1874,
+        3626
+      ],
+      "confidence": 96.0
+    }
+  ]
+}

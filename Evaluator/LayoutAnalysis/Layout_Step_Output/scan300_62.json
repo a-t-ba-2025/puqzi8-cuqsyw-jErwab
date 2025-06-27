@@ -1,0 +1,528 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Ort: Bürgerzentrum Moers, Wilhelmine-Tröst-Gasse 62",
+            "bbox": [
+              752,
+              3946,
+              2901,
+              4079
+            ],
+            "confidence": 0.9957839846611023
+          }
+        ]
+      ],
+      "bbox": [
+        752,
+        3946,
+        2901,
+        4079
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Ort: Bürgerzentrum Moers, Wilhelmine-Tröst-Gasse 62",
+            "bbox": [
+              752,
+              3946,
+              2901,
+              4079
+            ],
+            "confidence": 0.9957839846611023
+          }
+        ],
+        [
+          {
+            "text": "Uhrzeit: 5330.71 Uhr",
+            "bbox": [
+              753,
+              4063,
+              1595,
+              4173
+            ],
+            "confidence": 0.999437153339386
+          }
+        ]
+      ],
+      "bbox": [
+        752,
+        3946,
+        2901,
+        4173
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Die Stadtverwaltung wird die gepianten Maßnahmen vorstellen und Fragen der",
+            "bbox": [
+              738,
+              4289,
+              3839,
+              4444
+            ],
+            "confidence": 0.989046037197113
+          }
+        ],
+        [
+          {
+            "text": "Bürgerinnen und Bürger beantworten. Ihre Meinung ist uns wichtig - nutzen Sie die",
+            "bbox": [
+              745,
+              4414,
+              4001,
+              4561
+            ],
+            "confidence": 0.9901199340820312
+          }
+        ],
+        [
+          {
+            "text": "Gelegenheit, um sich aktiv einzubringen!",
+            "bbox": [
+              745,
+              4531,
+              2348,
+              4656
+            ],
+            "confidence": 0.9930949211120605
+          }
+        ]
+      ],
+      "bbox": [
+        738,
+        4289,
+        4001,
+        4656
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Mit freundlichen GrüBen",
+            "bbox": [
+              738,
+              5123,
+              1720,
+              5241
+            ],
+            "confidence": 0.9752538800239563
+          }
+        ]
+      ],
+      "bbox": [
+        738,
+        5123,
+        1720,
+        5241
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " im Rahmen der Stadtentwicklung möchten wir Sie herzlich zur Informationsveranstaltung",
+            "bbox": [
+              737,
+              3573,
+              4237,
+              3750
+            ],
+            "confidence": 0.9976084232330322
+          }
+        ],
+        [
+          {
+            "text": "über das geplante Bauprojekt in Beeskow einladen. Diese findet statt am 27.04.2025.",
+            "bbox": [
+              745,
+              3697,
+              4060,
+              3867
+            ],
+            "confidence": 0.9901414513587952
+          }
+        ]
+      ],
+      "bbox": [
+        737,
+        3573,
+        4237,
+        3867
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "https://mitschke.org/ oder kontaktieren Sie uns telefonisch unter +49(0)3412 12651",
+            "bbox": [
+              730,
+              4889,
+              4030,
+              5021
+            ],
+            "confidence": 0.9996052980422974
+          }
+        ]
+      ],
+      "bbox": [
+        730,
+        4889,
+        4030,
+        5021
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Bürgeramt Beeskow",
+            "bbox": [
+              782,
+              1921,
+              1595,
+              2040
+            ],
+            "confidence": 0.9930915832519531
+          }
+        ],
+        [
+          {
+            "text": "Abteilung Stadtentwicklung",
+            "bbox": [
+              774,
+              2038,
+              1861,
+              2164
+            ],
+            "confidence": 0.9660357236862183
+          }
+        ],
+        [
+          {
+            "text": "Wilhelmine-Tröst-Gasse 62",
+            "bbox": [
+              774,
+              2148,
+              1846,
+              2281
+            ],
+            "confidence": 0.9952347278594971
+          }
+        ],
+        [
+          {
+            "text": "03088 Beeskow",
+            "bbox": [
+              767,
+              2272,
+              1403,
+              2391
+            ],
+            "confidence": 0.9978203177452087
+          }
+        ]
+      ],
+      "bbox": [
+        767,
+        1921,
+        1861,
+        2391
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Herrn/Frau",
+            "bbox": [
+              758,
+              2498,
+              1235,
+              2633
+            ],
+            "confidence": 0.999313473701477
+          }
+        ],
+        [
+          {
+            "text": "Nikola Aumann",
+            "bbox": [
+              766,
+              2630,
+              1382,
+              2757
+            ],
+            "confidence": 0.9993993043899536
+          }
+        ],
+        [
+          {
+            "text": "Georg-Oderwald-Weg 1/8",
+            "bbox": [
+              767,
+              2755,
+              1787,
+              2873
+            ],
+            "confidence": 0.9799681305885315
+          }
+        ],
+        [
+          {
+            "text": "66159 Beeskow",
+            "bbox": [
+              759,
+              2864,
+              1396,
+              2990
+            ],
+            "confidence": 0.9983336925506592
+          }
+        ]
+      ],
+      "bbox": [
+        758,
+        2498,
+        1787,
+        2990
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Für weitere informationen besuchen Sie bitte unsere Website unter",
+            "bbox": [
+              738,
+              4772,
+              3388,
+              4897
+            ],
+            "confidence": 0.9853661060333252
+          }
+        ]
+      ],
+      "bbox": [
+        738,
+        4772,
+        3388,
+        4897
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Marisa Briemer",
+            "bbox": [
+              730,
+              5363,
+              1352,
+              5482
+            ],
+            "confidence": 0.9996327757835388
+          }
+        ]
+      ],
+      "bbox": [
+        730,
+        5363,
+        1352,
+        5482
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte/r Nikola Aumann,",
+            "bbox": [
+              752,
+              3347,
+              1979,
+              3472
+            ],
+            "confidence": 0.9982116222381592
+          }
+        ]
+      ],
+      "bbox": [
+        752,
+        3347,
+        1979,
+        3472
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Für weitere informationen besuchen Sie bitte unsere Website unter",
+            "bbox": [
+              738,
+              4772,
+              3388,
+              4897
+            ],
+            "confidence": 0.9853661060333252
+          }
+        ],
+        [
+          {
+            "text": "https://mitschke.org/ oder kontaktieren Sie uns telefonisch unter +49(0)3412 12651",
+            "bbox": [
+              730,
+              4889,
+              4030,
+              5021
+            ],
+            "confidence": 0.9996052980422974
+          }
+        ]
+      ],
+      "bbox": [
+        730,
+        4772,
+        4030,
+        5021
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Einladung zur Bürgerbeteiligung",
+            "bbox": [
+              781,
+              1673,
+              2075,
+              1821
+            ],
+            "confidence": 0.9809055328369141
+          }
+        ]
+      ],
+      "bbox": [
+        781,
+        1673,
+        2075,
+        1821
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "01228 25551",
+            "bbox": [
+              730,
+              5597,
+              1263,
+              5716
+            ],
+            "confidence": 0.9999051690101624
+          }
+        ]
+      ],
+      "bbox": [
+        730,
+        5597,
+        1263,
+        5716
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "03088 Beeskow",
+            "bbox": [
+              767,
+              2272,
+              1403,
+              2391
+            ],
+            "confidence": 0.9978203177452087
+          }
+        ]
+      ],
+      "bbox": [
+        767,
+        2272,
+        1403,
+        2391
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": " Betreff: Einladung zur Bürgerbeteiligung - Entwicklung Stadtteilprojekt",
+      "bbox": [
+        745,
+        3098,
+        3595,
+        3260
+      ],
+      "confidence": 0.9884454011917114
+    },
+    {
+      "text": "+49(0)3412 12651",
+      "bbox": [
+        3521,
+        5847,
+        4237,
+        5942
+      ],
+      "confidence": 0.9987011551856995
+    },
+    {
+      "text": "aumannanica@gmx.de ",
+      "bbox": [
+        3107,
+        6095,
+        4163,
+        6190
+      ],
+      "confidence": 0.9964520335197449
+    },
+    {
+      "text": "https://mitschke.org/",
+      "bbox": [
+        2937,
+        6328,
+        3802,
+        6447
+      ],
+      "confidence": 0.9975733160972595
+    },
+    {
+      "text": "01228 25551",
+      "bbox": [
+        3048,
+        6599,
+        3558,
+        6680
+      ],
+      "confidence": 0.9997484087944031
+    }
+  ]
+}

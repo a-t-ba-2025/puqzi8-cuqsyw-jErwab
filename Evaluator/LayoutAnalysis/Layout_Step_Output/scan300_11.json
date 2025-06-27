@@ -1,0 +1,666 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [
+    {
+      "rows": [
+        [
+          {
+            "text": "1. Nachweis über die aktuelle Bankverbindung (IBAN DE69193192125805606782,",
+            "bbox": [
+              915,
+              3530,
+              4311,
+              3640
+            ],
+            "confidence": 0.9853323101997375
+          }
+        ],
+        [
+          {
+            "text": "BIC HVOGDECQ8NX)",
+            "bbox": [
+              1062,
+              3668,
+              1956,
+              3779
+            ],
+            "confidence": 0.9825543761253357
+          }
+        ]
+      ],
+      "bbox": [
+        915,
+        3530,
+        4311,
+        3779
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " 3. Aktueller Nachweis über die Zahlung der Verwaltungsgebühr in Höhe von 360.44",
+            "bbox": [
+              908,
+              4071,
+              4355,
+              4180
+            ],
+            "confidence": 0.9809737205505371
+          }
+        ],
+        [
+          {
+            "text": "£ Euro",
+            "bbox": [
+              1063,
+              4217,
+              1351,
+              4319
+            ],
+            "confidence": 0.9314042925834656
+          }
+        ]
+      ],
+      "bbox": [
+        908,
+        4071,
+        4355,
+        4319
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "2. Vollständiger Auszug aus dem Handelsregister (nicht älter als sechs Monate)",
+            "bbox": [
+              915,
+              3873,
+              4207,
+              3968
+            ],
+            "confidence": 0.9813467860221863
+          }
+        ]
+      ],
+      "bbox": [
+        915,
+        3873,
+        4207,
+        3968
+      ]
+    }
+  ],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "GemäB  24 Abs. 1 Verwaltungsverfahrensgesetz (VwVfG) geben wir lhnen daher hiermit",
+            "bbox": [
+              775,
+              3055,
+              4362,
+              3165
+            ],
+            "confidence": 0.9835092425346375
+          }
+        ],
+        [
+          {
+            "text": "Gelegenheit zur Stellungnahme und zur Nachreichung folgender Unterlagen innerhalb",
+            "bbox": [
+              782,
+              3201,
+              4296,
+              3303
+            ],
+            "confidence": 0.9901049733161926
+          }
+        ],
+        [
+          {
+            "text": "einer Frist von 14 Tagen nach Zugang dieses Schreibens:",
+            "bbox": [
+              782,
+              3340,
+              3093,
+              3442
+            ],
+            "confidence": 0.9914301633834839
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        3055,
+        4362,
+        3442
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "im Rahmen des laufenden Verwaltungsverfahrens Schwerbehindertenausweis wurden",
+            "bbox": [
+              768,
+              2456,
+              4318,
+              2551
+            ],
+            "confidence": 0.9979524612426758
+          }
+        ],
+        [
+          {
+            "text": "Prüfung durch die zuständige Sachbearbeitung ist jedoch festzustellen, dass die",
+            "bbox": [
+              768,
+              2719,
+              4060,
+              2828
+            ],
+            "confidence": 0.9874091744422913
+          }
+        ],
+        [
+          {
+            "text": "eingereichten Dokumente derzeit nicht vollständig vorliegen.",
+            "bbox": [
+              775,
+              2872,
+              3262,
+              2967
+            ],
+            "confidence": 0.9923569560050964
+          }
+        ]
+      ],
+      "bbox": [
+        768,
+        2456,
+        4318,
+        2967
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sollte uns bis zum 30.01.2025 keine vollständige Einreichung vorliegen, behalten wir uns",
+            "bbox": [
+              775,
+              5203,
+              4407,
+              5321
+            ],
+            "confidence": 0.9805414080619812
+          }
+        ],
+        [
+          {
+            "text": "vor, das Verfahren gemäB & 24 Abs. 3 VwVfG ohne weitere Rücksprache einzustellen.",
+            "bbox": [
+              775,
+              5342,
+              4244,
+              5459
+            ],
+            "confidence": 0.9686557054519653
+          }
+        ],
+        [
+          {
+            "text": "wird in diesem Fall nicht erstattet.",
+            "bbox": [
+              782,
+              5627,
+              2185,
+              5722
+            ],
+            "confidence": 0.9779744744300842
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        5203,
+        4407,
+        5722
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Bitte senden Sie die vorgenannten Unterlagen postalisch an die oben genannte Anschrift",
+            "bbox": [
+              782,
+              4612,
+              4406,
+              4707
+            ],
+            "confidence": 0.9935558438301086
+          }
+        ],
+        [
+          {
+            "text": " oder elektronisch an die E-Mail-Adresse oherrmann@yahoo.de. Sollten Sie über ein",
+            "bbox": [
+              767,
+              4728,
+              4200,
+              4846
+            ],
+            "confidence": 0.9882549047470093
+          }
+        ],
+        [
+          {
+            "text": "Servicekonto bei Leiter/in Sozialamt verfügen, können Sie die Dokumente alternativ über",
+            "bbox": [
+              775,
+              4875,
+              4407,
+              4984
+            ],
+            "confidence": 0.9879301190376282
+          }
+        ],
+        [
+          {
+            "text": "das Portal https://www.lindner.net/ hochladen.",
+            "bbox": [
+              775,
+              5013,
+              2731,
+              5123
+            ],
+            "confidence": 0.9986162781715393
+          }
+        ]
+      ],
+      "bbox": [
+        767,
+        4612,
+        4407,
+        5123
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": " Für Rückfragen steht Ihnen Frau Lieselotte Ackermann telefonisch unter 0787682394",
+            "bbox": [
+              775,
+              5795,
+              4281,
+              5942
+            ],
+            "confidence": 0.989847719669342
+          }
+        ],
+        [
+          {
+            "text": "oder per Fax unter 03981 59013 zur Verfügung.",
+            "bbox": [
+              790,
+              5964,
+              2694,
+              6066
+            ],
+            "confidence": 0.9749101996421814
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        5795,
+        4281,
+        6066
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Ditmar-Kuhl-Platz 76",
+            "bbox": [
+              775,
+              1177,
+              1646,
+              1272
+            ],
+            "confidence": 0.999405562877655
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        1177,
+        1646,
+        1272
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Ort, den 07.03.2025",
+            "bbox": [
+              775,
+              1710,
+              1609,
+              1805
+            ],
+            "confidence": 0.999671459197998
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        1710,
+        1609,
+        1805
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Phillip-Höfig-Gasse 844",
+            "bbox": [
+              2724,
+              1038,
+              3713,
+              1133
+            ],
+            "confidence": 0.9690390825271606
+          }
+        ]
+      ],
+      "bbox": [
+        2724,
+        1038,
+        3713,
+        1133
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "77927 Starnberg",
+            "bbox": [
+              2731,
+              1177,
+              3425,
+              1279
+            ],
+            "confidence": 0.999874472618103
+          }
+        ]
+      ],
+      "bbox": [
+        2731,
+        1177,
+        3425,
+        1279
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "4. Vollständig ausgefülltes Formular ,Datenschutzerklärung- Projektpartner\"",
+            "bbox": [
+              908,
+              4392,
+              4148,
+              4524
+            ],
+            "confidence": 0.9795849323272705
+          }
+        ]
+      ],
+      "bbox": [
+        908,
+        4392,
+        4148,
+        4524
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Von:",
+            "bbox": [
+              2724,
+              767,
+              2930,
+              862
+            ],
+            "confidence": 0.9977731704711914
+          }
+        ],
+        [
+          {
+            "text": "Leiter/in Sozialamt",
+            "bbox": [
+              2724,
+              899,
+              3513,
+              994
+            ],
+            "confidence": 0.9988062977790833
+          }
+        ],
+        [
+          {
+            "text": "Phillip-Höfig-Gasse 844",
+            "bbox": [
+              2724,
+              1038,
+              3713,
+              1133
+            ],
+            "confidence": 0.9690390825271606
+          }
+        ],
+        [
+          {
+            "text": "77927 Starnberg",
+            "bbox": [
+              2731,
+              1177,
+              3425,
+              1279
+            ],
+            "confidence": 0.999874472618103
+          }
+        ],
+        [
+          {
+            "text": "Nordmazedonien",
+            "bbox": [
+              2724,
+              1308,
+              3454,
+              1411
+            ],
+            "confidence": 0.9996118545532227
+          }
+        ]
+      ],
+      "bbox": [
+        2724,
+        767,
+        3713,
+        1411
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Leiter/in Sozialamt",
+            "bbox": [
+              2724,
+              899,
+              3513,
+              994
+            ],
+            "confidence": 0.9988062977790833
+          }
+        ]
+      ],
+      "bbox": [
+        2724,
+        899,
+        3513,
+        994
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sehr geehrte Damen und Herren,",
+            "bbox": [
+              767,
+              2251,
+              2141,
+              2361
+            ],
+            "confidence": 0.967573881149292
+          }
+        ]
+      ],
+      "bbox": [
+        767,
+        2251,
+        2141,
+        2361
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "z. Hd. Hans Jörg Hauffer",
+            "bbox": [
+              775,
+              1038,
+              1771,
+              1133
+            ],
+            "confidence": 0.9560886025428772
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        1038,
+        1771,
+        1133
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "40770 Sondershausen",
+            "bbox": [
+              775,
+              1301,
+              1713,
+              1411
+            ],
+            "confidence": 0.9915133118629456
+          }
+        ]
+      ],
+      "bbox": [
+        775,
+        1301,
+        1713,
+        1411
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Nordmazedonien",
+            "bbox": [
+              2724,
+              1308,
+              3454,
+              1411
+            ],
+            "confidence": 0.9996118545532227
+          }
+        ]
+      ],
+      "bbox": [
+        2724,
+        1308,
+        3454,
+        1411
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "An:",
+      "bbox": [
+        768,
+        753,
+        945,
+        862
+      ],
+      "confidence": 0.998664140701294
+    },
+    {
+      "text": "Schmidt",
+      "bbox": [
+        768,
+        892,
+        1144,
+        994
+      ],
+      "confidence": 0.9770728349685669
+    },
+    {
+      "text": "Betreff: Aufforderung zur Nachreichung von Unterlagen im Rahmen des",
+      "bbox": [
+        782,
+        1915,
+        3986,
+        2010
+      ],
+      "confidence": 0.9916229248046875
+    },
+    {
+      "text": "Verfahrens Schwerbehindertenausweis",
+      "bbox": [
+        775,
+        2046,
+        2569,
+        2141
+      ],
+      "confidence": 0.9985120296478271
+    }
+  ]
+}

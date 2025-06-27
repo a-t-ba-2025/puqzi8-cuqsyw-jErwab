@@ -1,0 +1,4912 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "2.",
+            "bbox": [
+              696,
+              4138,
+              762,
+              4193
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "Vertragsschluss",
+            "bbox": [
+              780,
+              4136,
+              1385,
+              4209
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        696,
+        4136,
+        1385,
+        4209
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "1.",
+            "bbox": [
+              742,
+              1089,
+              806,
+              1147
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Geltungsbereich",
+            "bbox": [
+              826,
+              1088,
+              1448,
+              1167
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        742,
+        1088,
+        1448,
+        1167
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "4.",
+            "bbox": [
+              2650,
+              3428,
+              2718,
+              3486
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "Lieferung",
+            "bbox": [
+              2740,
+              3428,
+              3095,
+              3502
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3112,
+              3434,
+              3250,
+              3492
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Versand",
+            "bbox": [
+              3267,
+              3434,
+              3573,
+              3494
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        2650,
+        3428,
+        3573,
+        3502
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "3.",
+            "bbox": [
+              2686,
+              1078,
+              2753,
+              1138
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "Preise",
+            "bbox": [
+              2776,
+              1080,
+              3007,
+              1144
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3026,
+              1086,
+              3167,
+              1146
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zahlungsbedingungen",
+            "bbox": [
+              3184,
+              1084,
+              4014,
+              1178
+            ],
+            "confidence": 91.0
+          }
+        ]
+      ],
+      "bbox": [
+        2686,
+        1078,
+        4014,
+        1178
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Allgemeine",
+            "bbox": [
+              740,
+              746,
+              1254,
+              846
+            ],
+            "confidence": 55.0
+          }
+        ],
+        [
+          {
+            "text": "Geschäftsbedingungen",
+            "bbox": [
+              1278,
+              756,
+              2318,
+              870
+            ],
+            "confidence": 92.0
+          }
+        ]
+      ],
+      "bbox": [
+        740,
+        746,
+        2318,
+        870
+      ]
+    }
+  ],
+  "Text": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Die",
+            "bbox": [
+              699,
+              4311,
+              806,
+              4369
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Präsentation",
+            "bbox": [
+              830,
+              4313,
+              1254,
+              4373
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1278,
+              4318,
+              1388,
+              4374
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Produkte",
+            "bbox": [
+              1410,
+              4320,
+              1710,
+              4378
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              1733,
+              4324,
+              1840,
+              4380
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1859,
+              4324,
+              1968,
+              4381
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Webseite",
+            "bbox": [
+              1986,
+              4326,
+              2303,
+              4384
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "https://www.winkler.com/",
+            "bbox": [
+              698,
+              4424,
+              1575,
+              4492
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "stellt",
+            "bbox": [
+              1594,
+              4434,
+              1762,
+              4490
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "kein",
+            "bbox": [
+              1785,
+              4435,
+              1916,
+              4491
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "rechtlich",
+            "bbox": [
+              1942,
+              4438,
+              2238,
+              4494
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "bindendes",
+            "bbox": [
+              696,
+              4534,
+              1050,
+              4594
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Angebot",
+            "bbox": [
+              1069,
+              4539,
+              1354,
+              4610
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "dar,",
+            "bbox": [
+              1374,
+              4542,
+              1494,
+              4608
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sondern",
+            "bbox": [
+              1520,
+              4546,
+              1794,
+              4602
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "lediglich",
+            "bbox": [
+              1821,
+              4546,
+              2102,
+              4618
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "eine",
+            "bbox": [
+              2126,
+              4550,
+              2266,
+              4606
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Aufforderung",
+            "bbox": [
+              690,
+              4649,
+              1138,
+              4719
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zur",
+            "bbox": [
+              1155,
+              4666,
+              1258,
+              4706
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Abgabe",
+            "bbox": [
+              1275,
+              4655,
+              1531,
+              4722
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "eines",
+            "bbox": [
+              1554,
+              4656,
+              1732,
+              4712
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Angebots.",
+            "bbox": [
+              1752,
+              4660,
+              2092,
+              4726
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Durch",
+            "bbox": [
+              2120,
+              4662,
+              2318,
+              4716
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Anklicken",
+            "bbox": [
+              690,
+              4758,
+              1015,
+              4817
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "des",
+            "bbox": [
+              1040,
+              4762,
+              1158,
+              4819
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Buttons",
+            "bbox": [
+              1184,
+              4764,
+              1444,
+              4822
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "„Jetzt",
+            "bbox": [
+              1469,
+              4766,
+              1654,
+              4832
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "kaufen“",
+            "bbox": [
+              1678,
+              4768,
+              1936,
+              4826
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "gibt",
+            "bbox": [
+              1958,
+              4771,
+              2082,
+              4842
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2104,
+              4772,
+              2214,
+              4829
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Kunde",
+            "bbox": [
+              694,
+              4870,
+              902,
+              4929
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              925,
+              4873,
+              1021,
+              4930
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "verbindliches",
+            "bbox": [
+              1043,
+              4875,
+              1501,
+              4935
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Angebot",
+            "bbox": [
+              1522,
+              4879,
+              1805,
+              4952
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zum",
+            "bbox": [
+              1824,
+              4898,
+              1964,
+              4939
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kauf",
+            "bbox": [
+              1992,
+              4884,
+              2140,
+              4942
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2160,
+              4886,
+              2270,
+              4944
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "im",
+            "bbox": [
+              692,
+              4985,
+              769,
+              5043
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Warenkorb",
+            "bbox": [
+              789,
+              4987,
+              1159,
+              5049
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "enthaltenen",
+            "bbox": [
+              1183,
+              4993,
+              1589,
+              5053
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Waren",
+            "bbox": [
+              1610,
+              4997,
+              1827,
+              5054
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ab.",
+            "bbox": [
+              1852,
+              4999,
+              1949,
+              5056
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Der",
+            "bbox": [
+              1976,
+              5000,
+              2094,
+              5057
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Vertrag",
+            "bbox": [
+              688,
+              5102,
+              928,
+              5174
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "kommt",
+            "bbox": [
+              950,
+              5104,
+              1185,
+              5162
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zustande,",
+            "bbox": [
+              1205,
+              5109,
+              1534,
+              5175
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wenn",
+            "bbox": [
+              1556,
+              5124,
+              1737,
+              5167
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1761,
+              5111,
+              1860,
+              5169
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              1886,
+              5112,
+              2210,
+              5172
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "dieses",
+            "bbox": [
+              690,
+              5216,
+              905,
+              5274
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Angebot",
+            "bbox": [
+              925,
+              5220,
+              1210,
+              5290
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "durch",
+            "bbox": [
+              1231,
+              5223,
+              1422,
+              5279
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "eine",
+            "bbox": [
+              1448,
+              5224,
+              1588,
+              5280
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Auftragsbestätigung",
+            "bbox": [
+              1607,
+              5226,
+              2292,
+              5300
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "per",
+            "bbox": [
+              691,
+              5344,
+              799,
+              5401
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "E-Mail",
+            "bbox": [
+              820,
+              5332,
+              1030,
+              5389
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "an",
+            "bbox": [
+              1051,
+              5347,
+              1128,
+              5390
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "cescheel@hotmail.de",
+            "bbox": [
+              1152,
+              5335,
+              1858,
+              5400
+            ],
+            "confidence": 20.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              1880,
+              5341,
+              2034,
+              5398
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "durch",
+            "bbox": [
+              2054,
+              5342,
+              2246,
+              5400
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Auslieferung",
+            "bbox": [
+              686,
+              5444,
+              1113,
+              5516
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1133,
+              5448,
+              1242,
+              5504
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ware",
+            "bbox": [
+              1258,
+              5448,
+              1433,
+              5506
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "innerhalb",
+            "bbox": [
+              1458,
+              5450,
+              1775,
+              5508
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              1795,
+              5466,
+              1913,
+              5510
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "fünf",
+            "bbox": [
+              1936,
+              5454,
+              2071,
+              5510
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Werktagen",
+            "bbox": [
+              684,
+              5556,
+              1046,
+              5626
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "annimmt.",
+            "bbox": [
+              1072,
+              5559,
+              1396,
+              5616
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        684,
+        4311,
+        2318,
+        5626
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die",
+            "bbox": [
+              2672,
+              2232,
+              2778,
+              2287
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bezahlung",
+            "bbox": [
+              2804,
+              2233,
+              3154,
+              2308
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "erfolgt",
+            "bbox": [
+              3173,
+              2239,
+              3390,
+              2311
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wahlweise",
+            "bbox": [
+              3408,
+              2243,
+              3766,
+              2302
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "per",
+            "bbox": [
+              3791,
+              2261,
+              3898,
+              2317
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Vorkasse,",
+            "bbox": [
+              3915,
+              2249,
+              4238,
+              2319
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "PayPal,",
+            "bbox": [
+              2670,
+              2344,
+              2908,
+              2415
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Lastschrift",
+            "bbox": [
+              2936,
+              2347,
+              3294,
+              2407
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3315,
+              2354,
+              3468,
+              2410
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kreditkarte.",
+            "bbox": [
+              3491,
+              2356,
+              3875,
+              2416
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bei",
+            "bbox": [
+              3902,
+              2362,
+              4001,
+              2418
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Auswahl",
+            "bbox": [
+              4021,
+              2364,
+              4314,
+              2422
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "der",
+            "bbox": [
+              2666,
+              2457,
+              2776,
+              2514
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zahlungsart",
+            "bbox": [
+              2794,
+              2458,
+              3195,
+              2532
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Vorkasse",
+            "bbox": [
+              3215,
+              2464,
+              3520,
+              2524
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nennt",
+            "bbox": [
+              3545,
+              2476,
+              3738,
+              2527
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3760,
+              2472,
+              3858,
+              2529
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              3884,
+              2474,
+              4208,
+              2534
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "die",
+            "bbox": [
+              2664,
+              2571,
+              2764,
+              2628
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bankverbindung",
+            "bbox": [
+              2788,
+              2573,
+              3338,
+              2648
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              3358,
+              2580,
+              3410,
+              2635
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              3436,
+              2582,
+              3545,
+              2636
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Auftragsbestätigung.",
+            "bbox": [
+              3562,
+              2584,
+              4264,
+              2662
+            ],
+            "confidence": 91.0
+          }
+        ],
+        [
+          {
+            "text": "Der",
+            "bbox": [
+              2666,
+              2685,
+              2782,
+              2740
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Rechnungsbetrag",
+            "bbox": [
+              2806,
+              2686,
+              3398,
+              2764
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              3420,
+              2694,
+              3496,
+              2750
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "innerhalb",
+            "bbox": [
+              3519,
+              2694,
+              3838,
+              2755
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              3858,
+              2714,
+              3975,
+              2756
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "7",
+            "bbox": [
+              3999,
+              2704,
+              4036,
+              2757
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Tagen",
+            "bbox": [
+              4056,
+              2702,
+              4248,
+              2774
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "auf",
+            "bbox": [
+              2662,
+              2799,
+              2768,
+              2853
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "das",
+            "bbox": [
+              2788,
+              2800,
+              2907,
+              2856
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "angegebene",
+            "bbox": [
+              2930,
+              2804,
+              3340,
+              2874
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Konto",
+            "bbox": [
+              3365,
+              2808,
+              3558,
+              2865
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              3580,
+              2824,
+              3652,
+              2868
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "überweisen.",
+            "bbox": [
+              3678,
+              2812,
+              4089,
+              2872
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Bei",
+            "bbox": [
+              4117,
+              2818,
+              4216,
+              2874
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Zahlungsverzug",
+            "bbox": [
+              2657,
+              2912,
+              3188,
+              2988
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              3209,
+              2918,
+              3286,
+              2976
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3305,
+              2920,
+              3404,
+              2978
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              3431,
+              2922,
+              3756,
+              2982
+            ],
+            "confidence": 90.0
+          },
+          {
+            "text": "berechtigt,",
+            "bbox": [
+              3782,
+              2921,
+              4142,
+              3005
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Verzugszinsen",
+            "bbox": [
+              2656,
+              3026,
+              3136,
+              3098
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              3162,
+              3031,
+              3215,
+              3088
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "gesetzlicher",
+            "bbox": [
+              3237,
+              3036,
+              3650,
+              3103
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Höhe",
+            "bbox": [
+              3674,
+              3039,
+              3850,
+              3097
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              3872,
+              3055,
+              3943,
+              3098
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "berechnen.",
+            "bbox": [
+              2658,
+              3139,
+              3040,
+              3198
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Weitere",
+            "bbox": [
+              3063,
+              3143,
+              3322,
+              3202
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ansprüche",
+            "bbox": [
+              3342,
+              3147,
+              3710,
+              3218
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bleiben",
+            "bbox": [
+              3736,
+              3151,
+              3982,
+              3209
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "vorbehalten.",
+            "bbox": [
+              2652,
+              3252,
+              3077,
+              3310
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        2652,
+        2232,
+        4314,
+        3310
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die",
+            "bbox": [
+              715,
+              2931,
+              820,
+              2989
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "AGB",
+            "bbox": [
+              840,
+              2933,
+              988,
+              2990
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "finden",
+            "bbox": [
+              1007,
+              2935,
+              1218,
+              2994
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Anwendung",
+            "bbox": [
+              1240,
+              2939,
+              1644,
+              3014
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              1665,
+              2946,
+              1770,
+              3001
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "alle",
+            "bbox": [
+              1789,
+              2946,
+              1908,
+              3004
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Angebote,",
+            "bbox": [
+              1927,
+              2948,
+              2268,
+              3020
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Lieferungen",
+            "bbox": [
+              714,
+              3045,
+              1106,
+              3124
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1132,
+              3053,
+              1254,
+              3110
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Leistungen,",
+            "bbox": [
+              1282,
+              3054,
+              1672,
+              3129
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1696,
+              3061,
+              1794,
+              3118
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              1819,
+              3064,
+              1972,
+              3121
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1992,
+              3065,
+              2090,
+              3124
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Internetseite",
+            "bbox": [
+              712,
+              3159,
+              1139,
+              3221
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "https://www.winkler.com/",
+            "bbox": [
+              1162,
+              3165,
+              2041,
+              3236
+            ],
+            "confidence": 90.0
+          }
+        ],
+        [
+          {
+            "text": "angeboten",
+            "bbox": [
+              708,
+              3276,
+              1064,
+              3342
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "werden.",
+            "bbox": [
+              1086,
+              3280,
+              1358,
+              3335
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Im",
+            "bbox": [
+              1385,
+              3281,
+              1464,
+              3337
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Einzelfall",
+            "bbox": [
+              1491,
+              3283,
+              1791,
+              3340
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "getroffene,",
+            "bbox": [
+              1810,
+              3289,
+              2174,
+              3355
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "individuelle",
+            "bbox": [
+              708,
+              3386,
+              1096,
+              3446
+            ],
+            "confidence": 88.0
+          },
+          {
+            "text": "Vereinbarungen",
+            "bbox": [
+              1115,
+              3392,
+              1649,
+              3466
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "mit",
+            "bbox": [
+              1676,
+              3398,
+              1782,
+              3454
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1804,
+              3400,
+              1913,
+              3456
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kundschaft",
+            "bbox": [
+              1936,
+              3401,
+              2319,
+              3460
+            ],
+            "confidence": 94.0
+          }
+        ],
+        [
+          {
+            "text": "(einschließlich",
+            "bbox": [
+              706,
+              3498,
+              1199,
+              3569
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Nebenabreden,",
+            "bbox": [
+              1226,
+              3506,
+              1749,
+              3577
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ergänzungen",
+            "bbox": [
+              1777,
+              3512,
+              2205,
+              3586
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2234,
+              3519,
+              2356,
+              3575
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Änderungen)",
+            "bbox": [
+              702,
+              3600,
+              1134,
+              3689
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "haben",
+            "bbox": [
+              1161,
+              3618,
+              1367,
+              3678
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Vorrang",
+            "bbox": [
+              1388,
+              3622,
+              1652,
+              3696
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "vor",
+            "bbox": [
+              1668,
+              3640,
+              1774,
+              3683
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "diesen",
+            "bbox": [
+              1793,
+              3628,
+              2014,
+              3686
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "AGB.",
+            "bbox": [
+              2035,
+              3630,
+              2198,
+              3688
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Für",
+            "bbox": [
+              2227,
+              3632,
+              2333,
+              3689
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "den",
+            "bbox": [
+              702,
+              3730,
+              824,
+              3786
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Nachweis",
+            "bbox": [
+              852,
+              3732,
+              1182,
+              3790
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "des",
+            "bbox": [
+              1206,
+              3736,
+              1322,
+              3792
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Inhalts",
+            "bbox": [
+              1347,
+              3736,
+              1574,
+              3796
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "einer",
+            "bbox": [
+              1598,
+              3740,
+              1767,
+              3797
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "solchen",
+            "bbox": [
+              1787,
+              3742,
+              2053,
+              3800
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Vereinbarung",
+            "bbox": [
+              699,
+              3842,
+              1153,
+              3917
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              1173,
+              3847,
+              1250,
+              3903
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "ein",
+            "bbox": [
+              1271,
+              3848,
+              1368,
+              3906
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "schriftlicher",
+            "bbox": [
+              1392,
+              3852,
+              1803,
+              3910
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Vertrag",
+            "bbox": [
+              1820,
+              3855,
+              2062,
+              3929
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              2082,
+              3858,
+              2234,
+              3916
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "eine",
+            "bbox": [
+              700,
+              3955,
+              840,
+              4013
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "schriftliche",
+            "bbox": [
+              863,
+              3958,
+              1244,
+              4018
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bestätigung",
+            "bbox": [
+              1268,
+              3962,
+              1668,
+              4038
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "erforderlich.",
+            "bbox": [
+              1686,
+              3967,
+              2100,
+              4027
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        699,
+        2931,
+        2356,
+        4038
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Alle",
+            "bbox": [
+              2681,
+              1257,
+              2808,
+              1314
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auf",
+            "bbox": [
+              2832,
+              1261,
+              2938,
+              1316
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2958,
+              1262,
+              3066,
+              1318
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Webseite",
+            "bbox": [
+              3083,
+              1264,
+              3400,
+              1325
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "angegebenen",
+            "bbox": [
+              3423,
+              1275,
+              3877,
+              1344
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Preise",
+            "bbox": [
+              3904,
+              1280,
+              4107,
+              1338
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "verstehen",
+            "bbox": [
+              2680,
+              1373,
+              3011,
+              1429
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              3036,
+              1376,
+              3171,
+              1432
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              3197,
+              1377,
+              3250,
+              1433
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Euro",
+            "bbox": [
+              3277,
+              1379,
+              3426,
+              1436
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3450,
+              1384,
+              3572,
+              1440
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "enthalten",
+            "bbox": [
+              3598,
+              1387,
+              3918,
+              1446
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3943,
+              1392,
+              4042,
+              1448
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gesetzliche",
+            "bbox": [
+              2680,
+              1485,
+              3062,
+              1551
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Mehrwertsteuer,",
+            "bbox": [
+              3087,
+              1489,
+              3636,
+              1562
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sofern",
+            "bbox": [
+              3662,
+              1500,
+              3872,
+              1556
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              3897,
+              1503,
+              4066,
+              1560
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "ausdrücklich",
+            "bbox": [
+              2679,
+              1599,
+              3115,
+              1659
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "etwas",
+            "bbox": [
+              3140,
+              1610,
+              3338,
+              1663
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "anderes",
+            "bbox": [
+              3360,
+              1610,
+              3632,
+              1668
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "vermerkt",
+            "bbox": [
+              3652,
+              1616,
+              3955,
+              1672
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ist.",
+            "bbox": [
+              3978,
+              1617,
+              4072,
+              1674
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Es",
+            "bbox": [
+              4100,
+              1620,
+              4174,
+              1676
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gelten",
+            "bbox": [
+              2676,
+              1712,
+              2880,
+              1780
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              2904,
+              1714,
+              3004,
+              1772
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zum",
+            "bbox": [
+              3024,
+              1730,
+              3164,
+              1774
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zeitpunkt",
+            "bbox": [
+              3185,
+              1719,
+              3506,
+              1790
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              3528,
+              1725,
+              3638,
+              1782
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bestellung",
+            "bbox": [
+              3660,
+              1726,
+              4015,
+              1803
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "aufgeführten",
+            "bbox": [
+              2676,
+              1824,
+              3104,
+              1896
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Preise.",
+            "bbox": [
+              3131,
+              1830,
+              3352,
+              1888
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "Versandkosten",
+            "bbox": [
+              3374,
+              1833,
+              3878,
+              1898
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "werden",
+            "bbox": [
+              3898,
+              1846,
+              4148,
+              1903
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gesondert",
+            "bbox": [
+              2672,
+              1941,
+              3014,
+              2008
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "berechnet",
+            "bbox": [
+              3036,
+              1942,
+              3381,
+              2004
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3403,
+              1950,
+              3524,
+              2006
+            ],
+            "confidence": 97.0
+          },
+          {
+            "text": "sind",
+            "bbox": [
+              3550,
+              1952,
+              3687,
+              2008
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "vor",
+            "bbox": [
+              3710,
+              1967,
+              3816,
+              2009
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Abgabe",
+            "bbox": [
+              3831,
+              1956,
+              4086,
+              2026
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              4108,
+              1960,
+              4218,
+              2016
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Bestellung",
+            "bbox": [
+              2674,
+              2052,
+              3030,
+              2126
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "ersichtlich.",
+            "bbox": [
+              3050,
+              2058,
+              3426,
+              2118
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        2672,
+        1257,
+        4218,
+        2126
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Diese",
+            "bbox": [
+              740,
+              1265,
+              925,
+              1324
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Allgemeinen",
+            "bbox": [
+              945,
+              1269,
+              1366,
+              1341
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Geschäftsbedingungen",
+            "bbox": [
+              1392,
+              1278,
+              2178,
+              1361
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "(AGB)",
+            "bbox": [
+              2204,
+              1293,
+              2392,
+              1365
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gelten",
+            "bbox": [
+              734,
+              1380,
+              938,
+              1450
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              960,
+              1382,
+              1054,
+              1439
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "alle",
+            "bbox": [
+              1073,
+              1385,
+              1192,
+              1443
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Geschäftsbeziehungen",
+            "bbox": [
+              1216,
+              1387,
+              1994,
+              1470
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "zwischen",
+            "bbox": [
+              2018,
+              1404,
+              2332,
+              1463
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "der",
+            "bbox": [
+              734,
+              1492,
+              844,
+              1548
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum,",
+            "bbox": [
+              866,
+              1494,
+              1211,
+              1564
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "Röhrichtstraße",
+            "bbox": [
+              1240,
+              1501,
+              1739,
+              1565
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "23,",
+            "bbox": [
+              1761,
+              1512,
+              1860,
+              1576
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "51663",
+            "bbox": [
+              1885,
+              1514,
+              2092,
+              1570
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Miltenberg,",
+            "bbox": [
+              734,
+              1608,
+              1109,
+              1684
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Belgien,",
+            "bbox": [
+              1136,
+              1614,
+              1402,
+              1688
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1428,
+              1622,
+              1551,
+              1678
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ihren",
+            "bbox": [
+              1578,
+              1622,
+              1742,
+              1681
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kundinnen",
+            "bbox": [
+              1769,
+              1626,
+              2127,
+              1688
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2153,
+              1634,
+              2276,
+              1692
+            ],
+            "confidence": 95.0
+          }
+        ],
+        [
+          {
+            "text": "Kunden.",
+            "bbox": [
+              732,
+              1722,
+              1004,
+              1782
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Maßgeblich",
+            "bbox": [
+              1033,
+              1728,
+              1420,
+              1802
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              1446,
+              1734,
+              1523,
+              1792
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "jeweils",
+            "bbox": [
+              1538,
+              1734,
+              1774,
+              1807
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1797,
+              1742,
+              1896,
+              1800
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "zum",
+            "bbox": [
+              1916,
+              1758,
+              2056,
+              1802
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Zeitpunkt",
+            "bbox": [
+              726,
+              1837,
+              1047,
+              1910
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "des",
+            "bbox": [
+              1068,
+              1844,
+              1186,
+              1902
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Vertragsschlusses",
+            "bbox": [
+              1206,
+              1846,
+              1825,
+              1920
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "gültige",
+            "bbox": [
+              1845,
+              1860,
+              2069,
+              1930
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Fassung.",
+            "bbox": [
+              729,
+              1952,
+              1025,
+              2025
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Abweichende",
+            "bbox": [
+              1047,
+              1958,
+              1510,
+              2020
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Bedingungen",
+            "bbox": [
+              1536,
+              1964,
+              1972,
+              2041
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              1996,
+              1972,
+              2106,
+              2029
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Kundinnen",
+            "bbox": [
+              727,
+              2067,
+              1084,
+              2128
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1110,
+              2074,
+              1233,
+              2131
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              1260,
+              2076,
+              1512,
+              2136
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "werden",
+            "bbox": [
+              1532,
+              2081,
+              1782,
+              2140
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              1808,
+              2083,
+              1976,
+              2144
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "anerkannt,",
+            "bbox": [
+              1998,
+              2090,
+              2358,
+              2158
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "es",
+            "bbox": [
+              723,
+              2196,
+              796,
+              2239
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sei",
+            "bbox": [
+              818,
+              2184,
+              909,
+              2240
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "denn,",
+            "bbox": [
+              933,
+              2186,
+              1122,
+              2254
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              1148,
+              2189,
+              1248,
+              2246
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              1272,
+              2190,
+              1596,
+              2251
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "stimmt",
+            "bbox": [
+              1621,
+              2197,
+              1862,
+              2256
+            ],
+            "confidence": 39.0
+          },
+          {
+            "text": "ihrer",
+            "bbox": [
+              1884,
+              2200,
+              2036,
+              2259
+            ],
+            "confidence": 39.0
+          },
+          {
+            "text": "Geltung",
+            "bbox": [
+              2056,
+              2202,
+              2324,
+              2277
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "ausdrücklich",
+            "bbox": [
+              721,
+              2297,
+              1157,
+              2359
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "schriftlich",
+            "bbox": [
+              1182,
+              2304,
+              1519,
+              2364
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu.",
+            "bbox": [
+              1542,
+              2322,
+              1635,
+              2366
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Diese",
+            "bbox": [
+              1663,
+              2311,
+              1850,
+              2369
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "AGB",
+            "bbox": [
+              1869,
+              2314,
+              2014,
+              2370
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "gelten",
+            "bbox": [
+              2036,
+              2318,
+              2240,
+              2385
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Sowohl",
+            "bbox": [
+              720,
+              2413,
+              961,
+              2468
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "gegenüber",
+            "bbox": [
+              980,
+              2418,
+              1339,
+              2485
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Verbraucherinnen",
+            "bbox": [
+              1356,
+              2420,
+              1964,
+              2484
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1990,
+              2430,
+              2114,
+              2486
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Verbrauchern",
+            "bbox": [
+              716,
+              2524,
+              1174,
+              2588
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              1200,
+              2530,
+              1276,
+              2588
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sinne",
+            "bbox": [
+              1300,
+              2532,
+              1488,
+              2592
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "des",
+            "bbox": [
+              1512,
+              2536,
+              1630,
+              2594
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "8",
+            "bbox": [
+              1651,
+              2538,
+              1684,
+              2594
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "13",
+            "bbox": [
+              1709,
+              2540,
+              1784,
+              2596
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "BGB",
+            "bbox": [
+              1808,
+              2540,
+              1952,
+              2596
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "als",
+            "bbox": [
+              1974,
+              2544,
+              2070,
+              2600
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              2092,
+              2546,
+              2256,
+              2602
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "gegenüber",
+            "bbox": [
+              715,
+              2640,
+              1073,
+              2709
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Unternehmerinnen",
+            "bbox": [
+              1095,
+              2642,
+              1734,
+              2707
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              1760,
+              2654,
+              1883,
+              2710
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Unternehmern",
+            "bbox": [
+              718,
+              2750,
+              1208,
+              2814
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "im",
+            "bbox": [
+              1234,
+              2757,
+              1312,
+              2816
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sinne",
+            "bbox": [
+              1334,
+              2759,
+              1523,
+              2820
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "des",
+            "bbox": [
+              1546,
+              2764,
+              1664,
+              2822
+            ],
+            "confidence": 94.0
+          },
+          {
+            "text": "8",
+            "bbox": [
+              1686,
+              2766,
+              1717,
+              2822
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "14",
+            "bbox": [
+              1743,
+              2768,
+              1819,
+              2822
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "BGB.",
+            "bbox": [
+              1842,
+              2768,
+              2003,
+              2825
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        715,
+        1265,
+        2392,
+        2825
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "erfolgt",
+            "bbox": [
+              3118,
+              3610,
+              3334,
+              3684
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "an",
+            "bbox": [
+              3354,
+              3627,
+              3432,
+              3668
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "vom",
+            "bbox": [
+              3575,
+              3630,
+              3718,
+              3672
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              3744,
+              3617,
+              3994,
+              3676
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "angegebene",
+            "bbox": [
+              2650,
+              3724,
+              3062,
+              3793
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Adresse.",
+            "bbox": [
+              3080,
+              3726,
+              3371,
+              3784
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Die",
+            "bbox": [
+              3398,
+              3728,
+              3504,
+              3786
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              3530,
+              3730,
+              3855,
+              3790
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              3882,
+              3734,
+              3958,
+              3791
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bemüht,",
+            "bbox": [
+              3980,
+              3736,
+              4260,
+              3802
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "die",
+            "bbox": [
+              2649,
+              3835,
+              2748,
+              3891
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bestellten",
+            "bbox": [
+              2773,
+              3836,
+              3104,
+              3894
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Waren",
+            "bbox": [
+              3125,
+              3840,
+              3342,
+              3896
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "innerhalb",
+            "bbox": [
+              3368,
+              3842,
+              3686,
+              3901
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              3710,
+              3846,
+              3819,
+              3902
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "angegebenen",
+            "bbox": [
+              3840,
+              3850,
+              4292,
+              3919
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Lieferzeit",
+            "bbox": [
+              2650,
+              3948,
+              2954,
+              4007
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              2974,
+              3965,
+              3046,
+              4008
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "versenden.",
+            "bbox": [
+              3066,
+              3955,
+              3441,
+              4011
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Teillieferungen",
+            "bbox": [
+              3461,
+              3956,
+              3955,
+              4032
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sind",
+            "bbox": [
+              3980,
+              3963,
+              4117,
+              4021
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "zulässig,",
+            "bbox": [
+              2645,
+              4062,
+              2936,
+              4136
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sofern",
+            "bbox": [
+              2962,
+              4066,
+              3170,
+              4121
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sie",
+            "bbox": [
+              3195,
+              4068,
+              3288,
+              4123
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "für",
+            "bbox": [
+              3308,
+              4069,
+              3402,
+              4125
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "den",
+            "bbox": [
+              3421,
+              4070,
+              3543,
+              4126
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              3570,
+              4071,
+              3822,
+              4130
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zumutbar",
+            "bbox": [
+              3843,
+              4078,
+              4171,
+              4135
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "sind.",
+            "bbox": [
+              2645,
+              4176,
+              2805,
+              4232
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Die",
+            "bbox": [
+              2834,
+              4178,
+              2940,
+              4234
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zusätzlichen",
+            "bbox": [
+              2961,
+              4180,
+              3384,
+              4238
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Versandkosten",
+            "bbox": [
+              3406,
+              4184,
+              3908,
+              4243
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "übernimmt",
+            "bbox": [
+              2646,
+              4288,
+              3020,
+              4346
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              3044,
+              4290,
+              3096,
+              4346
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "diesem",
+            "bbox": [
+              3122,
+              4291,
+              3365,
+              4348
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Fall",
+            "bbox": [
+              3392,
+              4294,
+              3508,
+              4350
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3530,
+              4295,
+              3628,
+              4352
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum.",
+            "bbox": [
+              3654,
+              4296,
+              3999,
+              4355
+            ],
+            "confidence": 92.0
+          }
+        ]
+      ],
+      "bbox": [
+        2645,
+        3610,
+        4292,
+        4355
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sollte",
+            "bbox": [
+              2642,
+              4462,
+              2832,
+              4518
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              2856,
+              4464,
+              2954,
+              4518
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ware",
+            "bbox": [
+              2974,
+              4465,
+              3148,
+              4520
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              3173,
+              4467,
+              3340,
+              4522
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "verfügbar",
+            "bbox": [
+              3358,
+              4470,
+              3680,
+              4538
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "sein,",
+            "bbox": [
+              3700,
+              4472,
+              3858,
+              4536
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wird",
+            "bbox": [
+              3879,
+              4474,
+              4021,
+              4528
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              4046,
+              4476,
+              4144,
+              4530
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              2644,
+              4572,
+              2968,
+              4630
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "den",
+            "bbox": [
+              2994,
+              4576,
+              3114,
+              4631
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Kunden",
+            "bbox": [
+              3142,
+              4576,
+              3392,
+              4634
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unverzüglich",
+            "bbox": [
+              3418,
+              4582,
+              3843,
+              4652
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "informieren",
+            "bbox": [
+              3870,
+              4583,
+              4256,
+              4644
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "und",
+            "bbox": [
+              2642,
+              4684,
+              2764,
+              4738
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ggf.",
+            "bbox": [
+              2788,
+              4684,
+              2902,
+              4754
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "bereits",
+            "bbox": [
+              2930,
+              4685,
+              3157,
+              4742
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "erhaltene",
+            "bbox": [
+              3180,
+              4688,
+              3500,
+              4745
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Zahlungen",
+            "bbox": [
+              3520,
+              4690,
+              3875,
+              4762
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "zurückerstatten.",
+            "bbox": [
+              2638,
+              4798,
+              3190,
+              4855
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "Lieferverzögerungen",
+            "bbox": [
+              3218,
+              4802,
+              3900,
+              4874
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "aufgrund",
+            "bbox": [
+              3924,
+              4807,
+              4222,
+              4876
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "höherer",
+            "bbox": [
+              2640,
+              4910,
+              2904,
+              4967
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Gewalt",
+            "bbox": [
+              2924,
+              4912,
+              3162,
+              4970
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              3184,
+              4915,
+              3306,
+              4971
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "aufgrund",
+            "bbox": [
+              3331,
+              4917,
+              3629,
+              4987
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              3652,
+              4931,
+              3769,
+              4974
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Ereignissen,",
+            "bbox": [
+              3796,
+              4920,
+              4200,
+              4991
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "die",
+            "bbox": [
+              2638,
+              5023,
+              2736,
+              5080
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2760,
+              5025,
+              2870,
+              5081
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              2893,
+              5026,
+              3216,
+              5084
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3241,
+              5028,
+              3340,
+              5085
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Lieferung",
+            "bbox": [
+              3365,
+              5029,
+              3677,
+              5103
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wesentlich",
+            "bbox": [
+              3694,
+              5034,
+              4063,
+              5091
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "erschweren",
+            "bbox": [
+              2638,
+              5139,
+              3030,
+              5198
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "oder",
+            "bbox": [
+              3054,
+              5142,
+              3207,
+              5199
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unmöglich",
+            "bbox": [
+              3229,
+              5144,
+              3583,
+              5214
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "machen",
+            "bbox": [
+              3610,
+              5148,
+              3880,
+              5205
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "-",
+            "bbox": [
+              3901,
+              5179,
+              3942,
+              5188
+            ],
+            "confidence": 73.0
+          },
+          {
+            "text": "hierzu",
+            "bbox": [
+              3961,
+              5149,
+              4160,
+              5207
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "zählen",
+            "bbox": [
+              2636,
+              5252,
+              2856,
+              5308
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "insbesondere",
+            "bbox": [
+              2882,
+              5253,
+              3340,
+              5310
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Streik,",
+            "bbox": [
+              3362,
+              5256,
+              3572,
+              5321
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "behördliche",
+            "bbox": [
+              3598,
+              5258,
+              4003,
+              5315
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Anordnungen,",
+            "bbox": [
+              2633,
+              5364,
+              3111,
+              5436
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Pandemie,",
+            "bbox": [
+              3138,
+              5366,
+              3490,
+              5434
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "etc.",
+            "bbox": [
+              3516,
+              5374,
+              3636,
+              5426
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "—",
+            "bbox": [
+              3658,
+              5403,
+              3698,
+              5412
+            ],
+            "confidence": 52.0
+          },
+          {
+            "text": "hat",
+            "bbox": [
+              3718,
+              5371,
+              3822,
+              5428
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "die",
+            "bbox": [
+              3842,
+              5372,
+              3942,
+              5428
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              2638,
+              5476,
+              2962,
+              5534
+            ],
+            "confidence": 86.0
+          },
+          {
+            "text": "auch",
+            "bbox": [
+              2988,
+              5480,
+              3150,
+              5536
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "bei",
+            "bbox": [
+              3178,
+              5479,
+              3273,
+              5536
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "verbindlich",
+            "bbox": [
+              3293,
+              5482,
+              3670,
+              5538
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "vereinbarten",
+            "bbox": [
+              3692,
+              5484,
+              4118,
+              5542
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Fristen",
+            "bbox": [
+              2638,
+              5587,
+              2862,
+              5645
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "und",
+            "bbox": [
+              2889,
+              5590,
+              3010,
+              5646
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Terminen",
+            "bbox": [
+              3032,
+              5590,
+              3344,
+              5647
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              3370,
+              5592,
+              3538,
+              5650
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zu",
+            "bbox": [
+              3556,
+              5609,
+              3628,
+              5650
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "vertreten.",
+            "bbox": [
+              3650,
+              5600,
+              3975,
+              5652
+            ],
+            "confidence": 95.0
+          }
+        ]
+      ],
+      "bbox": [
+        2633,
+        4462,
+        4256,
+        5652
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Die",
+            "bbox": [
+              689,
+              5736,
+              796,
+              5789
+            ],
+            "confidence": 93.0
+          },
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              820,
+              5736,
+              1144,
+              5792
+            ],
+            "confidence": 92.0
+          },
+          {
+            "text": "behält",
+            "bbox": [
+              1172,
+              5738,
+              1384,
+              5794
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "sich",
+            "bbox": [
+              1405,
+              5740,
+              1540,
+              5794
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "vor,",
+            "bbox": [
+              1562,
+              5754,
+              1678,
+              5806
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Angebote",
+            "bbox": [
+              1699,
+              5742,
+              2023,
+              5812
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ohne",
+            "bbox": [
+              2046,
+              5743,
+              2212,
+              5799
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Angabe",
+            "bbox": [
+              684,
+              5846,
+              937,
+              5918
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              956,
+              5862,
+              1074,
+              5904
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Gründen",
+            "bbox": [
+              1100,
+              5849,
+              1392,
+              5907
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "abzulehnen.",
+            "bbox": [
+              1416,
+              5851,
+              1831,
+              5910
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Der",
+            "bbox": [
+              1860,
+              5856,
+              1976,
+              5911
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Vertragsschluss",
+            "bbox": [
+              684,
+              5960,
+              1221,
+              6030
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "erfolgt",
+            "bbox": [
+              1244,
+              5965,
+              1460,
+              6035
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ausschließlich",
+            "bbox": [
+              1482,
+              5967,
+              1973,
+              6024
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1998,
+              5968,
+              2051,
+              6024
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "deutscher",
+            "bbox": [
+              685,
+              6073,
+              1030,
+              6131
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sprache.",
+            "bbox": [
+              1049,
+              6074,
+              1344,
+              6146
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Der",
+            "bbox": [
+              1372,
+              6077,
+              1489,
+              6134
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Vertragstext",
+            "bbox": [
+              1506,
+              6078,
+              1910,
+              6150
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wird",
+            "bbox": [
+              1928,
+              6081,
+              2070,
+              6138
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              2092,
+              6094,
+              2208,
+              6138
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2234,
+              6082,
+              2344,
+              6139
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Birnbaum",
+            "bbox": [
+              688,
+              6187,
+              1012,
+              6245
+            ],
+            "confidence": 89.0
+          },
+          {
+            "text": "gespeichert,",
+            "bbox": [
+              1035,
+              6190,
+              1454,
+              6260
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ist",
+            "bbox": [
+              1482,
+              6192,
+              1558,
+              6248
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "jedoch",
+            "bbox": [
+              1597,
+              6183,
+              1800,
+              6266
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "aus",
+            "bbox": [
+              1830,
+              6208,
+              1947,
+              6250
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        684,
+        5736,
+        2344,
+        6266
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Sicherheitsgründen",
+            "bbox": [
+              2692,
+              787,
+              3354,
+              864
+            ],
+            "confidence": 91.0
+          },
+          {
+            "text": "nicht",
+            "bbox": [
+              3380,
+              799,
+              3548,
+              858
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "unmittelbar",
+            "bbox": [
+              3570,
+              804,
+              3966,
+              867
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "über",
+            "bbox": [
+              3987,
+              810,
+              4139,
+              872
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "das",
+            "bbox": [
+              4159,
+              814,
+              4278,
+              876
+            ],
+            "confidence": 96.0
+          }
+        ],
+        [
+          {
+            "text": "Internet",
+            "bbox": [
+              2693,
+              900,
+              2958,
+              961
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zugänglich.",
+            "bbox": [
+              2976,
+              910,
+              3358,
+              980
+            ],
+            "confidence": 94.0
+          }
+        ]
+      ],
+      "bbox": [
+        2692,
+        787,
+        4278,
+        980
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Vertragsschluss",
+            "bbox": [
+              684,
+              5960,
+              1221,
+              6030
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "erfolgt",
+            "bbox": [
+              1244,
+              5965,
+              1460,
+              6035
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "ausschließlich",
+            "bbox": [
+              1482,
+              5967,
+              1973,
+              6024
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "in",
+            "bbox": [
+              1998,
+              5968,
+              2051,
+              6024
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        684,
+        5960,
+        2051,
+        6035
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "deutscher",
+            "bbox": [
+              685,
+              6073,
+              1030,
+              6131
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "Sprache.",
+            "bbox": [
+              1049,
+              6074,
+              1344,
+              6146
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Der",
+            "bbox": [
+              1372,
+              6077,
+              1489,
+              6134
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "Vertragstext",
+            "bbox": [
+              1506,
+              6078,
+              1910,
+              6150
+            ],
+            "confidence": 95.0
+          },
+          {
+            "text": "wird",
+            "bbox": [
+              1928,
+              6081,
+              2070,
+              6138
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "von",
+            "bbox": [
+              2092,
+              6094,
+              2208,
+              6138
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "der",
+            "bbox": [
+              2234,
+              6082,
+              2344,
+              6139
+            ],
+            "confidence": 96.0
+          }
+        ]
+      ],
+      "bbox": [
+        685,
+        6073,
+        2344,
+        6150
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "Internet",
+            "bbox": [
+              2693,
+              900,
+              2958,
+              961
+            ],
+            "confidence": 96.0
+          },
+          {
+            "text": "zugänglich.",
+            "bbox": [
+              2976,
+              910,
+              3358,
+              980
+            ],
+            "confidence": 94.0
+          }
+        ]
+      ],
+      "bbox": [
+        2693,
+        900,
+        3358,
+        980
+      ]
+    }
+  ],
+  "Title": [],
+  "unmatched": [
+    {
+      "text": "(AGB)",
+      "bbox": [
+        748,
+        890,
+        996,
+        980
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Die",
+      "bbox": [
+        2654,
+        3605,
+        2760,
+        3662
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Lieferung",
+      "bbox": [
+        2786,
+        3606,
+        3098,
+        3682
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "die",
+      "bbox": [
+        3456,
+        3613,
+        3555,
+        3671
+      ],
+      "confidence": 96.0
+    }
+  ]
+}
